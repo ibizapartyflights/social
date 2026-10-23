@@ -1,0 +1,12 @@
+[
+ {"type":"blocks","kicker":"POV","title":"Every group on the early flight to Ibiza ✈️","sub":"Tag your crew 👇",
+  "chars":[{"x":-52,"y":52,"shirt":"#E8582A"},{"x":-17,"y":17,"shirt":"#7B4DD8","hair":"#E3B341"},{"x":17,"y":-17,"shirt":"#2BB673","shades":true},{"x":52,"y":-52,"shirt":"#F2F2F2","hat":"#E8582A","hair":"#1E1E1E"}]},
+ {"type":"blocks","kicker":"#1","title":"The one who's been awake since 3am","sub":"“I'll sleep on the plane” 😵‍💫","chars":[{"x":-10,"y":-10,"shirt":"#E8582A"}],
+  "props":[{"x":30,"y":-30,"w":16,"d":12,"h":22,"c":"#3A3A3A"}]},
+ {"type":"blocks","kicker":"#2","title":"6 outfits for 4 nights","sub":"Hand luggage? Never heard of it 🧳","chars":[{"x":-30,"y":0,"shirt":"#7B4DD8","hair":"#E3B341"}],
+  "props":[{"x":20,"y":10,"w":34,"d":20,"h":56,"c":"#FF8A5C"},{"x":20,"y":10,"z":56,"w":34,"d":20,"h":6,"c":"#0E1726"}]},
+ {"type":"blocks","kicker":"#3","title":"Sunnies on at the gate","sub":"It's 6am in Stansted, mate 😎","chars":[{"x":-10,"y":-10,"shirt":"#2BB673","shades":true}]},
+ {"type":"blocks","kicker":"#4","title":"The one who booked the transfer","sub":"Absolute legend. Be this one 🚐","chars":[{"x":-40,"y":10,"shirt":"#F2F2F2","hat":"#E8582A","hair":"#1E1E1E"}],
+  "props":[{"x":10,"y":-20,"w":70,"d":34,"h":40,"c":"#F2F2F2"},{"x":10,"y":-20,"z":40,"w":44,"d":34,"h":22,"c":"#5FC3E4"},{"x":14,"y":14,"w":12,"d":2,"h":12,"c":"#222222"},{"x":60,"y":14,"w":12,"d":2,"h":12,"c":"#222222"}]},
+ {"type":"cta","title":"Which one are you? 👇","sub":"Tag the mate who never books the transfer"}
+]

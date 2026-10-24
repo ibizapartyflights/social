@@ -1,0 +1,8 @@
+[
+ {"type":"hook","bg":"N","fg":"S","acc":"O","img":"barcos_mar","lines":["Every","mate on","a boat","day 🚤"],"fs":170,"top":170,"sub":"Which one are you? 👇","subTop":910,"vert":"Ibiza boat day — tag your crew","dur":1.7},
+ {"img":"barco_grupo","kicker":"#1","title":"The one who brought the speaker","sub":"…and a 47-song playlist 🔊","dur":2.0},
+ {"img":"mar_nadando","kicker":"#2","kbg":"C","kfg":"N","title":"First one in the water","sub":"“It’s not even cold!” (it is) 🥶","dur":2.0},
+ {"img":"islas_mar","kicker":"#3","kbg":"S","kfg":"N","title":"The one with the SPF 50","sub":"Reapplying for the whole group ☀️","dur":2.0},
+ {"img":"barco_atardecer","kicker":"#4","kbg":"P","title":"The sunset photographer","sub":"400 photos, 1 keeper 📸","dur":2.0},
+ {"type":"cta","bg":"C","fg":"N","acc":"S","title":"Which one<br>are you?","sub":"Tag your boat crew 👇","fs":130,"subTop":520,"dur":2.8}
+]

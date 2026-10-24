@@ -12,3 +12,6 @@
 - Ibiza on a budget 5 tips
 - 2026-10-23 · 4 Ibiza myths Brits still believe (myths vs reality) — reel_myths_vs_reality.mp4
 - 2026-10-23 · POV: every group on the early flight to Ibiza (personajes de bloques) — reel_early_flight_group.mp4
+- 2026-10-24 · Every mate on an Ibiza boat day (tipos de amigos, fotos barcos) — reel_boat_mates.mp4 / _tiktok
+- 2026-10-24 · 4 Ibiza facts no one tells you (Eivissa, Dalt Vila UNESCO 1999, Posidonia, Formentera) — reel_ibiza_facts.mp4 / _tiktok
+- 2026-10-24 · First night in Ibiza? 4 rookie mistakes (bloques; taxi/transfer, nunca conducir) — reel_first_night.mp4 / _tiktok

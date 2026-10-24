@@ -1,0 +1,110 @@
+[
+ {
+  "type": "hook",
+  "bg": "O",
+  "fg": "N",
+  "acc": "S",
+  "wave": "N",
+  "lines": [
+   "Ibiza",
+   "facts",
+   "no one",
+   "tells you"
+  ],
+  "fs": 165,
+  "top": 200,
+  "sub": "Save this 📌",
+  "subTop": 960,
+  "vert": "4 things most Brits don't know",
+  "dur": 1.7
+ },
+ {
+  "img": "es_vedra_2",
+  "kicker": "Fact #1",
+  "title": "Locals call it Eivissa",
+  "sub": "That’s its Catalan name 🗣️",
+  "dur": 2.1
+ },
+ {
+  "type": "blocks",
+  "bg": "S",
+  "wave": "#E8582A33",
+  "kicker": "Fact #2",
+  "kbg": "N",
+  "title": "The old town is UNESCO-listed",
+  "tc": "N",
+  "sub": "Dalt Vila, since 1999 🏰",
+  "sbg": "O",
+  "dur": 2.2,
+  "chars": [
+   {
+    "x": 40,
+    "y": 60,
+    "shirt": "#E8582A",
+    "hat": "#0E1726"
+   }
+  ],
+  "propsBack": [
+   {
+    "x": -60,
+    "y": -60,
+    "w": 40,
+    "d": 40,
+    "h": 90,
+    "c": "#E9D2A8"
+   },
+   {
+    "x": -20,
+    "y": -60,
+    "w": 80,
+    "d": 16,
+    "h": 60,
+    "c": "#E9D2A8"
+   },
+   {
+    "x": 60,
+    "y": -60,
+    "w": 40,
+    "d": 40,
+    "h": 90,
+    "c": "#E9D2A8"
+   },
+   {
+    "x": -60,
+    "y": -20,
+    "w": 16,
+    "d": 60,
+    "h": 60,
+    "c": "#E9D2A8"
+   }
+  ]
+ },
+ {
+  "img": "mar_nadando",
+  "kicker": "Fact #3",
+  "kbg": "C",
+  "kfg": "N",
+  "title": "That clear water? Thank the seagrass",
+  "sub": "Posidonia meadows are UNESCO-protected too 🌊",
+  "dur": 2.3
+ },
+ {
+  "img": "islas_mar",
+  "kicker": "Fact #4",
+  "kbg": "P",
+  "title": "Formentera is right next door",
+  "sub": "An easy ferry day trip from Ibiza ⛴️",
+  "dur": 2.1
+ },
+ {
+  "type": "cta",
+  "bg": "N",
+  "fg": "S",
+  "acc": "O",
+  "title": "Which one<br>did you know?",
+  "sub": "Comment the number 👇",
+  "fs": 120,
+  "subTop": 520,
+  "dur": 2.8
+ }
+]

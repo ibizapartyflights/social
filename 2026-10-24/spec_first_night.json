@@ -1,0 +1,186 @@
+[
+ {
+  "type": "hook",
+  "bg": "C",
+  "fg": "N",
+  "acc": "P",
+  "wave": "N",
+  "lines": [
+   "First",
+   "night",
+   "in Ibi-",
+   "za?"
+  ],
+  "fs": 180,
+  "top": 180,
+  "sub": "Don’t make these 4 mistakes 🙅",
+  "subTop": 960,
+  "vert": "Rookie errors — first-timers edition",
+  "dur": 1.7
+ },
+ {
+  "type": "blocks",
+  "bg": "N",
+  "wave": "#4FE3FF33",
+  "kicker": "Mistake #1",
+  "title": "Turning up at 10pm",
+  "sub": "Most clubs get busy well after midnight 🕛",
+  "dur": 2.1,
+  "chars": [
+   {
+    "x": -10,
+    "y": -10,
+    "shirt": "#E8582A",
+    "shades": true
+   }
+  ],
+  "props": [
+   {
+    "x": 40,
+    "y": -40,
+    "w": 12,
+    "d": 12,
+    "h": 70,
+    "c": "#4FE3FF"
+   }
+  ]
+ },
+ {
+  "type": "blocks",
+  "bg": "O",
+  "wave": "#0E172633",
+  "kicker": "Mistake #2",
+  "kbg": "N",
+  "title": "No plan to get home",
+  "sub": "Book a taxi or transfer. Never drink &amp; drive 🚕",
+  "dur": 2.3,
+  "chars": [
+   {
+    "x": -50,
+    "y": 20,
+    "shirt": "#7B4DD8",
+    "hair": "#E3B341"
+   }
+  ],
+  "props": [
+   {
+    "x": 10,
+    "y": -20,
+    "w": 70,
+    "d": 34,
+    "h": 34,
+    "c": "#FFD23F"
+   },
+   {
+    "x": 22,
+    "y": -20,
+    "z": 34,
+    "w": 40,
+    "d": 34,
+    "h": 20,
+    "c": "#5FC3E4"
+   },
+   {
+    "x": 14,
+    "y": 14,
+    "w": 12,
+    "d": 2,
+    "h": 12,
+    "c": "#222222"
+   },
+   {
+    "x": 60,
+    "y": 14,
+    "w": 12,
+    "d": 2,
+    "h": 12,
+    "c": "#222222"
+   }
+  ]
+ },
+ {
+  "type": "blocks",
+  "bg": "S",
+  "wave": "#E8582A33",
+  "kicker": "Mistake #3",
+  "kbg": "P",
+  "title": "Brand-new shoes",
+  "tc": "N",
+  "sub": "Your feet will file a complaint 👟",
+  "dur": 2.0,
+  "chars": [
+   {
+    "x": -10,
+    "y": -10,
+    "shirt": "#2BB673"
+   }
+  ],
+  "props": [
+   {
+    "x": -7,
+    "y": -6,
+    "w": 13,
+    "d": 16,
+    "h": 7,
+    "c": "#FF3D8B"
+   },
+   {
+    "x": 7,
+    "y": -6,
+    "w": 13,
+    "d": 16,
+    "h": 7,
+    "c": "#FF3D8B"
+   }
+  ]
+ },
+ {
+  "type": "blocks",
+  "bg": "P",
+  "wave": "#0E172633",
+  "kicker": "Mistake #4",
+  "kbg": "N",
+  "title": "Phone on 4%",
+  "sub": "Pack a power bank 🔋",
+  "dur": 2.0,
+  "chars": [
+   {
+    "x": -30,
+    "y": 0,
+    "shirt": "#0E1726",
+    "hat": "#4FE3FF",
+    "hair": "#1E1E1E"
+   }
+  ],
+  "props": [
+   {
+    "x": 30,
+    "y": -30,
+    "w": 18,
+    "d": 8,
+    "h": 30,
+    "c": "#222222"
+   },
+   {
+    "x": 32,
+    "y": -30,
+    "z": 4,
+    "w": 14,
+    "d": 8,
+    "h": 4,
+    "c": "#E8582A"
+   }
+  ]
+ },
+ {
+  "type": "cta",
+  "bg": "O",
+  "fg": "N",
+  "acc": "S",
+  "title": "Don’t be<br>that mate",
+  "sub": "Tag your first-timer 👇",
+  "fs": 140,
+  "subTop": 520,
+  "dur": 2.8
+ }
+]

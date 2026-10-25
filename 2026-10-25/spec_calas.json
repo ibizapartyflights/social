@@ -1,0 +1,65 @@
+[
+ {
+  "type": "hook",
+  "bg": "C",
+  "fg": "N",
+  "acc": "O",
+  "img": "es_vedra_2",
+  "lines": [
+   "4 ca-",
+   "las for",
+   "every",
+   "mate 🏝️"
+  ],
+  "fs": 170,
+  "top": 170,
+  "sub": "Save this for 2027 📌",
+  "subTop": 910,
+  "vert": "Ibiza beaches — pick your vibe",
+  "dur": 1.7
+ },
+ {
+  "img": "atardecer_gente",
+  "kicker": "The sunset chaser",
+  "title": "Cala Comte",
+  "sub": "West coast, famous for sunsets 🌅",
+  "dur": 2.0
+ },
+ {
+  "img": "islas_mar",
+  "kicker": "The photographer",
+  "kbg": "C",
+  "kfg": "N",
+  "title": "Cala d’Hort",
+  "sub": "Right opposite Es Vedrà 📸",
+  "dur": 2.0
+ },
+ {
+  "img": "mar_nadando",
+  "kicker": "The snorkeller",
+  "kbg": "S",
+  "kfg": "N",
+  "title": "Cala Salada",
+  "sub": "Near San Antonio, crystal-clear water 🤿",
+  "dur": 2.0
+ },
+ {
+  "img": "barcos_mar",
+  "kicker": "The beach-club one",
+  "kbg": "P",
+  "title": "Ses Salines",
+  "sub": "Inside a natural park, long sandy beach 🏖️",
+  "dur": 2.0
+ },
+ {
+  "type": "cta",
+  "bg": "N",
+  "fg": "S",
+  "acc": "C",
+  "title": "Which cala<br>is yours?",
+  "sub": "Tag your beach crew 👇",
+  "fs": 125,
+  "subTop": 520,
+  "dur": 2.8
+ }
+]

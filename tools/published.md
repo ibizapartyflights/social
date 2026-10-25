@@ -15,3 +15,6 @@
 - 2026-10-24 · Every mate on an Ibiza boat day (tipos de amigos, fotos barcos) — reel_boat_mates.mp4 / _tiktok
 - 2026-10-24 · 4 Ibiza facts no one tells you (Eivissa, Dalt Vila UNESCO 1999, Posidonia, Formentera) — reel_ibiza_facts.mp4 / _tiktok
 - 2026-10-24 · First night in Ibiza? 4 rookie mistakes (bloques; taxi/transfer, nunca conducir) — reel_first_night.mp4 / _tiktok
+- 2026-10-25 · 4 Ibiza calas for every mate (Cala Comte, Cala d'Hort, Cala Salada, Ses Salines) — reel_calas.mp4 / _tiktok
+- 2026-10-25 · Flight home 3h+ late? UK delay rights in 4 steps (bloques; #ad AirHelp) — reel_delay.mp4 / _tiktok
+- 2026-10-25 · POV: the Ibiza group chat, 6 months out vs the week before — reel_groupchat.mp4 / _tiktok

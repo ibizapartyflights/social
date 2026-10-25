@@ -1,0 +1,184 @@
+[
+ {
+  "type": "hook",
+  "bg": "N",
+  "fg": "S",
+  "acc": "P",
+  "wave": "O",
+  "lines": [
+   "Flight",
+   "home",
+   "3h+",
+   "late? ⏰"
+  ],
+  "fs": 185,
+  "top": 180,
+  "sub": "Read this before you moan 👇",
+  "subTop": 1000,
+  "vert": "UK flight delay rights — quick guide",
+  "dur": 1.7
+ },
+ {
+  "type": "blocks",
+  "bg": "S",
+  "wave": "#0E172633",
+  "kicker": "Step #1",
+  "kbg": "N",
+  "title": "Check the arrival time",
+  "tc": "N",
+  "sub": "3+ hours late landing? You could be owed compensation ✈️",
+  "sbg": "O",
+  "dur": 2.3,
+  "chars": [
+   {
+    "x": -30,
+    "y": 0,
+    "shirt": "#E8582A",
+    "shades": true
+   }
+  ],
+  "props": [
+   {
+    "x": 40,
+    "y": -30,
+    "w": 34,
+    "d": 18,
+    "h": 40,
+    "c": "#7B4DD8"
+   },
+   {
+    "x": 48,
+    "y": -26,
+    "z": 40,
+    "w": 18,
+    "d": 6,
+    "h": 14,
+    "c": "#222222"
+   }
+  ]
+ },
+ {
+  "type": "blocks",
+  "bg": "C",
+  "wave": "#0E172633",
+  "kicker": "Step #2",
+  "kbg": "O",
+  "title": "Was it the airline’s fault?",
+  "tc": "N",
+  "sub": "Bad weather usually doesn’t count ⛈️",
+  "dur": 2.2,
+  "chars": [
+   {
+    "x": -10,
+    "y": -10,
+    "shirt": "#0E1726",
+    "hat": "#E8582A"
+   }
+  ],
+  "props": [
+   {
+    "x": 40,
+    "y": -50,
+    "w": 14,
+    "d": 14,
+    "h": 80,
+    "c": "#F4E3C8"
+   },
+   {
+    "x": 34,
+    "y": -56,
+    "z": 80,
+    "w": 26,
+    "d": 26,
+    "h": 10,
+    "c": "#E8582A"
+   }
+  ]
+ },
+ {
+  "type": "blocks",
+  "bg": "O",
+  "wave": "#0E172633",
+  "kicker": "Step #3",
+  "kbg": "N",
+  "title": "Keep your boarding pass",
+  "sub": "…and your receipts while you wait 🧾",
+  "dur": 2.1,
+  "chars": [
+   {
+    "x": -40,
+    "y": 10,
+    "shirt": "#2BB673",
+    "hair": "#E3B341"
+   }
+  ],
+  "props": [
+   {
+    "x": 20,
+    "y": -20,
+    "w": 40,
+    "d": 4,
+    "h": 26,
+    "c": "#FFFFFF"
+   },
+   {
+    "x": 26,
+    "y": -18,
+    "z": 10,
+    "w": 28,
+    "d": 4,
+    "h": 4,
+    "c": "#E8582A"
+   }
+  ]
+ },
+ {
+  "type": "blocks",
+  "bg": "N",
+  "wave": "#4FE3FF33",
+  "kicker": "Step #4",
+  "kbg": "C",
+  "kfg": "N",
+  "title": "Claim it",
+  "sub": "Direct with the airline or via a claim service 📲",
+  "dur": 2.1,
+  "chars": [
+   {
+    "x": -20,
+    "y": 0,
+    "shirt": "#FF3D8B",
+    "shades": true
+   }
+  ],
+  "props": [
+   {
+    "x": 40,
+    "y": -30,
+    "w": 18,
+    "d": 8,
+    "h": 30,
+    "c": "#222222"
+   },
+   {
+    "x": 42,
+    "y": -30,
+    "z": 4,
+    "w": 14,
+    "d": 8,
+    "h": 22,
+    "c": "#4FE3FF"
+   }
+  ]
+ },
+ {
+  "type": "cta",
+  "bg": "O",
+  "fg": "N",
+  "acc": "S",
+  "title": "Send this<br>to the group",
+  "sub": "Check your claim 👉 link in bio",
+  "fs": 130,
+  "subTop": 520,
+  "dur": 2.8
+ }
+]

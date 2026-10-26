@@ -1,0 +1,16 @@
+[
+ {"type":"hook","bg":"O","fg":"N","acc":"S","wave":"N","lines":["Ibi-","za 2027","count-","down ⏳"],"fs":170,"top":180,"sub":"What to sort, and when 📌","subTop":1000,"vert":"The no-panic Ibiza checklist","dur":1.7},
+ {"type":"blocks","bg":"C","wave":"#0E172633","kicker":"6 months out","kbg":"N","title":"Pick dates + book flights","tc":"N","sub":"Whole group, same flight ✈️","sbg":"O","dur":2.1,
+  "chars":[{"x":-30,"y":0,"shirt":"#E8582A","shades":true}],
+  "props":[{"x":40,"y":-30,"w":34,"d":18,"h":40,"c":"#7B4DD8"},{"x":48,"y":-26,"z":40,"w":18,"d":6,"h":14,"c":"#222222"}]},
+ {"type":"blocks","bg":"S","wave":"#0E172633","kicker":"3 months out","kbg":"O","title":"Check your passport","tc":"N","sub":"Under 10 yrs old + 3 months left after you fly home 🛂","dur":2.3,
+  "chars":[{"x":-10,"y":-10,"shirt":"#0E1726","hat":"#E8582A"}],
+  "props":[{"x":40,"y":-20,"w":26,"d":4,"h":34,"c":"#7A1F2B"},{"x":46,"y":-18,"z":14,"w":14,"d":4,"h":6,"c":"#E3B341"}]},
+ {"type":"blocks","bg":"O","wave":"#0E172633","kicker":"1 month out","kbg":"N","title":"Book the airport transfer","sub":"Split it with the group 🚐","dur":2.1,
+  "chars":[{"x":-40,"y":10,"shirt":"#2BB673","hair":"#E3B341"}],
+  "props":[{"x":20,"y":-40,"w":60,"d":30,"h":34,"c":"#FFFFFF"},{"x":24,"y":-40,"z":20,"w":52,"d":2,"h":10,"c":"#4FE3FF"}]},
+ {"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"1 week out","kbg":"C","kfg":"N","title":"Pack the boring bits","sub":"EU plug, SPF 50, power bank 🔋","dur":2.1,
+  "chars":[{"x":-20,"y":0,"shirt":"#FF3D8B","shades":true}],
+  "props":[{"x":40,"y":-30,"w":30,"d":20,"h":44,"c":"#E8582A"},{"x":50,"y":-26,"z":44,"w":10,"d":4,"h":10,"c":"#222222"}]},
+ {"type":"cta","bg":"S","fg":"N","acc":"O","title":"Save it +<br>send it to<br>the group","sub":"Start with step 1 👉 link in bio","fs":118,"subTop":620,"dur":2.8}
+]

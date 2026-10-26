@@ -1,0 +1,16 @@
+[
+ {"type":"hook","bg":"N","fg":"S","acc":"O","wave":"C","lines":["You’re","a Brit","in Ibi-","za if… 🇬🇧"],"fs":175,"top":180,"sub":"Be honest, how many? 👀","subTop":1000,"vert":"Spot the Brit abroad","dur":1.7},
+ {"type":"blocks","bg":"S","wave":"#0E172633","kicker":"#1","kbg":"P","title":"You clap when the plane lands","tc":"N","sub":"Every. Single. Time. 👏","dur":2.0,
+  "chars":[{"x":-30,"y":0,"shirt":"#4FE3FF","shades":true}],
+  "props":[{"x":40,"y":-30,"w":30,"d":30,"h":30,"c":"#0E1726"}]},
+ {"type":"blocks","bg":"C","wave":"#0E172633","kicker":"#2","kbg":"N","title":"Day 2 and you’re a lobster","tc":"N","sub":"“I don’t need suncream, I’ve got a base” 🦞","dur":2.1,
+  "chars":[{"x":-10,"y":-10,"shirt":"#E8582A","skin":"#F08A6E","hat":"#F4E3C8"}],
+  "props":[{"x":40,"y":-40,"w":40,"d":20,"h":8,"c":"#FF3D8B"}]},
+ {"type":"blocks","bg":"O","wave":"#0E172633","kicker":"#3","kbg":"N","title":"Dinner at 10pm feels illegal","sub":"Locals are only just ordering 🍽️","dur":2.1,
+  "chars":[{"x":-40,"y":10,"shirt":"#2BB673","hair":"#E3B341"}],
+  "props":[{"x":30,"y":-30,"w":40,"d":30,"h":26,"c":"#F4E3C8"},{"x":40,"y":-24,"z":26,"w":14,"d":14,"h":4,"c":"#FFFFFF"}]},
+ {"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"#4","kbg":"C","kfg":"N","title":"You found a full English by day 3","sub":"Sorry, it’s tradition 🍳","dur":2.1,
+  "chars":[{"x":-20,"y":0,"shirt":"#FF3D8B","shades":true}],
+  "props":[{"x":40,"y":-30,"w":30,"d":30,"h":4,"c":"#FFFFFF"},{"x":48,"y":-22,"z":4,"w":10,"d":10,"h":3,"c":"#E3B341"}]},
+ {"type":"cta","bg":"C","fg":"N","acc":"S","title":"Tag the<br>most British<br>mate","sub":"We know who it is 👇","fs":118,"subTop":620,"dur":2.8}
+]

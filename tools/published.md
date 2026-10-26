@@ -18,3 +18,6 @@
 - 2026-10-25 · 4 Ibiza calas for every mate (Cala Comte, Cala d'Hort, Cala Salada, Ses Salines) — reel_calas.mp4 / _tiktok
 - 2026-10-25 · Flight home 3h+ late? UK delay rights in 4 steps (bloques; #ad AirHelp) — reel_delay.mp4 / _tiktok
 - 2026-10-25 · POV: the Ibiza group chat, 6 months out vs the week before — reel_groupchat.mp4 / _tiktok
+- 2026-10-26 · Ibiza at 12pm vs 12am (POV día vs noche, fotos nuevas) — reel_daynight.mp4 / _tiktok
+- 2026-10-26 · Ibiza 2027 countdown: what to sort and when (checklist/cuenta atrás, pasaporte UK, #ad vuelos/traslados) — reel_countdown.mp4 / _tiktok
+- 2026-10-26 · You're a Brit in Ibiza if… (humor británico, bloques) — reel_brits.mp4 / _tiktok

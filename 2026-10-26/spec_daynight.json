@@ -1,0 +1,9 @@
+[
+ {"type":"hook","bg":"S","fg":"N","acc":"O","img":"mar_nadando","lines":["Ibi-","za at","12pm vs","12am 🌗"],"fs":165,"top":170,"sub":"Same mates, two holidays 😂","subTop":900,"vert":"Ibiza — day mode vs night mode","dur":1.7},
+ {"img":"piscina_gente","kicker":"12pm","kbg":"C","kfg":"N","title":"“Just one quiet pool day”","sub":"SPF 50 on, sunnies on 😎","dur":1.8},
+ {"img":"fiesta_concierto_noche","kicker":"12am","kbg":"P","title":"Nobody is having a quiet one","sub":"Phone torch in the air 🔦","dur":1.8},
+ {"img":"barco_grupo","kicker":"12pm","kbg":"S","kfg":"N","title":"Boat day with the group chat","sub":"Speaker already on 🔊","dur":1.8},
+ {"img":"fiesta_bolas_disco","kicker":"12am","kbg":"O","title":"Disco ball spotted","sub":"Dancing till the taxi’s booked 🚕","dur":1.8},
+ {"img":"atardecer_gente","kicker":"In between","kbg":"C","kfg":"N","title":"Sunset = the official changeover","sub":"Day mode off, night mode on 🌅","dur":2.0},
+ {"type":"cta","bg":"N","fg":"S","acc":"C","title":"Day mode<br>or night<br>mode?","sub":"Comment ☀️ or 🌙 👇","fs":120,"subTop":640,"dur":2.8}
+]

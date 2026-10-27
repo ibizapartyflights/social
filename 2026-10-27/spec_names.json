@@ -1,0 +1,9 @@
+[
+ {"type":"hook","bg":"S","fg":"N","acc":"O","img":"islas_mar","lines":["Ibi-","za place","names, de-","coded 🗺️"],"fs":150,"top":170,"sub":"Sound like a local in 12s 😎","subTop":860,"vert":"Eivissa for beginners","dur":1.7},
+ {"img":"es_vedra_2","kicker":"Cala","kbg":"C","kfg":"N","title":"= a small cove","sub":"Cala Comte, Cala Salada… now you know 🏝️","dur":1.9},
+ {"img":"mar_nadando","kicker":"Platja","kbg":"O","title":"= beach","sub":"Platja d’en Bossa = Playa d’en Bossa 🏖️","dur":1.9},
+ {"img":"isla_nubes","kicker":"Es / Sa","kbg":"S","kfg":"N","title":"= “the”","sub":"Es Vedrà = “the” Vedrà. Ibiza-style 🪨","dur":1.9},
+ {"img":"atardecer_gente","kicker":"Sant Antoni","kbg":"P","title":"= San Antonio","sub":"Same town, two names on the signs 🌅","dur":1.9},
+ {"img":"barco_atardecer","kicker":"Bon dia!","kbg":"C","kfg":"N","title":"= good morning","sub":"Bonus points at breakfast ☕","dur":1.8},
+ {"type":"cta","bg":"N","fg":"S","acc":"C","title":"Save it<br>for your<br>2027 trip 📌","sub":"Which one did you know? 👇","fs":118,"subTop":640,"dur":2.8}
+]

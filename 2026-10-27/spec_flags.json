@@ -1,0 +1,199 @@
+[
+{
+"type": "hook",
+"bg": "O",
+"fg": "N",
+"acc": "S",
+"wave": "#0E172655",
+"lines": [
+"Ibi-",
+"za red",
+"flags 🚩",
+"vs green 💚"
+],
+"fs": 140,
+"top": 190,
+"sub": "Be honest, which are you? 👀",
+"subTop": 940,
+"vert": "Holiday red flags — group edition",
+"dur": 1.7
+},
+{
+"type": "blocks",
+"bg": "N",
+"wave": "#FF3D8B33",
+"kicker": "🚩 Red flag",
+"kbg": "P",
+"title": "“We’ll just grab a taxi at 6am”",
+"sub": "The queue has other plans 🫠",
+"dur": 2.0,
+"chars": [
+{
+"x": -80,
+"y": 10,
+"shirt": "#4FE3FF"
+},
+{
+"x": -25,
+"y": 10,
+"shirt": "#E8582A",
+"shades": true
+},
+{
+"x": 30,
+"y": 10,
+"shirt": "#F4E3C8",
+"hair": "#E3B341"
+}
+]
+},
+{
+"type": "blocks",
+"bg": "C",
+"wave": "#0E172633",
+"kicker": "💚 Green flag",
+"kbg": "#2BB673",
+"title": "Ride home booked before you fly",
+"tc": "N",
+"sub": "Never drive after drinking 🚕",
+"dur": 2.0,
+"chars": [
+{
+"x": -30,
+"y": 0,
+"shirt": "#FF3D8B",
+"shades": true
+}
+],
+"props": [
+{
+"x": 30,
+"y": -60,
+"w": 70,
+"d": 34,
+"h": 26,
+"c": "#E3B341"
+},
+{
+"x": 38,
+"y": -56,
+"z": 26,
+"w": 44,
+"d": 26,
+"h": 16,
+"c": "#0E1726"
+}
+]
+},
+{
+"type": "blocks",
+"bg": "S",
+"wave": "#0E172622",
+"kicker": "🚩 Red flag",
+"kbg": "P",
+"title": "6am flight home after closing night",
+"tc": "N",
+"sub": "Future you is not okay ✈️😵",
+"dur": 2.0,
+"chars": [
+{
+"x": -20,
+"y": 0,
+"shirt": "#2BB673",
+"hair": "#2A1A10"
+}
+],
+"props": [
+{
+"x": 40,
+"y": -30,
+"w": 26,
+"d": 16,
+"h": 40,
+"c": "#E8582A"
+},
+{
+"x": 46,
+"y": -26,
+"z": 40,
+"w": 14,
+"d": 6,
+"h": 8,
+"c": "#0E1726"
+}
+]
+},
+{
+"type": "blocks",
+"bg": "O",
+"wave": "#0E172633",
+"kicker": "💚 Green flag",
+"kbg": "#2BB673",
+"title": "Hotel address saved offline",
+"sub": "No signal, no problem 📍",
+"dur": 2.0,
+"chars": [
+{
+"x": -10,
+"y": -10,
+"shirt": "#4FE3FF",
+"hat": "#F4E3C8"
+}
+],
+"props": [
+{
+"x": 44,
+"y": -40,
+"w": 18,
+"d": 4,
+"h": 30,
+"c": "#0E1726"
+}
+]
+},
+{
+"type": "blocks",
+"bg": "N",
+"wave": "#4FE3FF33",
+"kicker": "💚 Green flag",
+"kbg": "#2BB673",
+"title": "Water between rounds 💧",
+"sub": "Tomorrow-you says thanks",
+"dur": 1.9,
+"chars": [
+{
+"x": -30,
+"y": 0,
+"shirt": "#E8582A",
+"shades": true
+},
+{
+"x": 40,
+"y": -10,
+"shirt": "#FF3D8B",
+"hair": "#E3B341"
+}
+],
+"props": [
+{
+"x": 0,
+"y": -60,
+"w": 10,
+"d": 10,
+"h": 22,
+"c": "#4FE3FF"
+}
+]
+},
+{
+"type": "cta",
+"bg": "C",
+"fg": "N",
+"acc": "S",
+"title": "Tag the<br>red-flag<br>mate 🚩",
+"sub": "We won’t tell them 🤐",
+"fs": 122,
+"subTop": 620,
+"dur": 2.8
+}
+]

@@ -21,3 +21,6 @@
 - 2026-10-26 · Ibiza at 12pm vs 12am (POV día vs noche, fotos nuevas) — reel_daynight.mp4 / _tiktok
 - 2026-10-26 · Ibiza 2027 countdown: what to sort and when (checklist/cuenta atrás, pasaporte UK, #ad vuelos/traslados) — reel_countdown.mp4 / _tiktok
 - 2026-10-26 · You're a Brit in Ibiza if… (humor británico, bloques) — reel_brits.mp4 / _tiktok
+- 2026-10-27 · Ibiza place names decoded (curiosidades: Cala, Platja, Es/Sa, Sant Antoni, Bon dia) — reel_names.mp4 / _tiktok
+- 2026-10-27 · Ibiza trip red flags vs green flags (bloques; taxi pre-reservado, #ad traslados) — reel_flags.mp4 / _tiktok
+- 2026-10-27 · Ibiza: this or that? 5 quick-fire picks (engagement, comentarios) — reel_thisthat.mp4 / _tiktok

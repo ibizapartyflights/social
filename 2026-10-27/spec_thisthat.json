@@ -1,0 +1,109 @@
+[
+{
+"type": "hook",
+"bg": "N",
+"fg": "C",
+"acc": "O",
+"wave": "#E8582A",
+"lines": [
+"Ibi-",
+"za: this",
+"or that?",
+"GO 👇"
+],
+"fs": 165,
+"top": 190,
+"sub": "5 picks. No fence-sitting 😤",
+"subTop": 980,
+"vert": "Quick-fire Ibiza edition",
+"dur": 1.6
+},
+{
+"img": "fiesta_baile_atardecer",
+"kicker": "1/5",
+"kbg": "O",
+"title": "Sunset 🌅<br>or sunrise? 🌄",
+"sub": "Comment A or B",
+"dur": 1.6
+},
+{
+"img": "barco_grupo",
+"kicker": "2/5",
+"kbg": "C",
+"kfg": "N",
+"title": "Boat day 🚤<br>or pool day? 🏊",
+"sub": "Choose wisely",
+"dur": 1.6
+},
+{
+"img": "fiesta_escenario",
+"kicker": "3/5",
+"kbg": "P",
+"title": "Big club 🪩<br>or terrace? 🎶",
+"sub": "Both is not an answer",
+"dur": 1.6
+},
+{
+"img": "atardecer_restaurante",
+"kicker": "4/5",
+"kbg": "S",
+"kfg": "N",
+"title": "Ibiza Town<br>or San Antonio?",
+"sub": "Where are you staying? 🏨",
+"dur": 1.6
+},
+{
+"type": "blocks",
+"bg": "S",
+"wave": "#0E172622",
+"kicker": "5/5",
+"kbg": "O",
+"title": "6am taxi queue or ride pre-booked?",
+"tc": "N",
+"sub": "(Trick question 😉🚕)",
+"dur": 1.9,
+"chars": [
+{
+"x": -40,
+"y": -10,
+"shirt": "#4FE3FF",
+"shades": true
+},
+{
+"x": 30,
+"y": -30,
+"shirt": "#FF3D8B"
+}
+],
+"props": [
+{
+"x": 50,
+"y": -60,
+"w": 60,
+"d": 30,
+"h": 24,
+"c": "#E3B341"
+},
+{
+"x": 56,
+"y": -56,
+"z": 24,
+"w": 40,
+"d": 22,
+"h": 14,
+"c": "#0E1726"
+}
+]
+},
+{
+"type": "cta",
+"bg": "O",
+"fg": "N",
+"acc": "S",
+"title": "Drop your<br>answers<br>1–5 👇",
+"sub": "We’ll guess your Ibiza type 😏",
+"fs": 122,
+"subTop": 620,
+"dur": 2.8
+}
+]

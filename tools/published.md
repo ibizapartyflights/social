@@ -24,3 +24,6 @@
 - 2026-10-27 · Ibiza place names decoded (curiosidades: Cala, Platja, Es/Sa, Sant Antoni, Bon dia) — reel_names.mp4 / _tiktok
 - 2026-10-27 · Ibiza trip red flags vs green flags (bloques; taxi pre-reservado, #ad traslados) — reel_flags.mp4 / _tiktok
 - 2026-10-27 · Ibiza: this or that? 5 quick-fire picks (engagement, comentarios) — reel_thisthat.mp4 / _tiktok
+- 2026-10-28 · Ibiza sunset: 5 ways to watch it (barco, Es Vedrà, cena, sunset session, Benirràs domingo) — reel_sunset.mp4 / _tiktok
+- 2026-10-28 · What you pack vs what you actually use (humor británico, bloques) — reel_packing.mp4 / _tiktok
+- 2026-10-28 · Ibiza day 1 vs day 5 (POV humor; #ad traslados, nunca conducir) — reel_day1day5.mp4 / _tiktok

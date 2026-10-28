@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"N","fg":"S","acc":"O","img":"atardecer_gente","lines":["Ibi-","za sun-","set:","5 ways 🌅"],"fs":150,"top":170,"sub":"Which one's your vibe? 👀","subTop":860,"vert":"Golden hour — Ibiza edition","dur":1.7},
+{"img":"barco_atardecer","kicker":"1 · From a boat","kbg":"O","title":"Sunset at sea ⛵","sub":"Golden hour, no crowds","dur":1.8},
+{"img":"es_vedra_2","kicker":"2 · Facing Es Vedrà","kbg":"C","kfg":"N","title":"The rock that steals every photo 📸","sub":"West coast, by Cala d'Hort","dur":1.9},
+{"img":"atardecer_restaurante","kicker":"3 · Dinner with a view","kbg":"S","kfg":"N","title":"Sunset table 🍽️","sub":"Book it early, they go first","dur":1.8},
+{"img":"fiesta_baile_atardecer","kicker":"4 · With a dance","kbg":"P","title":"Sunset = the warm-up 🎶","sub":"Then the night begins","dur":1.8},
+{"img":"islas_mar","kicker":"5 · Benirràs, Sunday","kbg":"O","title":"Drums at sunset 🥁","sub":"A north coast tradition","dur":1.8},
+{"type":"cta","bg":"O","fg":"N","acc":"S","title":"Which<br>sunset's<br>yours? 🌅","sub":"Comment 1–5 👇 Save it for 2027 📌","fs":122,"subTop":640,"dur":2.8}
+]

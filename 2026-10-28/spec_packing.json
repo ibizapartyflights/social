@@ -1,0 +1,14 @@
+[
+{"type":"hook","bg":"C","fg":"N","acc":"O","wave":"#0E172644","lines":["What","you pack","vs what","you use 🧳"],"fs":150,"top":190,"sub":"Ibiza, 5 nights. Be honest 😂","subTop":930,"vert":"The suitcase never lies","dur":1.7},
+{"type":"blocks","bg":"N","wave":"#FF3D8B33","kicker":"🧳 Packed","kbg":"P","title":"9 outfits for 5 nights","sub":"Wore the same 2 on rotation 🔁","dur":2.0,
+ "chars":[{"x":-40,"y":0,"shirt":"#FF3D8B","hair":"#E3B341"}],
+ "props":[{"x":30,"y":-50,"w":60,"d":30,"h":50,"c":"#E8582A"},{"x":40,"y":-45,"z":50,"w":40,"d":20,"h":8,"c":"#F4E3C8"}]},
+{"type":"blocks","bg":"S","wave":"#0E172622","kicker":"🧳 Packed","kbg":"P","title":"3 pairs of smart shoes","tc":"N","sub":"Lived in flip-flops all week 🩴","dur":2.0,
+ "chars":[{"x":-20,"y":0,"shirt":"#4FE3FF","shades":true}],
+ "props":[{"x":40,"y":-40,"w":24,"d":12,"h":10,"c":"#0E1726"},{"x":40,"y":-20,"w":24,"d":12,"h":10,"c":"#0E1726"},{"x":40,"y":0,"w":24,"d":12,"h":10,"c":"#0E1726"}]},
+{"type":"blocks","bg":"O","wave":"#0E172633","kicker":"✅ Actually used","kbg":"#2BB673","title":"One swimsuit, on repeat 🩱","sub":"No regrets","dur":2.0,
+ "chars":[{"x":-30,"y":0,"shirt":"#F4E3C8","hat":"#4FE3FF"},{"x":40,"y":-10,"shirt":"#0E1726","hair":"#2A1A10"}]},
+{"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"✅ Actually used","kbg":"#2BB673","title":"Sunnies, 24/7 😎","sub":"Indoors too. Don't ask","dur":1.9,
+ "chars":[{"x":-60,"y":10,"shirt":"#E8582A","shades":true},{"x":0,"y":10,"shirt":"#4FE3FF","shades":true},{"x":60,"y":10,"shirt":"#FF3D8B","shades":true,"hair":"#E3B341"}]},
+{"type":"cta","bg":"S","fg":"N","acc":"O","title":"Tag the<br>over-<br>packer 🧳","sub":"Every group has one 👀","fs":122,"subTop":640,"dur":2.8}
+]

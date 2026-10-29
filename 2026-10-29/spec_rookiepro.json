@@ -1,0 +1,10 @@
+[
+{"type":"hook","bg":"N","fg":"C","acc":"O","img":"fiesta_concierto_noche","lines":["Ibi-za","rookie","vs","Ibiza pro 😎"],"fs":150,"top":170,"sub":"Which one's your group? 👀","subTop":860,"vert":"First trip vs fifth trip","dur":1.7},
+{"img":"mar_nadando","kicker":"Rookie","kbg":"P","title":"Burnt by lunchtime 🦞","sub":"Pro: SPF 50, reapplied ☀️","dur":1.9},
+{"img":"fiesta_escenario","kicker":"Rookie","kbg":"P","title":"Arrives at 10pm. Empty 🕙","sub":"Pro: most clubs fill up after midnight","dur":1.9},
+{"img":"atardecer_gente","kicker":"Pro","kbg":"C","kfg":"N","title":"Sunset first, then the night 🌅","sub":"Rookie: misses it in the shower","dur":1.9},
+{"type":"blocks","bg":"O","wave":"#0E172633","kicker":"Pro","kbg":"N","title":"Ride home sorted before landing 🚐","sub":"Rookie: 6am taxi queue 😩","dur":2.0,
+ "chars":[{"x":-40,"y":0,"shirt":"#4FE3FF","shades":true}],
+ "props":[{"x":30,"y":-60,"w":70,"d":34,"h":26,"c":"#F4E3C8"},{"x":38,"y":-56,"z":26,"w":44,"d":26,"h":16,"c":"#0E1726"}]},
+{"type":"cta","bg":"N","fg":"C","acc":"S","title":"Rookie<br>or pro?<br>😎","sub":"Comment R or P 👇 Never drive after drinking 🚕","fs":130,"subTop":640,"dur":2.8}
+]

@@ -1,0 +1,18 @@
+[
+{"type":"hook","bg":"S","fg":"N","acc":"O","wave":"#0E172633","lines":["Every","room-","mate","in Ibi-za 🛏️"],"fs":150,"top":190,"sub":"Which one are you? 👀","subTop":940,"vert":"Shared room, shared chaos","dur":1.7},
+{"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"1 · The snoozer","kbg":"C","kfg":"N","title":"7 alarms. Hears none ⏰","sub":"Up just in time for sunset","dur":1.9,
+ "chars":[{"x":-20,"y":0,"shirt":"#4FE3FF"}],
+ "props":[{"x":-60,"y":30,"w":100,"d":44,"h":10,"c":"#F4E3C8"}]},
+{"type":"blocks","bg":"O","wave":"#0E172633","kicker":"2 · The 2-hour get-ready","kbg":"N","title":"\"Five more minutes!\" 💄","sub":"Said an hour ago","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#FF3D8B","hair":"#E3B341"}],
+ "props":[{"x":40,"y":-50,"w":30,"d":10,"h":60,"c":"#4FE3FF"}]},
+{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"3 · The key card keeper","kbg":"N","title":"Has the only key 🔑","tc":"N","sub":"Also has the only charger","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#0E1726","shades":true}],
+ "props":[{"x":40,"y":-30,"w":18,"d":4,"h":28,"c":"#E8582A"}]},
+{"type":"blocks","bg":"S","wave":"#E8582A33","kicker":"4 · The \"quick nap\" one","kbg":"O","title":"Naps at 8pm. Rises at 11 😴","tc":"N","sub":"Somehow the last one standing","dur":1.9,
+ "chars":[{"x":-60,"y":10,"shirt":"#E8582A","shades":true},{"x":20,"y":10,"shirt":"#4FE3FF","hat":"#F4E3C8"}]},
+{"type":"blocks","bg":"N","wave":"#E8582A33","kicker":"5 · The organiser","kbg":"O","title":"Taxi home already booked 🚕","sub":"Legend. Never drive after drinking","dur":2.0,
+ "chars":[{"x":-40,"y":0,"shirt":"#F4E3C8","hair":"#2A1A10"}],
+ "props":[{"x":30,"y":-60,"w":70,"d":34,"h":26,"c":"#E3B341"},{"x":38,"y":-56,"z":26,"w":44,"d":26,"h":16,"c":"#0E1726"}]},
+{"type":"cta","bg":"C","fg":"N","acc":"O","title":"Tag<br>your room-<br>mate 🛏️","sub":"Comment 1–5 👇 Be honest","fs":122,"subTop":640,"dur":2.8}
+]

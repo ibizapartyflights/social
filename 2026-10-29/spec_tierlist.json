@@ -1,0 +1,10 @@
+[
+{"type":"hook","bg":"C","fg":"N","acc":"P","wave":"#0E172644","lines":["Ibi-za","tier","list:","rate it 🏆"],"fs":160,"top":190,"sub":"Agree or fight us 👇","subTop":960,"vert":"S tier to C tier, no mercy","dur":1.7},
+{"img":"barco_grupo","kicker":"Boat day","kbg":"O","title":"S tier 🏆","sub":"Speaker on, phones away","dur":1.8},
+{"img":"es_vedra_2","kicker":"Es Vedrà sunset","kbg":"S","kfg":"N","title":"S tier 🌅","sub":"Every photo looks fake","dur":1.8},
+{"img":"piscina_gente","kicker":"Pool day","kbg":"C","kfg":"N","title":"A tier ☀️","sub":"Loses a point: no sea","dur":1.8},
+{"img":"fiesta_bolas_disco","kicker":"Big night out","kbg":"P","title":"A tier 🪩","sub":"Day-after recovery costs it","dur":1.8},
+{"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"6am taxi queue","kbg":"#6B7280","title":"C tier 😩","sub":"Pre-book the ride home instead 🚕","dur":2.0,
+ "chars":[{"x":-60,"y":10,"shirt":"#E8582A"},{"x":0,"y":10,"shirt":"#FF3D8B","hair":"#E3B341"},{"x":60,"y":10,"shirt":"#4FE3FF","shades":true}]},
+{"type":"cta","bg":"O","fg":"N","acc":"S","title":"What's<br>your<br>S tier? 🏆","sub":"Comment it 👇 Save for 2027 📌","fs":122,"subTop":640,"dur":2.8}
+]

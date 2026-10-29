@@ -27,3 +27,6 @@
 - 2026-10-28 · Ibiza sunset: 5 ways to watch it (barco, Es Vedrà, cena, sunset session, Benirràs domingo) — reel_sunset.mp4 / _tiktok
 - 2026-10-28 · What you pack vs what you actually use (humor británico, bloques) — reel_packing.mp4 / _tiktok
 - 2026-10-28 · Ibiza day 1 vs day 5 (POV humor; #ad traslados, nunca conducir) — reel_day1day5.mp4 / _tiktok
+- 2026-10-29 · Every roommate in Ibiza (tipos de amigos, bloques; taxi pre-reservado) — reel_roommates.mp4 / _tiktok
+- 2026-10-29 · Ibiza rookie vs Ibiza pro (fotos nuevas; #ad traslados, nunca conducir) — reel_rookiepro.mp4 / _tiktok
+- 2026-10-29 · Ibiza tier list: rate it (engagement, fotos nuevas; taxi pre-reservado) — reel_tierlist.mp4 / _tiktok

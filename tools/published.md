@@ -30,3 +30,6 @@
 - 2026-10-29 · Every roommate in Ibiza (tipos de amigos, bloques; taxi pre-reservado) — reel_roommates.mp4 / _tiktok
 - 2026-10-29 · Ibiza rookie vs Ibiza pro (fotos nuevas; #ad traslados, nunca conducir) — reel_rookiepro.mp4 / _tiktok
 - 2026-10-29 · Ibiza tier list: rate it (engagement, fotos nuevas; taxi pre-reservado) — reel_tierlist.mp4 / _tiktok
+- 2026-10-30 · Ibiza bucket list: how many out of 5? (checklist, fotos: barco, Es Vedrà, cala, Formentera, amanecer; taxi pre-reservado) — reel_bucketlist.mp4 / _tiktok
+- 2026-10-30 · 5 Ibiza flight booking fails (errores típicos, bloques+fotos; #ad vuelos/traslados) — reel_bookingfails.mp4 / _tiktok
+- 2026-10-30 · The scariest things in Ibiza for Brits (Halloween, bloques; taxi pre-reservado, nunca conducir) — reel_scary.mp4 / _tiktok

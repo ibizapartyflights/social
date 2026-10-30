@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"C","fg":"N","acc":"O","img":"isla_nubes","lines":["Ibi-za","buck-et","list ✅"],"fs":170,"top":170,"sub":"How many have you done? 👀","subTop":760,"vert":"Tick them off in 2027","dur":1.7},
+{"img":"barco_grupo","kicker":"1","kbg":"O","title":"A boat day with the crew 🚤","sub":"Speaker: mandatory 🔊","dur":1.8},
+{"img":"es_vedra_2","kicker":"2","kbg":"C","kfg":"N","title":"Sunset facing Es Vedrà 🌅","sub":"West coast, by Cala d'Hort","dur":1.8},
+{"img":"mar_nadando","kicker":"3","kbg":"P","title":"A swim in a hidden cala 🏝️","sub":"Yes, the water's that clear","dur":1.8},
+{"img":"islas_mar","kicker":"4","kbg":"S","kfg":"N","title":"Day trip to Formentera ⛴️","sub":"An easy ferry hop away","dur":1.8},
+{"img":"fiesta_baile_atardecer","kicker":"5","kbg":"O","title":"Dance till the sun's up 🪩","sub":"Ride home pre-booked 🚕","dur":1.8},
+{"type":"cta","bg":"N","fg":"S","acc":"C","title":"How<br>many out<br>of 5? ✅","sub":"Comment your score 👇 Save it for 2027 📌","fs":122,"subTop":640,"dur":2.8}
+]

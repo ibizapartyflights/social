@@ -1,0 +1,14 @@
+[
+{"type":"hook","bg":"O","fg":"N","acc":"S","wave":"#0E172633","lines":["5 Ibi-za","flight","book-ing","fails 🙈"],"fs":145,"top":190,"sub":"Don't be mate no. 3 👀","subTop":980,"vert":"Learn from the group chat","dur":1.7},
+{"img":"fiesta_grupo","kicker":"Fail 1","kbg":"O","title":"Everyone books a different flight ✈️","sub":"Land 4 hours apart. Chaos.","dur":1.9},
+{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"Fail 2","kbg":"N","title":"Forgot the hold bag 🧳","tc":"N","sub":"9 outfits won't fit in a cabin bag","dur":1.9,
+ "chars":[{"x":-40,"y":0,"shirt":"#FF3D8B","hair":"#E3B341"}],
+ "props":[{"x":30,"y":-40,"w":40,"d":24,"h":56,"c":"#E8582A"},{"x":80,"y":-40,"w":24,"d":16,"h":30,"c":"#0E1726"}]},
+{"type":"blocks","bg":"N","wave":"#E8582A33","kicker":"Fail 3","kbg":"P","title":"Flight home 7am after the big night 😵","sub":"Leave a buffer. Trust us.","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#4FE3FF","shades":true}]},
+{"img":"atardecer_gente","kicker":"Fail 4","kbg":"C","kfg":"N","title":"Not checking the UK airport 📍","sub":"Gatwick ≠ Stansted 🙃","dur":1.9},
+{"type":"blocks","bg":"S","wave":"#E8582A33","kicker":"Fail 5","kbg":"O","title":"Landing with no ride to the hotel 🚐","tc":"N","sub":"Book the transfer with the flights","dur":2.0,
+ "chars":[{"x":-60,"y":10,"shirt":"#E8582A"},{"x":20,"y":10,"shirt":"#4FE3FF","hat":"#F4E3C8"}],
+ "props":[{"x":60,"y":-70,"w":70,"d":34,"h":26,"c":"#0E1726"},{"x":68,"y":-66,"z":26,"w":44,"d":26,"h":16,"c":"#4FE3FF"}]},
+{"type":"cta","bg":"C","fg":"N","acc":"O","title":"Which<br>one was<br>you? 🙈","sub":"Comment 1–5 👇 Send it to the group 💬","fs":122,"subTop":640,"dur":2.8}
+]

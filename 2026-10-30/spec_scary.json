@@ -1,0 +1,15 @@
+[
+{"type":"hook","bg":"N","fg":"C","acc":"O","wave":"#FF3D8B55","lines":["The scar-","iest","things in","Ibi-za 🎃"],"fs":145,"top":190,"sub":"(for Brits) 👻","subTop":980,"vert":"Happy Halloween weekend","dur":1.7},
+{"type":"blocks","bg":"O","wave":"#0E172633","kicker":"1 · Scary","kbg":"N","title":"Day 1 sunburn 🦞","sub":"Forgot to reapply. Classic.","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#4FE3FF","skin":"#F08A6A","shades":true}]},
+{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"2 · Scarier","kbg":"N","title":"Phone on 2% at 3am 🔋","tc":"N","sub":"No idea where the hotel is","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#E8582A","hair":"#2A1A10"}],
+ "props":[{"x":40,"y":-30,"w":18,"d":4,"h":30,"c":"#0E1726"}]},
+{"type":"blocks","bg":"S","wave":"#E8582A33","kicker":"3 · Terrifying","kbg":"O","title":"The 6am taxi queue 😱","tc":"N","sub":"Pre-book the ride. Never drive after drinking 🚕","dur":2.0,
+ "chars":[{"x":-70,"y":10,"shirt":"#FF3D8B"},{"x":-10,"y":20,"shirt":"#0E1726","hat":"#4FE3FF"},{"x":50,"y":30,"shirt":"#4FE3FF","shades":true}]},
+{"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"4 · Pure horror","kbg":"P","title":"Group chat after the trip 📱","sub":"\"So… who owes what?\" 👻","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#F4E3C8","hair":"#E3B341"}]},
+{"type":"blocks","bg":"P","wave":"#0E172633","kicker":"5 · The final boss","kbg":"N","title":"Realising next season is months away 💀","sub":"Fix: start planning 2027","dur":2.0,
+ "chars":[{"x":-30,"y":0,"shirt":"#E8582A","shades":true,"hat":"#0E1726"}]},
+{"type":"cta","bg":"O","fg":"N","acc":"S","title":"Tag the<br>scariest<br>mate 🎃","sub":"Comment 1–5: which one scares you most? 👇","fs":122,"subTop":640,"dur":2.8}
+]

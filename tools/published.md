@@ -33,3 +33,6 @@
 - 2026-10-30 · Ibiza bucket list: how many out of 5? (checklist, fotos: barco, Es Vedrà, cala, Formentera, amanecer; taxi pre-reservado) — reel_bucketlist.mp4 / _tiktok
 - 2026-10-30 · 5 Ibiza flight booking fails (errores típicos, bloques+fotos; #ad vuelos/traslados) — reel_bookingfails.mp4 / _tiktok
 - 2026-10-30 · The scariest things in Ibiza for Brits (Halloween, bloques; taxi pre-reservado, nunca conducir) — reel_scary.mp4 / _tiktok
+- 2026-10-31 · Ibiza in winter? 5 off-season curiosities (clubs cierran, calas tranquilas, almendros ene–feb Santa Agnès, Dalt Vila) — reel_offseason.mp4 / _tiktok
+- 2026-10-31 · POV: your first hour in Ibiza (min 0→60; #ad traslados, taxi pre-reservado) — reel_firsthour.mp4 / _tiktok
+- 2026-10-31 · Splitting Ibiza costs without a fall-out (presupuesto, bloques; #ad traslados en grupo) — reel_split.mp4 / _tiktok

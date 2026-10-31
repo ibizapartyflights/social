@@ -1,0 +1,12 @@
+[
+{"type":"hook","bg":"O","fg":"N","acc":"S","wave":"#0E172633","lines":["POV:","your first","hour in","Ibi-za ☀️"],"fs":140,"top":190,"sub":"Minute 0 → minute 60 ⏱️","subTop":980,"vert":"Pov · touchdown","dur":1.7},
+{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"Min 0","kbg":"N","title":"Doors open. Warm air hits 🥵","tc":"N","sub":"Sunnies on before the stairs 😎","dur":1.9,
+ "chars":[{"x":-60,"y":10,"shirt":"#E8582A","shades":true},{"x":20,"y":10,"shirt":"#FF3D8B","hair":"#E3B341","shades":true}]},
+{"type":"blocks","bg":"S","wave":"#E8582A33","kicker":"Min 20","kbg":"O","title":"Your name on a sign 🪧","tc":"N","sub":"Pre-booked transfer = no taxi queue 🚐","dur":1.9,
+ "chars":[{"x":-50,"y":10,"shirt":"#0E1726","hat":"#4FE3FF"}],
+ "props":[{"x":20,"y":-40,"w":40,"d":6,"h":30,"z":40,"c":"#F4E3C8"},{"x":60,"y":-70,"w":70,"d":34,"h":26,"c":"#0E1726"},{"x":68,"y":-66,"z":26,"w":44,"d":26,"h":16,"c":"#4FE3FF"}]},
+{"img":"islas_mar","kicker":"Min 35","kbg":"C","kfg":"N","title":"First glimpse of that blue 🌊","sub":"Phones out, group chat explodes 📱","dur":1.9},
+{"img":"piscina_gente","kicker":"Min 50","kbg":"P","title":"Bags dropped. Pool. Now 🏊","sub":"Unpacking can wait","dur":1.9},
+{"img":"atardecer_gente","kicker":"Min 60","kbg":"O","title":"\"Right… what's the plan tonight?\" 🌅","sub":"Ride home sorted, obviously 🚕","dur":2.0},
+{"type":"cta","bg":"S","fg":"N","acc":"O","title":"Which<br>minute<br>is you? ⏱️","sub":"Comment 0, 20, 35, 50 or 60 👇","fs":122,"subTop":640,"dur":2.8}
+]

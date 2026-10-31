@@ -1,0 +1,16 @@
+[
+{"type":"hook","bg":"N","fg":"S","acc":"C","wave":"#E8582A55","lines":["Split-ting","Ibi-za","costs","with-out a","fall-out 💸"],"fs":128,"top":180,"sub":"Friendships: saved 🤝","subTop":1000,"vert":"The group money rules","dur":1.7},
+{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"Rule 1","kbg":"N","title":"Agree a budget before booking 🗳️","tc":"N","sub":"Awkward chat now, not later","dur":1.9,
+ "chars":[{"x":-70,"y":10,"shirt":"#E8582A"},{"x":-10,"y":20,"shirt":"#FF3D8B","hair":"#2A1A10"},{"x":50,"y":30,"shirt":"#0E1726","shades":true}]},
+{"type":"blocks","bg":"O","wave":"#0E172633","kicker":"Rule 2","kbg":"N","title":"One books, all pay back fast ⚡","sub":"Not \"next payday\" 👀","dur":2.0,
+ "chars":[{"x":-30,"y":0,"shirt":"#4FE3FF","hat":"#F4E3C8"}],
+ "props":[{"x":40,"y":-30,"w":18,"d":4,"h":30,"c":"#0E1726"}]},
+{"type":"blocks","bg":"S","wave":"#E8582A33","kicker":"Rule 3","kbg":"O","title":"Book the airport transfer as a group 🚐","tc":"N","sub":"Split it, nobody's stranded","dur":1.9,
+ "chars":[{"x":-60,"y":10,"shirt":"#FF3D8B"},{"x":20,"y":10,"shirt":"#4FE3FF","shades":true}],
+ "props":[{"x":60,"y":-70,"w":70,"d":34,"h":26,"c":"#0E1726"},{"x":68,"y":-66,"z":26,"w":44,"d":26,"h":16,"c":"#E8582A"}]},
+{"type":"blocks","bg":"P","wave":"#0E172633","kicker":"Rule 4","kbg":"N","title":"A kitty for the shared stuff 🫙","sub":"Taxis, snacks, the boat-day speaker 🔊","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#F4E3C8","hair":"#E3B341","shades":true}]},
+{"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"Rule 5","kbg":"C","kfg":"N","title":"Settle up before the flight home ✅","sub":"Not 3 weeks later in the chat 📱","dur":1.9,
+ "chars":[{"x":-60,"y":10,"shirt":"#E8582A","shades":true},{"x":20,"y":10,"shirt":"#4FE3FF"}]},
+{"type":"cta","bg":"C","fg":"N","acc":"O","title":"Send it<br>to the<br>group 💬","sub":"Which rule does your group break? 👇","fs":122,"subTop":640,"dur":2.8}
+]

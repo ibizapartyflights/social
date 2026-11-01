@@ -36,3 +36,6 @@
 - 2026-10-31 · Ibiza in winter? 5 off-season curiosities (clubs cierran, calas tranquilas, almendros ene–feb Santa Agnès, Dalt Vila) — reel_offseason.mp4 / _tiktok
 - 2026-10-31 · POV: your first hour in Ibiza (min 0→60; #ad traslados, taxi pre-reservado) — reel_firsthour.mp4 / _tiktok
 - 2026-10-31 · Splitting Ibiza costs without a fall-out (presupuesto, bloques; #ad traslados en grupo) — reel_split.mp4 / _tiktok
+- 2026-11-01 · Ibiza 2027: which month are you? (May–Oct, "usually", sin fechas 2027) — reel_month.mp4 / _tiktok
+- 2026-11-01 · Ibiza for £0: 5 free things (presupuesto: sunset oeste, Dalt Vila, snorkel cala, Torre des Savinar/Es Vedrà, marina) — reel_free.mp4 / _tiktok
+- 2026-11-01 · What Brits say in Ibiza vs what they mean (humor británico, bloques; taxi pre-reservado, nunca conducir) — reel_brits.mp4 / _tiktok

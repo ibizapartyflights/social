@@ -1,0 +1,15 @@
+[
+{"type":"hook","bg":"P","fg":"S","acc":"N","wave":"#0E172633","lines":["What","Brits say","in Ibi-za","vs what","they mean 🇬🇧"],"fs":124,"top":170,"sub":"A translation guide 📖","subTop":980,"vert":"Lost in translation","dur":1.7},
+{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"\"I'll just have one\"","kbg":"N","title":"= cancel tomorrow's plans 🫠","tc":"N","sub":"Every. Single. Time.","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#E8582A","shades":true}]},
+{"type":"blocks","bg":"S","wave":"#E8582A33","kicker":"\"I'm not even tired\"","kbg":"O","title":"= asleep on the sunbed by 4pm 😴","tc":"N","sub":"Mid-sentence, sunnies on","dur":1.9,
+ "chars":[{"x":-40,"y":10,"shirt":"#4FE3FF","shades":true}],
+ "props":[{"x":-60,"y":40,"w":100,"d":36,"h":10,"c":"#FFFFFF"}]},
+{"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"\"Let's have an early one\"","kbg":"C","kfg":"N","title":"= home at sunrise 🌅","sub":"Define \"early\"","dur":1.9,
+ "chars":[{"x":-60,"y":10,"shirt":"#FF3D8B","hair":"#E3B341"},{"x":20,"y":10,"shirt":"#F4E3C8"}]},
+{"type":"blocks","bg":"O","wave":"#0E172633","kicker":"\"I'll sort the taxi later\"","kbg":"N","title":"= the 6am queue 😩","sub":"Pre-book it. Never drive after drinking 🚕","dur":2.0,
+ "chars":[{"x":-70,"y":10,"shirt":"#0E1726"},{"x":-10,"y":20,"shirt":"#4FE3FF"},{"x":50,"y":30,"shirt":"#F4E3C8","shades":true}]},
+{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"\"Never again\"","kbg":"P","title":"= already eyeing 2027 👀","tc":"N","sub":"Group chat renamed by Tuesday","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#E8582A","hat":"#0E1726"}]},
+{"type":"cta","bg":"S","fg":"N","acc":"P","title":"Tag the<br>mate who<br>says no. 1 👇","sub":"Which one is you? Comment 1–5","fs":118,"subTop":640,"dur":2.8}
+]

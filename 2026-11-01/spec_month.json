@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"N","fg":"S","acc":"O","img":"fiesta_baile_atardecer","lines":["Ibi-za","2027:","which","month? 🗓️"],"fs":150,"top":170,"sub":"Pick yours before the group does 👀","subTop":860,"vert":"Month by month","dur":1.7},
+{"img":"fiesta_escenario","kicker":"May","kbg":"O","title":"Opening season 🪩","sub":"Openings usually land late Apr–May","dur":1.9},
+{"img":"mar_nadando","kicker":"June","kbg":"C","kfg":"N","title":"Long days, sea warming up 🌊","sub":"Sunset gets later and later","dur":1.9},
+{"img":"piscina_gente","kicker":"Jul–Aug","kbg":"P","title":"Peak season ☀️","sub":"Busiest island, hottest days 🥵","dur":1.9},
+{"img":"atardecer_gente","kicker":"Sept","kbg":"S","kfg":"N","title":"Closing parties begin 🌅","sub":"Warm sea, big send-offs","dur":1.9},
+{"img":"isla_nubes","kicker":"Oct","kbg":"O","title":"The last closings 🧡","sub":"Quieter calas, golden light","dur":1.9},
+{"type":"cta","bg":"O","fg":"N","acc":"S","title":"Which<br>month<br>are you? 🗓️","sub":"Comment it + tag the group 👇","fs":122,"subTop":640,"dur":2.8}
+]

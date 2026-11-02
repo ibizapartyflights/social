@@ -61,6 +61,7 @@ body = f'''
 <h2>Option 3: a pre-booked transfer</h2>
 <p>You book and pay before you fly, the price is fixed, and the driver waits at arrivals with your name, even if the flight is late. For groups it often works out similar per person to a taxi, and there is a vehicle for everyone and the luggage.</p>
 {cta(TAXI, "Compare airport transfers on Kiwitaxi")}
+{cta(WPICK, "Or book with Welcome Pickups", "line")}
 
 <div class="box"><h3>Our take</h3>
 <p>Travelling light and landing in daylight? The bus is fine. Landing late, in a group, or on a peak weekend? A pre-booked transfer saves you the queue and the guesswork.</p></div>
@@ -117,6 +118,7 @@ body = f'''
 <li>Get your free UK Global Health Insurance Card (GHIC) and take travel insurance.</li>
 <li>Pack an EU plug adaptor, SPF 50 and a power bank.</li>
 <li>Check your bank's fees for paying in euros abroad.</li>
+<li>Check your phone plan's roaming charges in Spain. If they are high, a travel eSIM with a data bundle can work out cheaper. <a href="{ESIM}" target="_blank" rel="noopener sponsored">See Spain eSIMs on Airalo</a>.</li>
 </ul></div>
 '''
 pages.append(("ibiza-on-a-budget", "Ibiza on a budget: how UK groups spend less",
@@ -148,6 +150,10 @@ body = f'''
 <li>Keep an eye on your drink and on your mates.</li>
 <li>In an emergency, call 112, the European emergency number.</li>
 </ul>
+
+<h2>Stay online</h2>
+<p>Maps, taxis, tickets on your phone and finding your mates after the club all need data. Some UK mobile plans charge for roaming in Spain, so check yours before you fly. If yours does, a travel eSIM is a simple fix: you buy a data bundle online and install it before you land.</p>
+{cta(ESIM, "See Spain eSIMs on Airalo", "line")}
 
 <h2>Paperwork from the UK</h2>
 <ul>
@@ -221,7 +227,7 @@ body = f'''
 <div class="box"><h3>What to bring</h3>
 <ul><li>SPF 50, a hat and water</li><li>Cash or card for the bar</li><li>A waterproof phone pouch</li><li>A towel and a dry layer for the trip back</li></ul></div>
 
-<p class="cta"><a class="btn line" href="https://www.getyourguide.com/s/?q=Ibiza%20boat%20party" target="_blank" rel="noopener">See Ibiza boat trips on GetYourGuide</a></p>
+{cta(TIQ, "See Ibiza boat trips on Tiqets")}
 '''
 pages.append(("ibiza-boat-day", "Ibiza boat parties vs private boat hire",
   "Boat party or private boat hire in Ibiza? What each costs to organise, what is included, where the boats go and what to bring.",

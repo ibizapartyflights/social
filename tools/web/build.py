@@ -7,6 +7,9 @@ FLY=tp("https://www.aviasales.com/?destination=IBZ",4114,100)
 TAXI=tp("https://kiwitaxi.com/en/spain/ibiza",647,1)
 CAR=tp("https://localrent.com/en/spain/ibiza/",2043,87)
 DELAY=tp("https://www.airhelp.com/en-gb/",9139,120)
+ESIM="https://airalo.tpx.gr/tvyvKRQw"  # Airalo Spain eSIM
+WPICK="https://tpx.gr/WPxEBccV"  # Welcome Pickups, Ibiza airport transfer
+TIQ="https://tiqets.tpx.gr/heYwlurD"  # Tiqets, Ibiza attractions and boat trips
 def bk(area): return "https://www.booking.com/searchresults.html?ss="+quote(area)
 CSS=open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"guide.css")).read()
 def page(slug,title,desc,h1,lede,img,body,faqs=None,updated="2026-11-02"):

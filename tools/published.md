@@ -39,3 +39,6 @@
 - 2026-11-01 · Ibiza 2027: which month are you? (May–Oct, "usually", sin fechas 2027) — reel_month.mp4 / _tiktok
 - 2026-11-01 · Ibiza for £0: 5 free things (presupuesto: sunset oeste, Dalt Vila, snorkel cala, Torre des Savinar/Es Vedrà, marina) — reel_free.mp4 / _tiktok
 - 2026-11-01 · What Brits say in Ibiza vs what they mean (humor británico, bloques; taxi pre-reservado, nunca conducir) — reel_brits.mp4 / _tiktok
+- 2026-11-02 · The perfect Ibiza day in 5 stops (POV itinerario, fotos nuevas: cala, piscina, barco, atardecer, fiesta; taxi pre-reservado) — reel_perfectday.mp4 / _tiktok
+- 2026-11-02 · The Ibiza starter pack (checklist, bloques; #ad vuelos/traslados, nunca conducir) — reel_starter.mp4 / _tiktok
+- 2026-11-02 · Signs you need Ibiza 2027, UK November edition (humor británico, bloques) — reel_signs.mp4 / _tiktok

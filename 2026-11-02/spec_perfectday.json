@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"N","fg":"S","acc":"O","wave":"#4FE3FF55","lines":["The per-","fect Ibi-","za day","in 5 stops 🧭"],"fs":150,"top":190,"sub":"Screenshot the route 📲","subTop":960,"vert":"Itinerary: sorted","dur":1.7},
+{"img":"mar_nadando","kicker":"10am","kbg":"C","kfg":"N","title":"A swim in a quiet cala 🏝️","sub":"Before the crowds wake up","dur":1.9},
+{"img":"piscina_gente","kicker":"1pm","kbg":"O","title":"Pool, lunch, repeat ☀️","sub":"SPF 50, reapplied (yes, again)","dur":1.9},
+{"img":"barco_grupo","kicker":"4pm","kbg":"S","kfg":"N","title":"Boat time with the crew 🚤","sub":"Speaker charged, obviously","dur":1.9},
+{"img":"atardecer_gente","kicker":"8pm","kbg":"P","title":"Sunset on the west coast 🌅","sub":"Phones out, all of them","dur":1.9},
+{"img":"fiesta_bolas_disco","kicker":"Late","kbg":"C","kfg":"N","title":"Dance till late 🪩","sub":"Ride home pre-booked, never drive after drinking 🚕","dur":2.0},
+{"type":"cta","bg":"C","fg":"N","acc":"S","title":"Which<br>stop is<br>yours? 👇","sub":"Comment the time + save for 2027 📌","fs":124,"subTop":640,"dur":2.8}
+]

@@ -1,0 +1,17 @@
+[
+{"type":"hook","bg":"O","fg":"N","acc":"S","wave":"#0E172633","lines":["The Ibi-","za star-","ter pack 🎒"],"fs":175,"top":220,"sub":"For your first trip in 2027","subTop":900,"vert":"Rookie kit","dur":1.7},
+{"type":"blocks","bg":"S","wave":"#4FE3FF55","kicker":"1","kbg":"N","title":"One flight for the whole group ✈️","tc":"N","sub":"Not four arrivals, four hours apart","dur":1.9,
+ "chars":[{"x":-70,"y":10,"shirt":"#E8582A","shades":true},{"x":-10,"y":20,"shirt":"#4FE3FF"},{"x":50,"y":30,"shirt":"#FF3D8B","hair":"#E3B341"}]},
+{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"2","kbg":"O","title":"Transfer booked before you land 🚐","tc":"N","sub":"Your name on a sign, no queue","dur":1.9,
+ "chars":[{"x":-40,"y":10,"shirt":"#0E1726","hat":"#F4E3C8"}],
+ "props":[{"x":10,"y":-60,"w":90,"d":40,"h":46,"c":"#FFFFFF"},{"x":10,"y":-60,"w":90,"d":40,"h":12,"c":"#E8582A"}]},
+{"type":"blocks","bg":"N","wave":"#E8582A44","kicker":"3","kbg":"C","kfg":"N","title":"SPF 50 + sunnies 😎","sub":"Day 2 lobster? Not this year 🦞","dur":1.9,
+ "chars":[{"x":-30,"y":0,"shirt":"#F4E3C8","shades":true}],
+ "props":[{"x":40,"y":40,"w":16,"d":16,"h":40,"c":"#E8582A"}]},
+{"type":"blocks","bg":"P","wave":"#0E172633","kicker":"4","kbg":"N","title":"EU plug + power bank 🔋","sub":"2% at 3am is a horror film","dur":1.9,
+ "chars":[{"x":-50,"y":10,"shirt":"#4FE3FF"}],
+ "props":[{"x":30,"y":20,"w":30,"d":20,"h":14,"c":"#0E1726"}]},
+{"type":"blocks","bg":"S","wave":"#E8582A33","kicker":"5","kbg":"O","title":"Ride home sorted every night 🚕","tc":"N","sub":"Never drive after drinking","dur":2.0,
+ "chars":[{"x":-60,"y":10,"shirt":"#E8582A"},{"x":10,"y":20,"shirt":"#0E1726","shades":true}]},
+{"type":"cta","bg":"N","fg":"S","acc":"O","title":"Send it<br>to the<br>group 💬","sub":"What's missing from the pack? 👇","fs":124,"subTop":640,"dur":2.8}
+]

@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"O","fg":"N","acc":"S","wave":"#0E172633","lines":["Pick","your Ibi-","za group","job 🫵"],"fs":160,"top":200,"sub":"Every crew needs all 5","subTop":960,"vert":"Roles: assigned","dur":1.7},
+{"img":"barco_grupo","kicker":"1","kbg":"N","title":"The aux DJ 🎶","sub":"Boat-day playlist: their whole personality","dur":1.9},
+{"img":"fiesta_grupo","kicker":"2","kbg":"C","kfg":"N","title":"The photographer 📸","sub":"\"One more, I blinked\"","dur":1.9},
+{"img":"islas_mar","kicker":"3","kbg":"O","title":"The SPF police 🧴","sub":"Reapplying everyone, every 2 hours","dur":1.9},
+{"img":"atardecer_gente","kicker":"4","kbg":"S","kfg":"N","title":"The sunset planner 🌅","sub":"Knows the spot, knows the time","dur":1.9},
+{"img":"fiesta_concierto_noche","kicker":"5","kbg":"P","title":"The ride-home organiser 🚕","sub":"Taxi pre-booked, never drive after drinking","dur":2.0},
+{"type":"cta","bg":"N","fg":"S","acc":"O","title":"Which job<br>is yours? 👇","sub":"Comment 1–5 + tag your crew 🏷️","fs":124,"subTop":640,"dur":2.8}
+]

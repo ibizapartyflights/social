@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"C","fg":"N","acc":"O","wave":"#0E172633","lines":["Normal","in Ibi-","za, weird","in the UK 🤯"],"fs":150,"top":200,"sub":"No. 2 shocks every Brit","subTop":960,"vert":"Culture check","dur":1.7},
+{"img":"atardecer_restaurante","kicker":"1","kbg":"O","title":"Dinner at 10pm? That's early 🍽️","sub":"Nobody eats at 6 here","dur":1.9},
+{"img":"atardecer_gente","kicker":"2","kbg":"C","kfg":"N","title":"People clap the sunset 👏","sub":"West coast, every evening","dur":1.9},
+{"img":"isla_nubes","kicker":"3","kbg":"S","kfg":"N","title":"Some shops shut for the afternoon 🕒","sub":"Siesta hours are real","dur":1.9},
+{"img":"mar_nadando","kicker":"4","kbg":"P","title":"Still light at 9pm in summer ☀️","sub":"Your body clock: confused","dur":1.9},
+{"img":"fiesta_baile_atardecer","kicker":"5","kbg":"N","title":"The night starts after midnight 🪩","sub":"Ride home pre-booked, never drive after drinking 🚕","dur":2.0},
+{"type":"cta","bg":"N","fg":"S","acc":"C","title":"Which one<br>got you? 👇","sub":"Comment 1–5 + save for 2027 📌","fs":124,"subTop":640,"dur":2.8}
+]

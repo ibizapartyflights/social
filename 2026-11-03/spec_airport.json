@@ -1,17 +1,74 @@
 [
-{"type":"hook","bg":"N","fg":"S","acc":"O","wave":"#E8582A44","lines":["Every","mate at","the air-","port home 🧳"],"fs":150,"top":200,"sub":"Ibiza, last day edition","subTop":960,"vert":"Gate 0: tears","dur":1.7},
-{"type":"blocks","bg":"S","wave":"#4FE3FF55","kicker":"1","kbg":"N","title":"Wearing every outfit 🧥","tc":"N","sub":"The hold bag was \"too dear\"","dur":1.9,
- "chars":[{"x":-30,"y":0,"shirt":"#FF3D8B","hat":"#E8582A"}],
- "props":[{"x":40,"y":30,"w":40,"d":26,"h":50,"c":"#0E1726"}]},
-{"type":"blocks","bg":"O","wave":"#0E172633","kicker":"2","kbg":"N","title":"Asleep at the gate 😴","sub":"Since check-in","dur":1.9,
- "chars":[{"x":-40,"y":10,"shirt":"#4FE3FF","shades":true}]},
-{"type":"blocks","bg":"C","wave":"#0E172622","kicker":"3","kbg":"O","title":"Phone on 1% 🔋","tc":"N","sub":"Hunting for a socket like it's gold","dur":1.9,
- "chars":[{"x":-50,"y":10,"shirt":"#0E1726"}],
- "props":[{"x":30,"y":20,"w":30,"d":20,"h":14,"c":"#E8582A"}]},
-{"type":"blocks","bg":"N","wave":"#4FE3FF33","kicker":"4","kbg":"C","kfg":"N","title":"The hero who pre-booked the transfer 🚐","sub":"Zero queues, all week","dur":1.9,
- "chars":[{"x":-40,"y":10,"shirt":"#E8582A","shades":true}],
- "props":[{"x":10,"y":-60,"w":90,"d":40,"h":46,"c":"#FFFFFF"},{"x":10,"y":-60,"w":90,"d":40,"h":12,"c":"#4FE3FF"}]},
-{"type":"blocks","bg":"P","wave":"#0E172633","kicker":"5","kbg":"N","title":"Already planning 2027 👀","sub":"Before take-off","dur":2.0,
- "chars":[{"x":-60,"y":10,"shirt":"#F4E3C8"},{"x":10,"y":20,"shirt":"#0E1726","hair":"#E3B341"}]},
-{"type":"cta","bg":"S","fg":"N","acc":"O","title":"Tag your<br>no. 2 😂","sub":"Which one are you? Comment 1–5 👇","fs":124,"subTop":640,"dur":2.8}
+ {
+  "type": "hook",
+  "bg": "N",
+  "fg": "S",
+  "acc": "O",
+  "wave": "#E8582A44",
+  "lines": [
+   "Every",
+   "mate at",
+   "the air-",
+   "port home 🧳"
+  ],
+  "fs": 150,
+  "top": 200,
+  "sub": "Ibiza, last day edition",
+  "subTop": 960,
+  "vert": "Gate 0: tears",
+  "dur": 1.7
+ },
+ {
+  "img": "piscina_gente",
+  "kicker": "#1",
+  "kbg": "O",
+  "title": "Wearing every outfit 🧥",
+  "sub": "The hold bag was \"too dear\"",
+  "dur": 1.9
+ },
+ {
+  "img": "barco_atardecer",
+  "kicker": "#2",
+  "kbg": "C",
+  "title": "Asleep at the gate 😴",
+  "sub": "Since check-in",
+  "dur": 1.9,
+  "kfg": "N"
+ },
+ {
+  "img": "fiesta_bolas_disco",
+  "kicker": "#3",
+  "kbg": "S",
+  "title": "Phone on 1% 🔋",
+  "sub": "Hunting for a socket like it's gold",
+  "dur": 1.9,
+  "kfg": "N"
+ },
+ {
+  "img": "barcos_mar",
+  "kicker": "#4",
+  "kbg": "O",
+  "title": "The hero who pre-booked the transfer 🚐",
+  "sub": "Zero queues, all week",
+  "dur": 1.9
+ },
+ {
+  "img": "es_vedra_2",
+  "kicker": "#5",
+  "kbg": "P",
+  "title": "Already planning 2027 👀",
+  "sub": "Before take-off",
+  "dur": 2.0
+ },
+ {
+  "type": "cta",
+  "bg": "S",
+  "fg": "N",
+  "acc": "O",
+  "title": "Tag your<br>no. 2 😂",
+  "sub": "Which one are you? Comment 1–5 👇",
+  "fs": 124,
+  "subTop": 640,
+  "dur": 2.8
+ }
 ]

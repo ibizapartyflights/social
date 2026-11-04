@@ -12,7 +12,7 @@
 ## META ACTUAL (desde 04/11/2026): 1.000 seguidores en TikTok
 Motivo: con 1.000 seguidores TikTok deja poner enlace en la bio; hoy las visualizaciones no llegan a la web (Cloudflare: 0 visitas de Reino Unido en 30 días).
 Cada tarea diaria debe:
-- Preparar **2 vídeos de TikTok al día** (Rubén los sube a mano; no gastan el límite de Metricool) y decirle la hora de subida: 18:00–21:00 hora UK (19:00–22:00 España).
+- Los 3 vídeos diarios van TODOS a TikTok (Rubén los sube a mano; no gastan el límite de Metricool), en las franjas de la tarea.
 - Gancho en pantalla en los 2 primeros segundos (frase corta en inglés británico, ej. "POV: your first night in Ibiza").
 - Priorizar sus clips reales de fiesta y fotos; nunca muñequitos.
 - Formato serie cuando se pueda ("Ibiza club ranking 3/10", "UK airport → Ibiza 2/6") para que sigan la cuenta.

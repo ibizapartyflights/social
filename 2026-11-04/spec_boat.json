@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"C","fg":"N","acc":"O","wave":"#0E172633","lines":["Ibi-za","boat day","check-","list ⛵"],"fs":158,"top":200,"sub":"Screenshot before you sail 📲","subTop":960,"vert":"Boat day ready","dur":1.7},
+{"img":"barcos_mar","kicker":"1","kbg":"N","title":"Book it with the flights 📅","sub":"Not on the day, on the dock","dur":1.9},
+{"img":"islas_mar","kicker":"2","kbg":"O","title":"SPF 50 + a hat 🧢","sub":"Zero shade at sea. Reapply after every swim","dur":1.9},
+{"img":"barco_grupo","kicker":"3","kbg":"C","kfg":"N","title":"Dry bag for the phones 🎒","sub":"Phones and the sea don't mix","dur":1.9},
+{"img":"barco_atardecer","kicker":"4","kbg":"S","kfg":"N","title":"Water. More water 💧","sub":"Sun + sea + bubbles = hydrate","dur":1.9},
+{"img":"atardecer_restaurante","kicker":"5","kbg":"P","title":"Ride back from the port sorted 🚕","sub":"Taxi pre-booked, never drive after drinking","dur":2.0},
+{"type":"cta","bg":"N","fg":"S","acc":"O","title":"Save it for<br>boat day 📌","sub":"Boats + full guide 👉 link in bio","fs":124,"subTop":640,"dur":2.8}
+]

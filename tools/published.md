@@ -45,3 +45,6 @@
 - 2026-11-03 · Normal in Ibiza, weird in the UK (curiosidades: cena 10pm, aplausos al atardecer, siesta, luz a las 9pm, noche tras medianoche; taxi pre-reservado) — reel_normal.mp4 / _tiktok
 - 2026-11-03 · Every mate at the airport home (tipos de amigos, bloques; #ad traslados) — reel_airport.mp4 / _tiktok
 - 2026-11-03 · Pick your Ibiza group job (which one are you, fotos; taxi pre-reservado, nunca conducir) — reel_roles.mp4 / _tiktok
+- 2026-11-04 · Your phone in Ibiza: 4 data fails (errores típicos, fotos; #ad eSIM Airalo, roaming "check your network") — reel_data.mp4 / _tiktok
+- 2026-11-04 · Ibiza boat day checklist (checklist, fotos barcos; #ad barcos Tiqets, taxi pre-reservado, nunca conducir) — reel_boat.mp4 / _tiktok
+- 2026-11-04 · Unpopular Ibiza opinions (engagement 🔥/❌, fotos fiesta; taxi pre-reservado, nunca conducir) — reel_opinions.mp4 / _tiktok

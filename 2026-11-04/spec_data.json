@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"N","fg":"S","acc":"C","wave":"#4FE3FF33","lines":["Your","phone in","Ibi-za:","4 data fails 📵"],"fs":148,"top":200,"sub":"No. 3 = no ride home","subTop":960,"vert":"Phone check","dur":1.7},
+{"img":"isla_nubes","kicker":"1","kbg":"O","title":"Landing with no data plan 📵","sub":"Can't open the transfer pickup message","dur":1.9},
+{"img":"es_vedra_2","kicker":"2","kbg":"C","kfg":"N","title":"Roaming without checking 💸","sub":"Check your network's EU roaming charges before you fly","dur":2.0},
+{"img":"fiesta_escenario","kicker":"3","kbg":"P","title":"2% battery at 3am 🔋","sub":"No maps, no taxi app. Pack a power bank","dur":1.9},
+{"img":"atardecer_gente","kicker":"4","kbg":"S","kfg":"N","title":"Hunting for Wi-Fi at sunset 📶","sub":"Missing the moment for one bar","dur":1.9},
+{"img":"mar_nadando","kicker":"Fix","kbg":"O","title":"Sort an eSIM before you fly 📲","sub":"Set it up at home, switch it on when you land","dur":2.0},
+{"type":"cta","bg":"O","fg":"N","acc":"S","title":"Data<br>sorted? ✅","sub":"eSIM + full guide 👉 link in bio","fs":130,"subTop":640,"dur":2.8}
+]

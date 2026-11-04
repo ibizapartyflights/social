@@ -9,6 +9,19 @@
 - Música de reels: `python3 tools/beat.py musica.wav <segundos> 124 <semilla>` genera una base house original sin derechos (cambia la semilla cada semana). Mézclala en el vídeo con `-c:a aac -b:a 192k`.
 - Vídeo: NUNCA zoompan/Ken Burns (vibra y pierde nitidez). Escenas fijas 1080×1920 (lanczos) + xfade, libx264 -crf 16 -preset slow -tune stillimage. Sin logo/nombre arriba a la izquierda en los reels (TikTok lo tapa); la marca va en la pantalla final.
 
+## META ACTUAL (desde 04/11/2026): 1.000 seguidores en TikTok
+Motivo: con 1.000 seguidores TikTok deja poner enlace en la bio; hoy las visualizaciones no llegan a la web (Cloudflare: 0 visitas de Reino Unido en 30 días).
+Cada tarea diaria debe:
+- Preparar **2 vídeos de TikTok al día** (Rubén los sube a mano; no gastan el límite de Metricool) y decirle la hora de subida: 18:00–21:00 hora UK (19:00–22:00 España).
+- Gancho en pantalla en los 2 primeros segundos (frase corta en inglés británico, ej. "POV: your first night in Ibiza").
+- Priorizar sus clips reales de fiesta y fotos; nunca muñequitos.
+- Formato serie cuando se pueda ("Ibiza club ranking 3/10", "UK airport → Ibiza 2/6") para que sigan la cuenta.
+- Palabras clave de búsqueda en el texto del vídeo y en pantalla: ibiza clubs, best ibiza clubs, flights to ibiza from london/manchester/birmingham/glasgow, ibiza boat party, ibiza 2027.
+- Pie con pregunta que invite a comentar + "Follow for part 2" cuando sea serie; sin enlaces en el pie (no se pueden pulsar).
+- Indicarle que elija un sonido en tendencia dentro de TikTok (no usar canciones con copyright en el archivo).
+- Recordatorio de 15 min de interacción: comentar en cuentas de Ibiza/clubs/DJs y responder comentarios con vídeo.
+- Cada lunes: leer seguidores de TikTok e Instagram en Metricool (brand 7576044, TKEV07/IGEV01) y decirle a Rubén el avance hacia 1.000 y qué vídeo funcionó mejor esa semana para repetirlo.
+
 ## Identidad de marca (aprobada por Rubén el 23/10/2026)
 Identidad flexible, no un logo fijo. Ver assets/brand/sistema_marca.png y tools/brand_tiles.js (funciones badge, waves, stack, vert).
 - Logo: sello circular "IBIZA PARTY FLIGHTS • YOUR IBIZA DEAL HUNTERS" alrededor de un sol naranja con franjas (assets/brand/perfil_sello_oscuro.png / _claro.png).

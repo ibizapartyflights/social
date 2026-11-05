@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","wave":"#38E1FF33","lines":["Lon-don","→ Ibi-za","part 1/6"],"fs":160,"top":210,"sub":"UK airport → Ibiza series","subTop":900,"vert":"Flights to Ibiza from London","dur":1.7},
+{"img":"islas_mar","kicker":"1/6 · London","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"About 2.5 hours, door to sea view 🌊","sub":"Usually shorter than the M25 on a Friday","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"atardecer_restaurante","kicker":"Tip 1","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Check every London airport 🗺️","sub":"Gatwick, Stansted, Luton… summer routes vary","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"mar_nadando","kicker":"Tip 2","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Early flight = full day one 🌊","sub":"Swim by lunchtime, not by teatime","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"hamacas","kicker":"Tip 3","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Transfer booked before you land 🚐","sub":"Your name on a sign, no taxi queue","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"fiesta_escenario","kicker":"Tip 4","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Night one: ride home pre-booked 🚕","sub":"Never drive after drinking","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"type":"cta","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#C8FF2E","title":"Manchester<br>next? 👇","sub":"Follow for part 2/6","fs":118,"subTop":640,"dur":2.6}
+]

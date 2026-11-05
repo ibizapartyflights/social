@@ -48,3 +48,6 @@
 - 2026-11-04 · Your phone in Ibiza: 4 data fails (errores típicos, fotos; #ad eSIM Airalo, roaming "check your network") — reel_data.mp4 / _tiktok
 - 2026-11-04 · Ibiza boat day checklist (checklist, fotos barcos; #ad barcos Tiqets, taxi pre-reservado, nunca conducir) — reel_boat.mp4 / _tiktok
 - 2026-11-04 · Unpopular Ibiza opinions (engagement 🔥/❌, fotos fiesta; taxi pre-reservado, nunca conducir) — reel_opinions.mp4 / _tiktok
+- 2026-11-05 · UK airport → Ibiza 1/6: London (serie; ~2,5 h "usually", aeropuertos de Londres, vuelo temprano, traslado, taxi pre-reservado; paleta nocturna; #ad traslados) — reel_london.mp4 / _tiktok
+- 2026-11-05 · How am I meant to get over Ibiza? (nostalgia, repite formato del TikTok top "Amnesia closing", cortes de 1,5 s, fotos de fiesta; sin nombres de clubs) — reel_overit.mp4 / _tiktok
+- 2026-11-05 · Ibiza clubs explained 1/3 (serie: day party, sunset session, superclub, boat party; sin nombres ni logos; taxi pre-reservado) — reel_clubs.mp4 / _tiktok

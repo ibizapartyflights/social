@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#000000","fg":"#FFFFFF","acc":"#C8FF2E","wave":"#C8FF2E33","img":"fiesta_concierto_noche","lines":["How am","I meant","to get","over Ibiza? 😭"],"fs":138,"top":200,"vert":"Ibiza 2026 → Ibiza 2027","dur":1.6},
+{"img":"fiesta_grupo","title":"The crew 🫶","sub":"Same faces, every night","sbg":"rgba(0,0,0,.72)","dur":1.5},
+{"img":"atardecer_gente","title":"The sunsets 🌅","sub":"Whole beach clapping","sbg":"rgba(0,0,0,.72)","dur":1.5},
+{"img":"barco_grupo","title":"The boat day ⛵","sub":"Best playlist of the year","sbg":"rgba(0,0,0,.72)","dur":1.5},
+{"img":"fiesta_bolas_disco","title":"The nights 🪩","sub":"Ride home pre-booked 🚕","sbg":"rgba(0,0,0,.72)","dur":1.5},
+{"img":"es_vedra_2","title":"And now it's November 🌧️","sub":"…so we plan 2027","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#0A1A8F","title":"Who's<br>coming<br>back? 👇","sub":"","fs":124,"subTop":640,"dur":2.6}
+]

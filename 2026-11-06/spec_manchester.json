@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","wave":"#38E1FF33","lines":["Man-ches-","ter → Ibi-za","part 2/6"],"fs":150,"top":210,"sub":"UK airport → Ibiza series","subTop":900,"vert":"Flights to Ibiza from Manchester","dur":1.7},
+{"img":"es_vedra_2","kicker":"2/6 · Manchester","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Under 3 hours, usually ✈️","sub":"One playlist and a nap, basically","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"barco_atardecer","kicker":"Tip 1","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Flexible by a day? Check both 🗓️","sub":"Fares can move a lot between days","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"isla_nubes","kicker":"Tip 2","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Hand luggage only? Pack smart 🎒","sub":"SPF, sunnies, EU plug, done","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"playa_gente","kicker":"Tip 3","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Data sorted before take-off 📶","sub":"Maps working the second you land","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"fiesta_escenario","kicker":"Tip 4","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Night one: ride home pre-booked 🚕","sub":"Never drive after drinking","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"type":"cta","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#C8FF2E","title":"Birming-<br>ham next? 👇","sub":"Follow for part 3/6","fs":118,"subTop":640,"dur":2.6}
+]

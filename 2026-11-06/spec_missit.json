@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#000000","fg":"#FFFFFF","acc":"#C8FF2E","wave":"#C8FF2E33","img":"fiesta_baile_atardecer","lines":["Tell me","you miss","Ibiza with-","out telling me 🥲"],"fs":128,"top":200,"vert":"Ibiza 2026 → Ibiza 2027","dur":1.6},
+{"img":"piscina_gente","title":"Still on Ibiza time ⏰","sub":"Dinner at 10pm. In Bolton.","sbg":"rgba(0,0,0,.72)","dur":1.5},
+{"img":"barcos_mar","title":"Boat-day playlist on repeat 🎶","sub":"At my desk. In November.","sbg":"rgba(0,0,0,.72)","dur":1.5},
+{"img":"atardecer_restaurante","title":"Clapping at the sunset 👏","sub":"…from the bus stop","sbg":"rgba(0,0,0,.72)","dur":1.5},
+{"img":"mar_nadando","title":"Checking the sea temp 🌊","sub":"Every. Single. Day.","sbg":"rgba(0,0,0,.72)","dur":1.5},
+{"img":"islas_mar","title":"Ibiza 2027 open in another tab 👀","sub":"Just looking. Obviously.","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#0A1A8F","title":"Drop a 🪩<br>if this<br>is you","sub":"","fs":120,"subTop":640,"dur":2.6}
+]

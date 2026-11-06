@@ -51,3 +51,6 @@
 - 2026-11-05 · UK airport → Ibiza 1/6: London (serie; ~2,5 h "usually", aeropuertos de Londres, vuelo temprano, traslado, taxi pre-reservado; paleta nocturna; #ad traslados) — reel_london.mp4 / _tiktok
 - 2026-11-05 · How am I meant to get over Ibiza? (nostalgia, repite formato del TikTok top "Amnesia closing", cortes de 1,5 s, fotos de fiesta; sin nombres de clubs) — reel_overit.mp4 / _tiktok
 - 2026-11-05 · Ibiza clubs explained 1/3 (serie: day party, sunset session, superclub, boat party; sin nombres ni logos; taxi pre-reservado) — reel_clubs.mp4 / _tiktok
+- 2026-11-06 · UK airport → Ibiza 2/6: Manchester (serie; "under 3 hours, usually", fechas flexibles, equipaje de mano, datos/eSIM #ad Airalo, taxi pre-reservado) — reel_manchester.mp4 / _tiktok
+- 2026-11-06 · Tell me you miss Ibiza without telling me (nostalgia, repite formato top "Amnesia closing", cortes 1,5 s, fotos nuevas; sin nombres de clubs) — reel_missit.mp4 / _tiktok
+- 2026-11-06 · Ibiza clubs explained 2/3: your first club night, 5 things to know (entradas pronto, tarde = después de medianoche "usually", presupuesto, agua, taxi pre-reservado) — reel_clubs2.mp4 / _tiktok

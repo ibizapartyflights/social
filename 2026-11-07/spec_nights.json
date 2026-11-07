@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","wave":"#38E1FF33","img":"fiesta_grupo","lines":["Ibi-za 2027:","how ma-ny","nights are","you? 🌙"],"fs":128,"top":200,"vert":"Ibiza 2027 → pick your number","dur":1.6},
+{"img":"fiesta_bolas_disco","kicker":"3 nights","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"The long weekend 🏃","sub":"Fly Friday, back at your desk Tuesday","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"barco_grupo","kicker":"4 nights","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Club night + boat day 🚤","sub":"The sweet spot?","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"mar_nadando","kicker":"5 nights","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Room for a recovery day 🌊","sub":"Calas, naps, repeat","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"atardecer_gente","kicker":"7 nights","kbg":"#38E1FF","kfg":"#0A1A8F","title":"The full week 🌅","sub":"Every sunset, every plan","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"fiesta_escenario","kicker":"10+ nights","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Basically moving there 🏝️","sub":"HR has questions","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"type":"cta","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#C8FF2E","title":"Your num-<br>ber? 👇","sub":"Tag the group","fs":120,"subTop":640,"dur":2.6}
+]

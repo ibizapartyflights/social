@@ -54,3 +54,6 @@
 - 2026-11-06 · UK airport → Ibiza 2/6: Manchester (serie; "under 3 hours, usually", fechas flexibles, equipaje de mano, datos/eSIM #ad Airalo, taxi pre-reservado) — reel_manchester.mp4 / _tiktok
 - 2026-11-06 · Tell me you miss Ibiza without telling me (nostalgia, repite formato top "Amnesia closing", cortes 1,5 s, fotos nuevas; sin nombres de clubs) — reel_missit.mp4 / _tiktok
 - 2026-11-06 · Ibiza clubs explained 2/3: your first club night, 5 things to know (entradas pronto, tarde = después de medianoche "usually", presupuesto, agua, taxi pre-reservado) — reel_clubs2.mp4 / _tiktok
+- 2026-11-07 · UK airport → Ibiza 3/6: Birmingham (serie; ~2,5 h "usually", base Sant Antoni vs Playa d'en Bossa, pasaporte/GOV.UK, traslado #ad, taxi pre-reservado) — reel_birmingham.mp4 / _tiktok
+- 2026-11-07 · Ibiza 2027: how many nights are you? (repite formato top TikTok "which month are you", selector 3/4/5/7/10+ noches, portada fiesta_grupo) — reel_nights.mp4 / _tiktok
+- 2026-11-07 · Ibiza clubs explained 3/3: opening vs closing parties (openings "usually" finales abr–may, closings sept–oct, fechas 2027 no anunciadas; taxi pre-reservado) — reel_clubs3.mp4 / _tiktok

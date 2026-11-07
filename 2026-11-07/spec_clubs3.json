@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#000000","fg":"#C8FF2E","acc":"#38E1FF","wave":"#C8FF2E33","lines":["Ibi-za","clubs ex-","plained","3/3 🖤"],"fs":156,"top":200,"sub":"Opening vs closing parties","subTop":960,"vert":"Best Ibiza clubs, decoded","dur":1.7},
+{"img":"fiesta_baile_atardecer","kicker":"Openings","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Usually late Apr–May 🪩","sub":"The season kicks off","sbg":"rgba(0,0,0,.72)","dur":1.8},
+{"img":"barco_atardecer","kicker":"Closings","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Usually Sept–Oct 🖤","sub":"The big end-of-season send-off","sbg":"rgba(0,0,0,.72)","dur":1.8},
+{"img":"islas_mar","kicker":"2027 dates?","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Not announced yet 🗓️","sub":"Watch the clubs' official channels","sbg":"rgba(0,0,0,.72)","dur":1.8},
+{"img":"barcos_mar","kicker":"The plan","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Dates drop → tickets → flights + bed ✈️","sub":"In that order","sbg":"rgba(0,0,0,.72)","dur":1.8},
+{"img":"luces_club","kicker":"Every night","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Ride home pre-booked 🚕","sub":"Never drive after drinking","sbg":"rgba(0,0,0,.72)","dur":1.8},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#0A1A8F","title":"Opening or<br>closing? 👇","sub":"Follow for more Ibiza clubs","fs":116,"subTop":640,"dur":2.6}
+]

@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#3150FF","wave":"#0A1A8F33","lines":["Bir-ming-","ham → Ibi-za","part 3/6"],"fs":150,"top":210,"sub":"UK airport → Ibiza series","subTop":900,"vert":"Flights to Ibiza from Birmingham","dur":1.7},
+{"img":"isla_nubes","kicker":"3/6 · Birmingham","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Around 2.5 hours, usually ✈️","sub":"Snack, nap, you're there","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"piscina_gente","kicker":"Tip 1","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Pick your base first 🏨","sub":"Sant Antoni = sunsets · Playa d'en Bossa = clubs","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"atardecer_restaurante","kicker":"Tip 2","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Passport dates checked 🛂","sub":"EU rules for Brits: check GOV.UK first","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"es_vedra_2","kicker":"Tip 3","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Airport → hotel ride sorted 🚐","sub":"No taxi-rank queue at midnight","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"fiesta_concierto_noche","kicker":"Tip 4","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Club nights: ride home pre-booked 🚕","sub":"Never drive after drinking","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#0A1A8F","title":"Glas-<br>gow next? 👇","sub":"Follow for part 4/6","fs":118,"subTop":640,"dur":2.6}
+]

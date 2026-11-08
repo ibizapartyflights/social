@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#3150FF","img":"piscina_gente","lines":["Ibi-za 2027:","which base","are you? 🏝️"],"fs":132,"top":200,"vert":"Where to stay in Ibiza → pick one","dur":1.6},
+{"img":"atardecer_restaurante","kicker":"Sant Antoni","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"The sunset chaser 🌅","sub":"West coast, golden hour every night","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"fiesta_concierto_noche","kicker":"Playa d'en Bossa","kbg":"#38E1FF","kfg":"#0A1A8F","title":"The club regular 🪩","sub":"Beach by day, big nights out","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"barco_atardecer","kicker":"Ibiza Town","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"The old-town romantic ⚓","sub":"Dalt Vila views, marina dinners","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"islas_mar","kicker":"Sant Josep calas","kbg":"#38E1FF","kfg":"#0A1A8F","title":"The cove hunter 🌊","sub":"Quiet swims, clear water","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"es_vedra_2","kicker":"Santa Eulària","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"The chilled one 🧘","sub":"Slower pace, seaside strolls","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"type":"cta","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#C8FF2E","title":"Your<br>base? 👇","sub":"Tag the group","fs":124,"subTop":640,"dur":2.6}
+]

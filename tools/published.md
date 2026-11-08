@@ -57,3 +57,6 @@
 - 2026-11-07 · UK airport → Ibiza 3/6: Birmingham (serie; ~2,5 h "usually", base Sant Antoni vs Playa d'en Bossa, pasaporte/GOV.UK, traslado #ad, taxi pre-reservado) — reel_birmingham.mp4 / _tiktok
 - 2026-11-07 · Ibiza 2027: how many nights are you? (repite formato top TikTok "which month are you", selector 3/4/5/7/10+ noches, portada fiesta_grupo) — reel_nights.mp4 / _tiktok
 - 2026-11-07 · Ibiza clubs explained 3/3: opening vs closing parties (openings "usually" finales abr–may, closings sept–oct, fechas 2027 no anunciadas; taxi pre-reservado) — reel_clubs3.mp4 / _tiktok
+- 2026-11-08 · UK airport → Ibiza 4/6: Glasgow (serie; ~3 h "usually", directos "usually summer-only", comparar Edimburgo, eSIM #ad Airalo, traslado, taxi pre-reservado; portada islas_mar) — reel_glasgow.mp4 / _tiktok
+- 2026-11-08 · Ibiza 2027: which base are you? (repite formato top "which month are you"; Sant Antoni, Playa d'en Bossa, Ibiza Town, Sant Josep, Santa Eulària; guía where to stay; portada piscina_gente) — reel_base.mp4 / _tiktok
+- 2026-11-08 · Ibiza myths vs reality 1/3 (serie nueva: solo clubs, dinero, 10pm vs medianoche, taxi pre-reservado, invierno) — reel_myths.mp4 / _tiktok

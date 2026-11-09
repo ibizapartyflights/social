@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#000000","fg":"#FFFFFF","acc":"#38E1FF","wave":"#38E1FF33","lines":["Ibi-za","myths vs","rea-li-ty","2/3 🤔"],"fs":156,"top":200,"sub":"No. 4 costs Brits every year","subTop":960,"vert":"Ibiza 2027 → myths busted","dur":1.6},
+{"img":"fiesta_escenario","kicker":"❌ Myth","kbg":"#38E1FF","kfg":"#000000","title":"\"You need a hire car\"","sub":"✅ Taxis, transfers, buses. Never drive after drinking","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"img":"es_vedra_2","kicker":"❌ Myth","kbg":"#C8FF2E","kfg":"#000000","title":"\"Every beach is rammed\"","sub":"✅ Go early: quiet calas exist","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"img":"islas_mar","kicker":"❌ Myth","kbg":"#38E1FF","kfg":"#000000","title":"\"Formentera's too far\"","sub":"✅ Fast ferry, usually around 30 min","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"img":"fiesta_concierto_noche","kicker":"❌ Myth","kbg":"#C8FF2E","kfg":"#000000","title":"\"Roaming's free on every network\"","sub":"✅ Check yours before you fly","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"img":"piscina_gente","kicker":"❌ Myth","kbg":"#38E1FF","kfg":"#000000","title":"\"You won't burn in May\"","sub":"✅ The sun's strong: SPF, every day","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"type":"cta","bg":"#C8FF2E","fg":"#000000","acc":"#38E1FF","title":"Myth or<br>fact? 👇","sub":"Follow for part 3/3","fs":120,"subTop":640,"dur":2.6}
+]

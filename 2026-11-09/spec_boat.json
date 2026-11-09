@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#38E1FF","fg":"#0A1A8F","acc":"#C8FF2E","img":"barco_grupo","lines":["Ibi-za boat","day: which","one are you? 🚤"],"fs":128,"top":200,"vert":"Ibiza boat party 2027 → pick one","dur":1.6},
+{"img":"fiesta_baile_atardecer","kicker":"The party boat","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"DJ on deck, no sitting down 🪩","sub":"Ibiza boat party energy","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"atardecer_gente","kicker":"The sunset cruise","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Golden hour from the water 🌅","sub":"Phone at 100% for this one","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"islas_mar","kicker":"The Formentera trip","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Clear water, long lunch 🏝️","sub":"The day everyone talks about","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"mar_nadando","kicker":"The cala hopper","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Jump in, swim, repeat 🤿","sub":"Quiet coves only","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"barcos_mar","kicker":"The private crew","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Just your group, your playlist ⚓","sub":"Split it, sorted","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#38E1FF","title":"Which<br>boat? 👇","sub":"Tag your crew","fs":124,"subTop":640,"dur":2.6}
+]

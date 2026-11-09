@@ -1,0 +1,10 @@
+[
+{"type":"hook","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","img":"barco_atardecer","lines":["Bris-tol →","Ibi-za","part 5/6 🧡"],"fs":150,"top":200,"vert":"Flights to Ibiza from Bristol","dur":1.6},
+{"img":"islas_mar","kicker":"5/6 · Bristol","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Around 2.5 hours, usually ✈️","sub":"Nap, snack, landed","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"barcos_mar","kicker":"Tip 1","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Direct flights are usually seasonal ☀️","sub":"Check 2027 routes early","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"atardecer_restaurante","kicker":"Tip 2","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"6am flight? Sort the airport run the night before 🌙","sub":"Not at 3:45am in a panic","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"mar_nadando","kicker":"Tip 3","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Hand luggage only? Pack it once, then stop 🎒","sub":"You won't wear the 9th outfit","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"fiesta_escenario","kicker":"Tip 4","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Airport → hotel ride booked 🚐","sub":"Land, walk out, go","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"fiesta_bolas_disco","kicker":"Tip 5","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Ride home pre-booked 🚕","sub":"Never drive after drinking","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"type":"cta","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#0A1A8F","title":"Your air-<br>port? 👇","sub":"Follow for part 6/6","fs":118,"subTop":640,"dur":2.6}
+]

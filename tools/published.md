@@ -60,3 +60,6 @@
 - 2026-11-08 · UK airport → Ibiza 4/6: Glasgow (serie; ~3 h "usually", directos "usually summer-only", comparar Edimburgo, eSIM #ad Airalo, traslado, taxi pre-reservado; portada islas_mar) — reel_glasgow.mp4 / _tiktok
 - 2026-11-08 · Ibiza 2027: which base are you? (repite formato top "which month are you"; Sant Antoni, Playa d'en Bossa, Ibiza Town, Sant Josep, Santa Eulària; guía where to stay; portada piscina_gente) — reel_base.mp4 / _tiktok
 - 2026-11-08 · Ibiza myths vs reality 1/3 (serie nueva: solo clubs, dinero, 10pm vs medianoche, taxi pre-reservado, invierno) — reel_myths.mp4 / _tiktok
+- 2026-11-09 · UK airport → Ibiza 5/6: Bristol (serie; ~2,5 h "usually", directos "usually seasonal", vuelo temprano, equipaje de mano, traslado, taxi pre-reservado; portada barco_atardecer) — reel_bristol.mp4 / _tiktok
+- 2026-11-09 · Ibiza boat day: which one are you? (repite formato top "which month are you"; party boat, sunset cruise, Formentera, cala hopper, private crew; portada barco_grupo) — reel_boat.mp4 / _tiktok
+- 2026-11-09 · Ibiza myths vs reality 2/3 (coche de alquiler/taxi, playas llenas, Formentera ~30 min ferry "usually", roaming, SPF en mayo) — reel_myths2.mp4 / _tiktok

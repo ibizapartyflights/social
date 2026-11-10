@@ -7,7 +7,7 @@ Usa la palabra clave exacta en el <title>, el H1, la URL y la primera frase; var
 
 | # | Página (URL en /guides/) | Palabra clave principal | Vol. | SD | Variantes para H2/FAQ | Comisión principal |
 |---|---|---|---|---|---|---|
-| 1 | ibiza-clubs.html | ibiza clubs | 9.900 | 25 | best ibiza clubs (2.400, SD16), ibiza clubs san antonio (1.000), map of ibiza clubs (480), ibiza clubs calendar (390), famous ibiza clubs, when do ibiza clubs open/close, dress code for ibiza clubs, are ibiza clubs open in november | Vuelos + traslados + hoteles por zona |
+| 1 | ✅ ibiza-clubs.html (publicada 10/11/2026) | ibiza clubs | 9.900 | 25 | best ibiza clubs (2.400, SD16), ibiza clubs san antonio (1.000), map of ibiza clubs (480), ibiza clubs calendar (390), famous ibiza clubs, when do ibiza clubs open/close, dress code for ibiza clubs, are ibiza clubs open in november | Vuelos + traslados + hoteles por zona |
 | 2 | flights-to-ibiza-from-manchester.html | flights to ibiza from manchester | 2.400 | 20 | cheap flights to ibiza from manchester, how long are flights to ibiza | Aviasales con origen MAN |
 | 3 | flights-to-ibiza-from-london.html | flights to ibiza from london | 5.400 | 33 | gatwick, stansted, luton, heathrow, london city | Aviasales con origen LON |
 | 4 | ibiza-in-september.html | ibiza in september | 480 | 19 | weather in ibiza in september (3.600–4.400, SD20), things to do in ibiza in september, flights to ibiza in september, closing parties | Vuelos + barcos (Tiqets) |
@@ -20,7 +20,7 @@ Usa la palabra clave exacta en el <title>, el H1, la URL y la primera frase; var
 | 11 | Resto de aeropuertos: Liverpool, Leeds Bradford, Bristol, East Midlands, Newcastle, Belfast | flights to ibiza from <ciudad> | — | ~20 | | Aviasales |
 
 ## Mejoras a páginas existentes (hazlas en el mismo push de un martes)
-- ibiza-boat-day.html → apuntar a "ibiza boat party" (880/mes, SD33): title "Ibiza boat party guide: boat parties vs private boat hire", H1 con "Ibiza boat party", añadir FAQ "What to wear to an Ibiza boat party?" y "Do Ibiza boat parties include drinks?" (respuesta general: depende del barco, mira qué incluye).
+- ✅ (hecho 10/11/2026) ibiza-boat-day.html → apuntar a "ibiza boat party" (880/mes, SD33): title "Ibiza boat party guide: boat parties vs private boat hire", H1 con "Ibiza boat party", añadir FAQ "What to wear to an Ibiza boat party?" y "Do Ibiza boat parties include drinks?" (respuesta general: depende del barco, mira qué incluye).
 - ibiza-opening-and-closing-parties.html → añadir variantes "ibiza closing parties 2026", "when do ibiza clubs open 2027" (sin inventar fechas).
 
 ## Reglas para las guías de aeropuerto (evitar contenido "thin" o falso)

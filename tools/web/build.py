@@ -12,9 +12,9 @@ WPICK="https://tpx.gr/WPxEBccV"  # Welcome Pickups, Ibiza airport transfer
 TIQ="https://tiqets.tpx.gr/heYwlurD"  # Tiqets, Ibiza attractions and boat trips
 def bk(area): return "https://www.booking.com/searchresults.html?ss="+quote(area)
 CSS=open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"guide.css")).read()
-def page(slug,title,desc,h1,lede,img,body,faqs=None,updated="2026-11-02"):
+def page(slug,title,desc,h1,lede,img,body,faqs=None,updated="2026-11-02",published="2026-11-02"):
     url=f"https://ibizapartyflights.co.uk/guides/{slug}.html" if slug!="index" else "https://ibizapartyflights.co.uk/guides/"
-    graph=[{"@type":"Article","headline":h1,"description":desc,"image":f"https://ibizapartyflights.co.uk/{img}","datePublished":"2026-11-02","dateModified":updated,"inLanguage":"en-GB",
+    graph=[{"@type":"Article","headline":h1,"description":desc,"image":f"https://ibizapartyflights.co.uk/{img}","datePublished":published,"dateModified":updated,"inLanguage":"en-GB",
             "author":{"@type":"Organization","name":"Ibiza Party Flights","url":"https://ibizapartyflights.co.uk/"},"publisher":{"@id":"https://ibizapartyflights.co.uk/#org"},"mainEntityOfPage":url},
            {"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://ibizapartyflights.co.uk/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://ibizapartyflights.co.uk/guides/"}]+([] if slug=="index" else [{"@type":"ListItem","position":3,"name":h1,"item":url}])}]
     if slug=="index": graph=graph[1:]
@@ -63,7 +63,7 @@ try {{ if (localStorage.getItem("ipf_consent") === "yes") window.ipfLoadPartner(
 <div class="wrap">
 <header class="top">
   <a class="logo" href="/"><img src="/img/logo.png" alt="" width="34" height="34">Ibiza Party Flights</a>
-  <nav class="menu" aria-label="Main"><a href="/#plan">Flights</a><a href="/#areas">Hotels</a><a href="/#transfers">Transfers</a><a href="/#parties">Parties</a><a href="/guides/">Guides</a></nav>
+  <nav class="menu" aria-label="Main"><a href="/#flights">Flights</a><a href="/#hotels">Hotels</a><a href="/#transfers">Transfers</a><a href="/#tickets">Parties</a><a href="/guides/">Guides</a></nav>
 </header>
 <main>
 <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › {'Guides' if slug=='index' else '<a href="/guides/">Guides</a> › '+html.escape(h1)}</nav>
@@ -77,7 +77,7 @@ try {{ if (localStorage.getItem("ipf_consent") === "yes") window.ipfLoadPartner(
 {faqhtml}
 </article>
 <aside class="more"><h2>Plan the trip</h2><div class="ctas">
-<a class="btn primary" href="/#plan">Flights and hotels for your dates</a>
+<a class="btn primary" href="/#flights">Flights and hotels for your dates</a>
 <a class="btn line" href="/guides/">All Ibiza guides</a></div></aside>
 </main>
 <footer>

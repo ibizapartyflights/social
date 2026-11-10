@@ -185,7 +185,7 @@ body = f'''
 <p>Closings run from late September into mid October. In 2026 most of the big clubs closed in the second week of October. Closing parties are often the most emotional nights of the year, and the first to sell out.</p>
 
 <h2>2027 dates</h2>
-<p>Clubs usually announce their dates between January and March. We add them to our <a href="/#parties">party calendar</a> as soon as each club confirms. Until then, treat any date you see online as a guess.</p>
+<p>Clubs usually announce their dates between January and March. We add them to our <a href="/#tickets">party calendar</a> as soon as each club confirms. Until then, treat any date you see online as a guess.</p>
 
 <h2>How to plan around an opening or closing</h2>
 <ol>
@@ -211,7 +211,7 @@ pages.append(("ibiza-opening-and-closing-parties", "Ibiza opening and closing pa
 body = f'''
 <p>A day on the water is the best way to recover from a night out, and the best photos of the trip. There are two main ways to do it.</p>
 
-<h2>Boat parties</h2>
+<h2>Ibiza boat parties</h2>
 <p>Shared daytime boats with a DJ, a bar and swim stops along the coast. You buy a ticket per person, so they work well for small groups and solo travellers. Check what is included: drinks, food, snorkels and transfers to the port vary a lot.</p>
 
 <h2>Private boat hire</h2>
@@ -229,21 +229,102 @@ body = f'''
 
 {cta(TIQ, "See Ibiza boat trips on Tiqets")}
 '''
-pages.append(("ibiza-boat-day", "Ibiza boat parties vs private boat hire",
-  "Boat party or private boat hire in Ibiza? What each costs to organise, what is included, where the boats go and what to bring.",
-  "Ibiza boat days: boat party or private hire?",
+pages.append(("ibiza-boat-day", "Ibiza boat party guide: boat parties vs private boat hire",
+  "Ibiza boat party or private boat hire? How each works, what is included, where the boats go, what to wear and what to bring.",
+  "Ibiza boat party or private boat hire?",
   "Two ways to spend a day on the water, and how to pick the right one for your group.",
-  "img/velero.jpg", body))
+  "img/velero.jpg", body,
+  [("What should I wear to an Ibiza boat party?", "Swimwear with a light cover-up, a hat and sunglasses you would not mind losing. Most boats ask you to go barefoot on deck, so flat sandals are easiest for the port, and bring a dry layer for the trip back."),
+   ("Do Ibiza boat parties include drinks?", "It depends on the boat. Some tickets include drinks or an open bar for part of the trip, others only include the cruise and sell drinks on board. Check what your ticket includes before you book."),
+   ("Is a boat party or a private boat better for a group?", "Boat parties suit small groups and solo travellers because you pay per person. For larger groups a private boat can cost about the same per person and lets you choose the music, the coves and the timing.")],
+  "2026-11-10"))
+
+# 7. Ibiza clubs (published 2026-11-10, keyword "ibiza clubs")
+body = f'''
+<p>Ibiza clubs are the reason most UK groups book the trip: a handful of world-famous venues packed into a small island, each with its own kind of night. This guide explains where the clubs are, how a typical night works, what to wear and how to plan the season around them, so you can choose before you book flights and a hotel.</p>
+
+<h2>Where the Ibiza clubs are: a quick map</h2>
+<p>Almost every big club sits in one of four areas, all within a short taxi ride of each other. Our <a href="/#map">interactive map of Ibiza clubs and hotel zones</a> shows them all on the island.</p>
+<div class="tw"><table>
+<tr><th>Area</th><th>Clubs</th><th>Type of night</th></tr>
+<tr><td><b>Playa d'en Bossa</b></td><td>Ushuaïa, Hï Ibiza, DC-10 (by the airport)</td><td>Open-air daytime parties into the evening, then big indoor nights</td></tr>
+<tr><td><b>Ibiza Town</b></td><td>Pacha, Lío, Club Chinois</td><td>Classic club nights by the marina, dinner-and-show venues</td></tr>
+<tr><td><b>Sant Rafel</b></td><td>Amnesia, [UNVRS]</td><td>The two inland superclubs, long nights until morning</td></tr>
+<tr><td><b>San Antonio</b></td><td>Eden, Es Paradis, Ibiza Rocks, O Beach</td><td>Bay-front clubs and daytime pool parties</td></tr>
+</table></div>
+<p>Where you sleep matters more than people expect: staying near the club you go to most saves on taxis every night. Our <a href="/guides/where-to-stay-in-ibiza.html">where to stay in Ibiza guide</a> compares the four areas.</p>
+
+<h2>The best Ibiza clubs for each kind of night</h2>
+<p>There is no single best club: it depends on what your group wants from the night. Line-ups change every season, so check who is playing before you buy.</p>
+<ul>
+<li><b>Ushuaïa</b> is an open-air stage around a hotel pool. Parties run in daylight and finish around midnight, which leaves time for a second venue.</li>
+<li><b>Hï Ibiza</b> is across the road from Ushuaïa. It opens late and runs until the morning, so the two are often done back to back.</li>
+<li><b>Pacha</b>, by the marina in Ibiza Town, has been open since 1973 and is the one with the cherries logo.</li>
+<li><b>Amnesia</b> has two rooms, the Main Room and the Terrace, and is famous for sunrise through the Terrace roof.</li>
+<li><b>[UNVRS]</b> opened in 2025 on the site of the former Privilege, on the road between Ibiza Town and San Antonio.</li>
+<li><b>DC-10</b> is a stripped-back club right by the runway, known for underground house and techno.</li>
+</ul>
+
+<h2>Ibiza clubs in San Antonio</h2>
+<p>San Antonio is where many first trips start, and it has its own club scene, so you do not have to cross the island every night. Eden and Es Paradis face each other on the bay front, a short walk from the West End, and Es Paradis is known for its water parties under a glass pyramid. By day, Ibiza Rocks and O Beach run pool parties. The bigger superclubs are a taxi or night-bus ride away. If San Antonio is your base, it is worth checking the bay-front line-ups before paying for a taxi across the island.</p>
+<p><a href="{bk("San Antonio, Ibiza")}" target="_blank" rel="noopener">See hotels in San Antonio →</a></p>
+
+<h2>When do Ibiza clubs open and close?</h2>
+<p>The club season runs roughly from late April to mid October. Most of the big clubs hold their opening parties between late April and May, and their closing parties from late September into October. Openings and closings are the busiest nights of the year and the first to sell out. Our <a href="/guides/ibiza-opening-and-closing-parties.html">opening and closing parties guide</a> explains how to plan around them.</p>
+<p>On a normal night, clubs only get busy well after midnight and keep going until morning, while open-air and daytime venues finish earlier. A nap and a late dinner are part of the plan.</p>
+
+<h2>Ibiza clubs calendar for 2027</h2>
+<p>Clubs usually announce their season dates between January and March, and each club publishes its own weekly line-ups once the season is confirmed. Until then, treat any 2027 date you see online as a guess. We add the dates to our <a href="/#tickets">club tickets section</a> as each club confirms them. For tickets, always buy from the club's official seller, before the night: popular nights sell out and the door is often more expensive.</p>
+
+<h2>Dress code for Ibiza clubs</h2>
+<p>Ibiza is far more relaxed than a UK city-centre club. Most people wear light, comfortable summer clothes, and the main rule is to dress for heat and a long night on your feet.</p>
+<ul>
+<li>Wear shoes you have already broken in: you will stand and dance for hours.</li>
+<li>Smart-casual is always safe. Beachwear works at daytime pool parties, but for night clubs leave the swimwear at the hotel.</li>
+<li>Take photo ID: you must be 18 or over to get in.</li>
+<li>Pack light: a small bag or a phone and card in your pocket is easiest.</li>
+</ul>
+
+<h2>Getting to and from the clubs</h2>
+<p>In summer, night buses link the main resorts and clubs, and they are the cheapest way home. Taxis are the hardest thing on the island to find at closing time on big nights, so agree a plan with your group before you go in, and keep your hotel address saved offline. If you hire a car for beach days, leave it at the hotel on club nights: never drive after drinking.</p>
+<p>Your phone does a lot of work on a club night: e-tickets, maps, taxis and finding your mates afterwards. If your UK plan charges for roaming in Spain, a travel eSIM with a data bundle is a simple fix.</p>
+{cta(ESIM, "See Spain eSIMs on Airalo", "line")}
+
+<h2>Plan the trip around the clubs</h2>
+<ol>
+<li><b>Choose your main nights first</b>, then book flights for those dates. Many UK airports fly direct to Ibiza in summer.</li>
+<li><b>Book the hotel near the club</b> you will go to most.</li>
+<li><b>Sort the airport run</b> before you fly. See <a href="/guides/ibiza-airport-to-hotel.html">Ibiza airport to your hotel</a>.</li>
+<li><b>Keep one day free</b> for the beach or a <a href="/guides/ibiza-boat-day.html">boat party</a> to recover.</li>
+</ol>
+{cta(FLY, "Compare flights to Ibiza")}
+{cta(TAXI, "Compare airport transfers on Kiwitaxi", "line")}
+{cta(TIQ, "See Ibiza boat trips on Tiqets", "line")}
+<p><a href="/#flights">Or plan flights and hotels for your dates on our homepage →</a></p>
+'''
+pages.append(("ibiza-clubs", "Ibiza clubs: where they are, when they open and what to wear",
+  "Ibiza clubs explained for UK groups: where the big clubs are, the best club for each kind of night, San Antonio clubs, opening and closing times and the dress code.",
+  "Ibiza clubs: a guide for UK party trips",
+  "Where the big clubs are, which one suits your group, when they open and close, and what to wear.",
+  "video/club_haze.jpg", body,
+  [("What are the most famous Ibiza clubs?", "The best-known names include Pacha, Amnesia, Ushuaïa, Hï Ibiza, DC-10 and [UNVRS], which opened in 2025 on the site of the former Privilege. Line-ups change every season."),
+   ("Are there clubs in San Antonio, Ibiza?", "Yes. Eden and Es Paradis are on the San Antonio bay front, and Ibiza Rocks and O Beach run daytime pool parties. The bigger superclubs are a taxi or night-bus ride away."),
+   ("When do Ibiza clubs open and close for the season?", "Roughly late April or May to mid October. Openings are mostly in late April and May, closings from late September into October."),
+   ("Are Ibiza clubs open in November?", "No, the big clubs are closed from the end of the season in October until the next spring. A few bars and smaller venues stay open, but the club season itself starts again around late April."),
+   ("Is there a dress code for Ibiza clubs?", "Ibiza is relaxed: light, smart-casual summer clothes and comfortable shoes are fine almost everywhere. Keep swimwear for daytime pool parties and bring photo ID, as you must be 18 or over.")],
+  "2026-11-10", "2026-11-10"))
 
 for slug, title, desc, h1, lede, img, body, *rest in pages:
     faqs = rest[0] if rest else None
-    open(f"{OUT}/{slug}.html", "w", encoding="utf-8").write(page(slug, title, desc, h1, lede, img, body, faqs))
+    updated = rest[1] if len(rest) > 1 else "2026-11-02"
+    published = rest[2] if len(rest) > 2 else "2026-11-02"
+    open(f"{OUT}/{slug}.html", "w", encoding="utf-8").write(page(slug, title, desc, h1, lede, img, body, faqs, updated, published))
 
 # index
 cards = "".join(f'<a class="card" href="/guides/{s}.html"><img src="/{img}" alt="" loading="lazy"><div><h2>{h1}</h2><p>{lede}</p></div></a>'
-                for s, t, d, h1, lede, img, *_ in pages)
+                for s, t, d, h1, lede, img, *_ in sorted(pages, key=lambda p: p[9] if len(p) > 9 else "2026-11-02", reverse=True))
 idx = page("index", "Ibiza guides for UK party travellers · Ibiza Party Flights",
-           "Practical Ibiza guides for UK party trips: where to stay, airport transfers, budget tips, first-timer advice, opening and closing parties and boat days.",
+           "Practical Ibiza guides for UK party trips: Ibiza clubs, where to stay, airport transfers, budget tips, first-timer advice, opening and closing parties and boat parties.",
            "Ibiza guides", "Straight answers for planning a party trip to Ibiza from the UK.", None,
            f'</article><div class="cards">{cards}</div><article>')
 open(f"{OUT}/index.html", "w", encoding="utf-8").write(idx)

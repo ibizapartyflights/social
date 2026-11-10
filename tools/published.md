@@ -63,3 +63,6 @@
 - 2026-11-09 · UK airport → Ibiza 5/6: Bristol (serie; ~2,5 h "usually", directos "usually seasonal", vuelo temprano, equipaje de mano, traslado, taxi pre-reservado; portada barco_atardecer) — reel_bristol.mp4 / _tiktok
 - 2026-11-09 · Ibiza boat day: which one are you? (repite formato top "which month are you"; party boat, sunset cruise, Formentera, cala hopper, private crew; portada barco_grupo) — reel_boat.mp4 / _tiktok
 - 2026-11-09 · Ibiza myths vs reality 2/3 (coche de alquiler/taxi, playas llenas, Formentera ~30 min ferry "usually", roaming, SPF en mayo) — reel_myths2.mp4 / _tiktok
+- 2026-11-10 · UK airport → Ibiza 6/6: The North (cierre de serie; Newcastle/Leeds/Liverpool ~2,5–3 h "usually", directos "usually summer-only", comparar Manchester, pasaporte GOV.UK, traslado, taxi pre-reservado; portada es_vedra_2) — reel_north.mp4 / _tiktok
+- 2026-11-10 · Signs you're the Ibiza planner (repite formato top TikTok "Signs you need Ibiza 2027", 767 vis.; etiqueta al planificador; portada fiesta_concierto_noche; taxi pre-reservado) — reel_planner.mp4 / _tiktok
+- 2026-11-10 · Ibiza myths vs reality 3/3 (cierre: solo menores de 25, entradas en puerta, una sola zona, mar frío "usually warmest late Aug–Sept", un viaje basta) — reel_myths3.mp4 / _tiktok

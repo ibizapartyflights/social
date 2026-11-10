@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#000000","fg":"#FFFFFF","acc":"#C8FF2E","wave":"#C8FF2E33","lines":["Ibi-za","myths vs","rea-li-ty","3/3 🤔"],"fs":156,"top":200,"sub":"The finale. No. 5 is a fact","subTop":960,"vert":"Ibiza 2027 → myths busted","dur":1.6},
+{"img":"atardecer_gente","kicker":"❌ Myth","kbg":"#C8FF2E","kfg":"#000000","title":"\"It's only for under-25s\"","sub":"✅ Every age, every vibe","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"img":"fiesta_escenario","kicker":"❌ Myth","kbg":"#38E1FF","kfg":"#000000","title":"\"Just buy tickets on the door\"","sub":"✅ Big nights can sell out. Book ahead","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"img":"isla_nubes","kicker":"❌ Myth","kbg":"#C8FF2E","kfg":"#000000","title":"\"Ibiza is one big party town\"","sub":"✅ Sant Antoni, Ibiza Town, Playa d'en Bossa: all different","sbg":"rgba(0,0,0,.72)","dur":1.8},
+{"img":"mar_nadando","kicker":"❌ Myth","kbg":"#38E1FF","kfg":"#000000","title":"\"The sea's always freezing\"","sub":"✅ Usually warmest late Aug–Sept","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"img":"barco_grupo","kicker":"❌ Myth","kbg":"#C8FF2E","kfg":"#000000","title":"\"One trip is enough\"","sub":"✅ Nobody's ever said this and meant it","sbg":"rgba(0,0,0,.72)","dur":1.7},
+{"type":"cta","bg":"#C8FF2E","fg":"#000000","acc":"#000000","title":"Which<br>myth got<br>you? 👇","sub":"Follow for the next series","fs":124,"subTop":760,"dur":2.6}
+]

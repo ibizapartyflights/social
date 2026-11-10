@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#0A1A8F","img":"fiesta_concierto_noche","lines":["Signs you're","the Ibi-za","plan-ner 📋"],"fs":134,"top":200,"vert":"Ibiza 2027 → tag your planner","dur":1.6},
+{"img":"fiesta_bolas_disco","kicker":"Sign 1","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"You made the group chat in November 💬","sub":"Name: IBIZA 2027 🔥🔥","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"islas_mar","kicker":"Sign 2","kbg":"#38E1FF","kfg":"#0A1A8F","title":"You've compared flights from 3 airports ✈️","sub":"Nobody asked. You're right though","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"piscina_gente","kicker":"Sign 3","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"There's a spreadsheet 📊","sub":"Colour-coded. Of course","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"barcos_mar","kicker":"Sign 4","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Boat day booked before the hotel 🚤","sub":"Priorities","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"fiesta_baile_atardecer","kicker":"Sign 5","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Every ride home already sorted 🚕","sub":"Never drive after drinking","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#38E1FF","title":"Tag your<br>plan-ner 👇","sub":"Follow for Ibiza 2027 tips","fs":124,"subTop":640,"dur":2.6}
+]

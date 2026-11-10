@@ -1,0 +1,10 @@
+[
+{"type":"hook","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","img":"es_vedra_2","lines":["The North →","Ibi-za","part 6/6 🧡"],"fs":140,"top":200,"vert":"Flights to Ibiza from Newcastle, Leeds, Liverpool","dur":1.6},
+{"img":"isla_nubes","kicker":"6/6 · Newcastle · Leeds · Liverpool","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Around 2.5–3 hours, usually ✈️","sub":"One film and you're there","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"islas_mar","kicker":"Tip 1","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Direct routes are usually summer-only ☀️","sub":"Check 2027 schedules early","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"atardecer_restaurante","kicker":"Tip 2","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"No direct? Compare Manchester too 🔁","sub":"Same trip, more choice","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"piscina_gente","kicker":"Tip 3","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Passport valid? Check GOV.UK first 🛂","sub":"Before you book, not at the gate","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"fiesta_grupo","kicker":"Tip 4","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Airport → hotel ride booked 🚐","sub":"Land, walk out, go","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"fiesta_concierto_noche","kicker":"Tip 5","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Ride home pre-booked 🚕","sub":"Never drive after drinking","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"type":"cta","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#0A1A8F","title":"Series<br>done ✅<br>Your air-<br>port? 👇","sub":"Follow for the next series","fs":112,"subTop":760,"dur":2.6}
+]

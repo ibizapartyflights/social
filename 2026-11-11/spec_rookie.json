@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#000000","fg":"#FFFFFF","acc":"#38E1FF","img":"barco_grupo","lines":["Signs your","mate's ne-ver","been to","Ibi-za 👀"],"fs":128,"top":200,"vert":"Ibiza 2027 → tag the rookie","dur":1.6},
+{"img":"islas_mar","kicker":"Sign 1","kbg":"#38E1FF","kfg":"#000000","title":"Thinks Ibiza is one town 🗺️","sub":"It's a whole island, babe","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"img":"atardecer_restaurante","kicker":"Sign 2","kbg":"#C8FF2E","kfg":"#000000","title":"Booked dinner for 6pm 🍽️","sub":"The restaurant's still mopping","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"img":"fiesta_concierto_noche","kicker":"Sign 3","kbg":"#38E1FF","kfg":"#000000","title":"\"Home by 1, yeah?\" 🪩","sub":"The club's barely warming up","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"img":"mar_nadando","kicker":"Sign 4","kbg":"#C8FF2E","kfg":"#000000","title":"One bottle of SPF for the week ☀️","sub":"Day 2: lobster 🦞","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"img":"barco_atardecer","kicker":"Sign 5","kbg":"#38E1FF","kfg":"#000000","title":"\"We'll just grab a taxi after\" 🚕","sub":"Pre-book it. Never drive after drinking","sbg":"rgba(0,0,0,.72)","dur":1.8},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#38E1FF","title":"Tag the<br>roo-kie 👇","sub":"Follow for Ibiza 2027 tips","fs":124,"subTop":640,"dur":2.6}
+]

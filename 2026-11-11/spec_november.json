@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#0A1A8F","img":"isla_nubes","lines":["POV: Ibi-za","clubs in","No-vem-ber 🥶"],"fs":136,"top":200,"sub":"Are they even open?","subTop":900,"vert":"Ibiza clubs → off-season","dur":1.6},
+{"img":"fiesta_concierto_noche","kicker":"Clubs","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"The big ones are shut till spring 🔒","sub":"Season usually late April–mid October","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"es_vedra_2","kicker":"Es Vedrà","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Still showing off 🏝️","sub":"Zero queues for the view","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"barcos_mar","kicker":"Calas","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Basically all yours 🌊","sub":"Bring a jumper for the evening","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"atardecer_gente","kicker":"Sunsets","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Still free. Still clapped 👏","sub":"Just earlier","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"img":"fiesta_escenario","kicker":"Ibiza 2027","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Club dates? Not out yet 📅","sub":"Usually announced Jan–March","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"type":"cta","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","title":"Ope-ning or<br>clo-sing<br>week? 👇","sub":"Follow so you see 2027 dates first","fs":118,"subTop":820,"dur":2.6}
+]

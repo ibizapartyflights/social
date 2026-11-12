@@ -72,3 +72,4 @@
 - 2026-11-12 · Ibiza clubs FAQ 2/3: getting home (repite formato top "clubs explained 2/3" 770 vis.; pre-reservar vuelta, punto de encuentro, dirección offline, batería, nadie vuelve solo, nunca conducir; portada fiesta_concierto_noche) — reel_home.mp4 / _tiktok
 - 2026-11-12 · Signs you've done Ibiza too many times (repite formato "Signs…"; etiqueta al veterano; portada piscina_gente; taxi pre-reservado, nunca conducir) — reel_veteran.mp4 / _tiktok
 - 2026-11-12 · Ibiza 2027: which UK airport are you? (formato "which one are you" + palabras clave de vuelos desde UK; London/Manchester/Birmingham/Glasgow/Bristol/The North; sin marcas; portada barco_grupo) — reel_airport.mp4 / _tiktok
+- 2026-11-12 · Ibiza decoded: map video (stay zones, beaches, clubs; radar; sin logos; 'send this to the group chat') — reel_map_tiktok.mp4 (tools/map_video.py)

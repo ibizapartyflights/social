@@ -73,3 +73,4 @@
 - 2026-11-12 · Signs you've done Ibiza too many times (repite formato "Signs…"; etiqueta al veterano; portada piscina_gente; taxi pre-reservado, nunca conducir) — reel_veteran.mp4 / _tiktok
 - 2026-11-12 · Ibiza 2027: which UK airport are you? (formato "which one are you" + palabras clave de vuelos desde UK; London/Manchester/Birmingham/Glasgow/Bristol/The North; sin marcas; portada barco_grupo) — reel_airport.mp4 / _tiktok
 - 2026-11-12 · Ibiza decoded: map video (stay zones, beaches, clubs; radar; sin logos; 'send this to the group chat') — reel_map_tiktok.mp4 (tools/map_video.py)
+- 2026-11-11 · Story: how to use the website (phone mockup, island map with radar, 'tap the link'; TikTok version 'type it in your browser') — story_web.mp4 / story_web_tiktok.mp4 (tools/story_web.py)

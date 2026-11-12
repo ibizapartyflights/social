@@ -1,0 +1,10 @@
+[
+{"type":"hook","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#0A1A8F","img":"barco_grupo","lines":["Ibi-za 2027:","which UK","air-port","are you? ✈️"],"fs":124,"top":200,"vert":"Flights to Ibiza from the UK","dur":1.6},
+{"img":"fiesta_baile_atardecer","kicker":"London","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"The 6am flight crew ☕","sub":"Coffee before the gate, always","sbg":"rgba(10,26,143,.82)","dur":1.5},
+{"img":"piscina_gente","kicker":"Manchester","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Pool by lunchtime 🏊","sub":"Northern efficiency","sbg":"rgba(10,26,143,.82)","dur":1.5},
+{"img":"barcos_mar","kicker":"Birmingham","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Middle of everything 🧭","sub":"Easy getaway from the Midlands","sbg":"rgba(10,26,143,.82)","dur":1.5},
+{"img":"isla_nubes","kicker":"Glasgow","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Swapping drizzle for 30°C ☀️","sub":"Directs usually summer-only","sbg":"rgba(10,26,143,.82)","dur":1.5},
+{"img":"atardecer_gente","kicker":"Bristol","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"West Country, west coast sunsets 🌅","sub":"Same golden hour, warmer","sbg":"rgba(10,26,143,.82)","dur":1.5},
+{"img":"fiesta_grupo","kicker":"The North","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Newcastle, Leeds, Liverpool 🙌","sub":"Loudest group on the plane","sbg":"rgba(10,26,143,.82)","dur":1.6},
+{"type":"cta","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","title":"Drop your<br>air-port 👇","sub":"Full UK airport → Ibiza series on our profile","fs":124,"subTop":640,"dur":2.6}
+]

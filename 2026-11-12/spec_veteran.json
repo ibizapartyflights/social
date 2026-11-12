@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#000000","fg":"#FFFFFF","acc":"#C8FF2E","img":"piscina_gente","lines":["Signs you've","done Ibi-za","too ma-ny","times 😮‍💨"],"fs":124,"top":200,"vert":"Ibiza 2027 → tag the veteran","dur":1.6},
+{"img":"atardecer_gente","kicker":"Sign 1","kbg":"#C8FF2E","kfg":"#000000","title":"You clap the sunset without thinking 👏","sub":"Muscle memory","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"img":"mar_nadando","kicker":"Sign 2","kbg":"#38E1FF","kfg":"#000000","title":"You've got a \"usual\" cala 🏝️","sub":"And you won't tell anyone which","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"img":"fiesta_escenario","kicker":"Sign 3","kbg":"#C8FF2E","kfg":"#000000","title":"Dinner at 10pm feels early 🍽️","sub":"Home just feels wrong now","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"img":"barcos_mar","kicker":"Sign 4","kbg":"#38E1FF","kfg":"#000000","title":"You pack light. Like, really light 🎒","sub":"Rookies bring 9 outfits","sbg":"rgba(0,0,0,.72)","dur":1.6},
+{"img":"es_vedra_2","kicker":"Sign 5","kbg":"#C8FF2E","kfg":"#000000","title":"Your ride home's booked before you land 🚕","sub":"Never drive after drinking","sbg":"rgba(0,0,0,.72)","dur":1.8},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#38E1FF","title":"Tag the<br>ve-te-ran 👇","sub":"Follow for Ibiza 2027 tips","fs":124,"subTop":640,"dur":2.6}
+]

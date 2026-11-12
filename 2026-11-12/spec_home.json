@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","img":"fiesta_concierto_noche","lines":["Ibi-za","clubs","FAQ 2/3 🚕"],"fs":150,"top":200,"sub":"How do you get home at 6am?","subTop":900,"vert":"Ibiza clubs → getting home","dur":1.6},
+{"img":"fiesta_bolas_disco","kicker":"Tip 1","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Pre-book your ride home 🚕","sub":"Closing-time taxi queues can be long","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"fiesta_grupo","kicker":"Tip 2","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Pick a meet-up spot 📍","sub":"Before the first drop, not after","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"islas_mar","kicker":"Tip 3","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Save your hotel address offline 🗺️","sub":"Signal + 4am brain = chaos","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"atardecer_restaurante","kicker":"Tip 4","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Keep 20% battery for the ride 🔋","sub":"Power bank = group hero","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"barco_atardecer","kicker":"Tip 5","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Nobody leaves alone 🫶","sub":"And never drive after drinking","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"type":"cta","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#C8FF2E","title":"Sun-rise<br>or bed<br>by 3? 👇","sub":"Follow for part 3/3: club budget","fs":124,"subTop":820,"dur":2.6}
+]

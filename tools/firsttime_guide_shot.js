@@ -1,0 +1,10 @@
+const {chromium}=require('playwright');
+(async()=>{const O=process.argv[2];const b=await chromium.launch();const p=await b.newPage({viewport:{width:390,height:844},deviceScaleFactor:3,isMobile:true,hasTouch:true});
+await p.route('**/*',r=>r.request().url().startsWith('file:')?r.continue():r.abort());
+await p.goto('file://'+process.cwd()+'/guides/first-time-in-ibiza.html',{waitUntil:'domcontentloaded'});
+await p.addStyleTag({content:'html{scroll-behavior:auto!important}#ipf-consent,.consent,[id*=cookie]{display:none!important}'});
+await p.waitForTimeout(800);
+await p.screenshot({path:O+'/guide_top.png'});
+const H=await p.evaluate(()=>document.documentElement.scrollHeight);console.log('h',H);
+await p.screenshot({path:O+'/guide_full.png',fullPage:true});
+await b.close()})();

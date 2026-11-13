@@ -81,3 +81,4 @@
 - 2026-11-13 · Ibiza opening dates 2027: what we know (búsqueda real "ibiza opening 2027 dates"; sin fechas oficiales vistas a 13/11, openings "usually" finales abr–may, anuncios "usually" ene–mar, closings sept–oct; portada fiesta_baile_atardecer) — reel_opening.mp4 / _tiktok
 - 2026-11-13 · Girls holiday Ibiza 1/3: what the group chat must sort (serie nueva, búsqueda real "girls holiday"; fechas flexibles, base, día de barco, traslado, vuelta a casa; #ad; portada atardecer_gente) — reel_girls.mp4 / _tiktok
 - 2026-11-13 · FAQ 2/3 getting home v2 (rehecho tras la eliminación de TikTok): solo clips propios de Rubén, sin alcohol — reel_home_v2_tiktok.mp4 (tools/faq2_video.py)
+- 2026-11-13 · It's Friday and Ibiza knows it: 5 datos de la isla en el mapa propio (Eivissa, Dalt Vila UNESCO, Posidonia, Es Vedrà, aplauso al atardecer) — clips: lasers_cyan 8.0–10.3, fiesta_2026-11-13 3.6–6.2 — reel_friday_tiktok.mp4 (tools/friday_facts_video.py)

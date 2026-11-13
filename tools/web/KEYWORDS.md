@@ -30,3 +30,7 @@ Usa la palabra clave exacta en el <title>, el H1, la URL y la primera frase; var
 
 ## Refresco
 Ubersuggest no está disponible dentro de la tarea programada. Rubén puede pedir en el chat "actualiza el plan de palabras clave" y se regenera este archivo.
+
+
+## Señal de TikTok (13/11/2026)
+Búsquedas reales que llevaron gente al perfil: "ibiza opening 2027 dates", "amnesia ibiza 2026", "ibiza spain", "girls holiday november". Candidata a guía: "Ibiza opening parties 2027: dates and what we know" (actualizar cuando los clubs confirmen; sin fechas inventadas) y "Ibiza girls' holiday guide".

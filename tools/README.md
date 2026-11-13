@@ -17,6 +17,7 @@ Cada tarea diaria debe:
 - Priorizar sus clips reales de fiesta y fotos; nunca muñequitos.
 - Formato serie cuando se pueda ("Ibiza club ranking 3/10", "UK airport → Ibiza 2/6") para que sigan la cuenta.
 - Palabras clave de búsqueda en el texto del vídeo y en pantalla: ibiza clubs, best ibiza clubs, flights to ibiza from london/manchester/birmingham/glasgow, ibiza boat party, ibiza 2027.
+- Búsquedas REALES que trajeron gente al perfil de TikTok (Estadísticas de TikTok, 13/11/2026; búsqueda = 2,3 % del tráfico, "Para ti" = 94,7 %): "ibiza opening 2027 days" (= dates), "amnesia ibiza 2026", "ibiza spain", "girls holiday november", "amnesia 2026". Úsalas en el texto en pantalla y en el pie (frases naturales, p. ej. "Ibiza opening dates 2027", "Amnesia Ibiza 2026", "girls holiday"), y en los hashtags elige de: #ibizaopening2027 #amnesiaibiza #ibizaspain #girlsholiday, además de #ibiza2027 / #ibizaclubs. Máximo 5 en total. Temas que piden: fechas de opening 2027 (solo cuando estén confirmadas; mientras, "when do Ibiza openings usually happen"), Amnesia, viajes de chicas.
 - No repitas imágenes de fiesta de un vídeo al siguiente (Rubén, 13/11/2026): cada vídeo usa clips distintos a los del vídeo anterior; mira tools/published.md. Sus clips nuevos van en assets/clips/.
 - TikTok permite como MÁXIMO 5 hashtags por vídeo (Rubén, 11/11/2026): nunca pongas más de 5 en los textos de TikTok.
 - Pie con pregunta que invite a comentar + "Follow for part 2" cuando sea serie; sin enlaces en el pie (no se pueden pulsar).

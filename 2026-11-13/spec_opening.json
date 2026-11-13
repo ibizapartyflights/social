@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#000000","fg":"#FFFFFF","acc":"#C8FF2E","img":"fiesta_baile_atardecer","lines":["Ibiza","opening","dates","2027? 🪩"],"fs":140,"top":180,"sub":"What we actually know","subTop":900,"vert":"Ibiza opening dates 2027","dur":1.7},
+{"img":"fiesta_concierto_noche","kicker":"Fact 1","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"No official 2027 dates yet ⏳","sub":"We haven't seen clubs confirm them","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"barcos_mar","kicker":"Fact 2","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Openings usually land late April–May 🪩","sub":"Based on recent seasons","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"es_vedra_2","kicker":"Fact 3","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Dates usually drop Jan–March 📣","sub":"Follow so you don't miss them","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"img":"piscina_gente","kicker":"Fact 4","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Closings usually Sept–Oct 🌅","sub":"Opening crew or closing crew?","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"barco_atardecer","kicker":"Meanwhile","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Sort the rest now ✈️","sub":"Flexible flights + your base","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"type":"cta","bg":"#0A1A8F","fg":"#C8FF2E","acc":"#0A1A8F","title":"Opening<br>or<br>closing? 👇","sub":"Follow: we'll post 2027 dates once confirmed","fs":124,"subTop":820,"dur":2.6}
+]

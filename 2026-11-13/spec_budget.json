@@ -1,0 +1,9 @@
+[
+{"type":"hook","bg":"#0A1A8F","fg":"#FFFFFF","acc":"#C8FF2E","img":"fiesta_escenario","lines":["Ibi-za","clubs","FAQ 3/3 💸"],"fs":150,"top":200,"sub":"Club night on a budget?","subTop":900,"vert":"Ibiza clubs → budget","dur":1.6},
+{"img":"fiesta_bolas_disco","kicker":"Tip 1","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Buy club tickets early 🎟️","sub":"Door prices are usually higher","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"atardecer_restaurante","kicker":"Tip 2","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Eat a proper dinner first 🍝","sub":"Your 4am self says thanks","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"fiesta_grupo","kicker":"Tip 3","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Club drinks aren't cheap 🍹","sub":"Set a night budget before you go in","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"mar_nadando","kicker":"Tip 4","kbg":"#38E1FF","kfg":"#0A1A8F","title":"Big night, then a free day 🌊","sub":"Calas + sunsets cost £0","sbg":"rgba(10,26,143,.82)","dur":1.7},
+{"img":"isla_nubes","kicker":"Tip 5","kbg":"#C8FF2E","kfg":"#0A1A8F","title":"Split a pre-booked taxi 🚕","sub":"Less per head. Never drive after drinking","sbg":"rgba(10,26,143,.82)","dur":1.8},
+{"type":"cta","bg":"#C8FF2E","fg":"#0A1A8F","acc":"#C8FF2E","title":"Big night<br>or big<br>budget? 👇","sub":"Follow for more Ibiza clubs tips","fs":124,"subTop":820,"dur":2.6}
+]

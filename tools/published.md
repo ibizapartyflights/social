@@ -77,3 +77,6 @@
 - 2026-11-13 · Hook: Don't book Ibiza 2027 until you know these 5 things (vídeo real de Rubén, cortes cada 1,8 s, texto desde el frame 0) — reel_hook5_tiktok.mp4 (tools/hook5_video.py). Parte 2 pendiente.
 - 2026-11-13 · First time in Ibiza? Follow our step-by-step (gancho con vídeo real desde el frame 0, 6 pasos de la web en un móvil, final con la dirección) — reel_firsttime_tiktok.mp4 (tools/firsttime_video.py)
 - 2026-11-13 · (rehecho) First-timer: Rubén pidió NO repetir imágenes de fiesta de un vídeo al siguiente; ahora usa su clip nuevo assets/clips/fiesta_2026-11-13.mp4
+- 2026-11-13 · Ibiza clubs FAQ 3/3: club night on a budget (cierra serie; entradas pronto "usually", cenar antes, presupuesto de copas sin cifras, día gratis calas/atardecer, taxi compartido pre-reservado, nunca conducir; portada fiesta_escenario) — reel_budget.mp4 / _tiktok
+- 2026-11-13 · Ibiza opening dates 2027: what we know (búsqueda real "ibiza opening 2027 dates"; sin fechas oficiales vistas a 13/11, openings "usually" finales abr–may, anuncios "usually" ene–mar, closings sept–oct; portada fiesta_baile_atardecer) — reel_opening.mp4 / _tiktok
+- 2026-11-13 · Girls holiday Ibiza 1/3: what the group chat must sort (serie nueva, búsqueda real "girls holiday"; fechas flexibles, base, día de barco, traslado, vuelta a casa; #ad; portada atardecer_gente) — reel_girls.mp4 / _tiktok

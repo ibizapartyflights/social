@@ -76,3 +76,4 @@
 - 2026-11-11 · Story: how to use the website (phone mockup, island map with radar, 'tap the link'; TikTok version 'type it in your browser') — story_web.mp4 / story_web_tiktok.mp4 (tools/story_web.py)
 - 2026-11-13 · Hook: Don't book Ibiza 2027 until you know these 5 things (vídeo real de Rubén, cortes cada 1,8 s, texto desde el frame 0) — reel_hook5_tiktok.mp4 (tools/hook5_video.py). Parte 2 pendiente.
 - 2026-11-13 · First time in Ibiza? Follow our step-by-step (gancho con vídeo real desde el frame 0, 6 pasos de la web en un móvil, final con la dirección) — reel_firsttime_tiktok.mp4 (tools/firsttime_video.py)
+- 2026-11-13 · (rehecho) First-timer: Rubén pidió NO repetir imágenes de fiesta de un vídeo al siguiente; ahora usa su clip nuevo assets/clips/fiesta_2026-11-13.mp4

@@ -17,6 +17,7 @@ Cada tarea diaria debe:
 - Priorizar sus clips reales de fiesta y fotos; nunca muñequitos.
 - Formato serie cuando se pueda ("Ibiza club ranking 3/10", "UK airport → Ibiza 2/6") para que sigan la cuenta.
 - Palabras clave de búsqueda en el texto del vídeo y en pantalla: ibiza clubs, best ibiza clubs, flights to ibiza from london/manchester/birmingham/glasgow, ibiza boat party, ibiza 2027.
+- No repitas imágenes de fiesta de un vídeo al siguiente (Rubén, 13/11/2026): cada vídeo usa clips distintos a los del vídeo anterior; mira tools/published.md. Sus clips nuevos van en assets/clips/.
 - TikTok permite como MÁXIMO 5 hashtags por vídeo (Rubén, 11/11/2026): nunca pongas más de 5 en los textos de TikTok.
 - Pie con pregunta que invite a comentar + "Follow for part 2" cuando sea serie; sin enlaces en el pie (no se pueden pulsar).
 - Indicarle que elija un sonido en tendencia dentro de TikTok (no usar canciones con copyright en el archivo).

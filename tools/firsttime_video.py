@@ -57,9 +57,10 @@ def footage(src, ss, du, png, out, punch=True):
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', str(ss), '-t', str(du), '-i', src, '-loop', '1', '-t', str(du), '-i', png,
                     '-filter_complex', fc, '-map', '[o]', '-c:v', 'libx264', '-preset', 'medium', '-crf', '17', '-r', '30', out], check=True)
 
-footage(U, 0.2, 2.2, D + 'o_hook.png', D + 'p0.mp4')
-footage(WEB + 'lasers_red.mp4', 0.4, 1.9, D + 'o_follow.png', D + 'p1.mp4')
-footage(U, 65.5, 3.0, D + 'o_end.png', D + 'p3.mp4', punch=False)
+NEW = D + 'new_party.mp4'  # Rubén's clip sent 13/11; replaces the closing footage
+footage(NEW, 12.4, 2.2, D + 'o_hook.png', D + 'p0.mp4')
+footage(NEW, 8.4, 1.9, D + 'o_follow.png', D + 'p1.mp4')
+footage(NEW, 0.5, 3.0, D + 'o_end.png', D + 'p3.mp4', punch=False)
 
 # ---------- phone part: the site, step by step ----------
 SW = 560; SH = round(SW * 2532 / 1170); SX = (W - SW) // 2; SY = 470

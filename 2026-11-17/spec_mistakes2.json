@@ -1,0 +1,10 @@
+{"name":"reel_mistakes2","chip":"IBIZA SPAIN · PART 2/3",
+"hook_big":[["5 MORE","lime"],["MISTAKES","lime"],["BRITS MAKE","ink"]],
+"hook_mid":[["ON THEIR FIRST","ink"],["IBIZA HOLIDAY","ink"]],
+"tips":[["BRAND NEW SHOES ON NIGHT ONE","Break them in at home, you'll be on your feet for hours"],
+["SKIPPING THE SUNSET","The west coast puts it on every evening, for free"],
+["THINKING THE ISLAND IS TINY","The far north is around 40 min from the airport by car, usually"],
+["NO EU PLUG ADAPTOR","UK plugs won't fit, pack one per person"],
+["BEACH AT MIDDAY, NO SHADE","Find shade from about 12 to 4, then go back out"]],
+"end_big":"FOLLOW FOR PART 3","end_mid":"and send this to the mate who needs it","end_chip":"IBIZA 2027 · SORTED",
+"seg":[["bg:navy",0,2.3,false],["bg:night",0,1.8,false],["bg:royal",0,1.8,false],["bg:deep",0,1.8,false],["bg:lime",0,1.8,false],["bg:navy",0,1.8,false],["bg:night",0,2.4,false]]}

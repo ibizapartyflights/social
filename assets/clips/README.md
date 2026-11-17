@@ -9,3 +9,5 @@ No usar: IMG_6838 (Cova Santa, DJs reconocibles de cerca) ni el vídeo de Mason 
 NOTA 15/11/2026: los clips propios están agotados. Mientras Rubén no suba más, usar gráficos 100 % propios: mapa (tools/spots_map_video.py, amnesia_map_video.py), chat POV (tools/chat_pov_video.py) o fondos de marca con texto. Los clips de Web/video no son accesibles desde esta tarea (repo Web no autorizado en la sesión).
 
 NOTA 16/11/2026: el vídeo 'mistakes 1/3' reutiliza fragmentos del 14/11 (cyan 26, 30, 40, 46.6; purple 9.0, 14.6; crowd_pink 21.4) porque no hay clips nuevos. Mañana NO usar esos fragmentos; sin grabaciones nuevas, solo gráficos propios.
+
+NOTA 17/11/2026: sin clips nuevos; los 3 vídeos de hoy son 100 % gráficos propios (tips_video.py admite segmentos "bg:navy|royal|night|lime|deep" = olas de marca en movimiento).

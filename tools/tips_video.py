@@ -87,12 +87,37 @@ for i, (t, s) in enumerate(spec['tips'], 1): tip_png(i, t, s)
 end_png()
 
 SEG = spec['seg']; assert len(SEG) == N + 2
+# Own-graphic backgrounds (no footage): seg src "bg:<variant>" = brand-colour wave pattern scrolling
+# at a whole number of pixels per frame (crisp, no Ken Burns). Variants defined in BG below.
+import math
+BG = {'navy': ((10, 26, 143), (49, 80, 255), 'up'), 'royal': ((49, 80, 255), (10, 26, 143), 'down'),
+      'night': ((4, 7, 46), (56, 225, 255), 'left'), 'lime': ((10, 26, 143), (200, 255, 46), 'right'),
+      'deep': ((4, 7, 46), (49, 80, 255), 'down')}
+def bg_png(v):
+    base, line, _ = BG[v]; p = os.path.join(D, f'bg_{v}.png')
+    if os.path.exists(p): return p
+    im = Image.new('RGB', (W * 2, H * 2), base); d = ImageDraw.Draw(im)
+    amp, per, gap, th = 46, 360, 150, 34
+    for y0 in range(-gap, H * 2 + gap, gap):
+        pts = [(x, y0 + amp * math.sin(2 * math.pi * x / per)) for x in range(0, W * 2 + 8, 8)]
+        d.line(pts, fill=line, width=th, joint='curve')
+    im.save(p); return p
 args = ['ffmpeg', '-v', 'error', '-y']
-for src, ss, du, _ in SEG: args += ['-ss', str(ss), '-t', str(du), '-i', CL + src]
+for src, ss, du, _ in SEG:
+    if src.startswith('bg:'): args += ['-loop', '1', '-framerate', '30', '-t', str(du), '-i', bg_png(src[3:])]
+    else: args += ['-ss', str(ss), '-t', str(du), '-i', CL + src]
 for k in range(len(SEG)): args += ['-loop', '1', '-t', str(SEG[k][2]), '-i', os.path.join(D, f'o{k}.png')]
 n = len(SEG); fc = []
 for k, (src, ss, du, punch) in enumerate(SEG):
     z = "1+0.10*max(0\\,1-t/0.45)" if punch else "1"
+    if src.startswith('bg:'):
+        dx, dy = {'up': (0, 1), 'down': (0, -1), 'left': (1, 0), 'right': (-1, 0)}[BG[src[3:]][2]]
+        sp = 6  # px per frame, integer
+        cx = f"mod(n*{sp},360)" if dx > 0 else (f"360-mod(n*{sp},360)" if dx < 0 else "0")
+        cy = f"mod(n*{sp},150)" if dy > 0 else (f"150-mod(n*{sp},150)" if dy < 0 else "0")
+        fc.append(f"[{k}:v]fps=30,crop=1080:1920:'{cx}':'{cy}',setsar=1[v{k}];"
+                  f"[{n+k}:v]format=rgba,fps=30[t{k}];[v{k}][t{k}]overlay=0:0:shortest=1,format=yuv420p[s{k}]")
+        continue
     fc.append(f"[{k}:v]setpts=PTS-STARTPTS,fps=30,scale=w='trunc(1080*({z})/2)*2':h='trunc(1920*({z})/2)*2':force_original_aspect_ratio=increase:eval=frame,"
               f"crop=1080:1920,eq=contrast=1.08:saturation=1.15,setsar=1[v{k}];"
               f"[{n+k}:v]format=rgba,fps=30[t{k}];[v{k}][t{k}]overlay=0:0:shortest=1,format=yuv420p[s{k}]")

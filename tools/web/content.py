@@ -178,10 +178,10 @@ pages.append(("first-time-in-ibiza", "First time in Ibiza? What UK first-timers 
 body = f'''
 <p>The Ibiza club season runs roughly from late April to mid October. The first and last parties of each club, the openings and closings, are the busiest nights of the year, and they shape when most people book.</p>
 
-<h2>When is opening season?</h2>
-<p>Most of the big clubs open between late April and May. Opening weekends have a special energy: everyone is back on the island, and the line-ups are announced to set the tone for the summer.</p>
+<h2>When do Ibiza clubs open in 2027?</h2>
+<p>Most of the big clubs open between late April and May. Opening weekends have a special energy: everyone is back on the island, and the line-ups are announced to set the tone for the summer. The exact 2027 opening dates are set by each club, so check our 2027 dates section below before you book.</p>
 
-<h2>When are the closing parties?</h2>
+<h2>Ibiza closing parties 2026: how the season ended</h2>
 <p>Closings run from late September into mid October. In 2026 most of the big clubs closed in the second week of October. Closing parties are often the most emotional nights of the year, and the first to sell out.</p>
 
 <h2>2027 dates</h2>
@@ -205,7 +205,10 @@ pages.append(("ibiza-opening-and-closing-parties", "Ibiza opening and closing pa
   "When the season starts and ends, when 2027 dates come out, and how to book around the biggest nights.",
   "video/amnesia_crowd.jpg", body,
   [("When does the Ibiza club season start and end?", "Roughly late April or May to mid October, with openings in spring and closings from late September into October."),
-   ("When are Ibiza 2027 party dates announced?", "Clubs usually confirm their dates between January and March.")]))
+   ("When are Ibiza 2027 party dates announced?", "Clubs usually confirm their dates between January and March."),
+   ("When did the Ibiza closing parties 2026 take place?", "Closings ran from late September into October, and most of the big clubs closed in the second week of October 2026."),
+   ("When do Ibiza clubs open in 2027?", "Each club sets its own date. Openings normally fall between late April and May, but until a club confirms its 2027 date, treat any date you see online as a guess.")],
+  "2026-11-17"))
 
 # 6. Boat day
 body = f'''
@@ -314,6 +317,78 @@ pages.append(("ibiza-clubs", "Ibiza clubs: where they are, when they open and wh
    ("Is there a dress code for Ibiza clubs?", "Ibiza is relaxed: light, smart-casual summer clothes and comfortable shoes are fine almost everywhere. Keep swimwear for daytime pool parties and bring photo ID, as you must be 18 or over.")],
   "2026-11-10", "2026-11-10"))
 
+# 8. Flights from Manchester (published 2026-11-17, keyword "flights to ibiza from manchester")
+MANFLY = tp("https://www.aviasales.com/?origin=MAN&destination=IBZ", 4114, 100)
+body = f'''
+<p>Flights to Ibiza from Manchester are one of the easiest ways for groups in the North West to get to the island: one airport, a short flight and, in summer, direct routes most weeks of the season. This guide covers how long the flight takes, when direct flights run, how to search for fares without overpaying, and what to sort before you land.</p>
+
+<h2>Direct flights to Ibiza from Manchester</h2>
+<p>Ibiza is a seasonal destination, and so are most of its UK routes. Several airlines fly direct from Manchester (MAN) to Ibiza (IBZ) in the summer season, roughly from spring to October, with the most choice in June, July and August. In winter direct flights are rare or stop altogether, and you may need to change planes on the way, for example in Barcelona, Madrid or Palma.</p>
+<p>Airlines change their schedules every season, so we do not list them here: run a search for your own dates and the results will show which airlines fly direct and on which days.</p>
+{cta(MANFLY, "Search flights from Manchester to Ibiza")}
+
+<h2>How long are flights to Ibiza from Manchester?</h2>
+<p>A direct flight from Manchester to Ibiza takes around two and a half to three hours, depending on the aircraft, the route and the wind on the day. Ibiza is one hour ahead of the UK all year, so a flight that leaves at 10am lands at around 1.30pm to 2pm local time. With a change of plane the journey can take most of the day, so check the total travel time, not just the price.</p>
+
+<h2>Cheap flights to Ibiza from Manchester: how to search smarter</h2>
+<p>Nobody can promise a price, and fares move all the time. What you can control is how and when you search:</p>
+<ul>
+<li><b>Be flexible by a day or two.</b> Mid-week departures are often lower than Friday and Saturday, especially in July and August.</li>
+<li><b>Look at shoulder months.</b> Late May, June and September still have the parties and warm sea, usually with lower fares than the school holidays.</li>
+<li><b>Book big weekends early.</b> Opening and closing weekends fill up fast. Our <a href="/guides/ibiza-opening-and-closing-parties.html">opening and closing parties guide</a> explains when dates come out.</li>
+<li><b>Compare the full price.</b> Add bags and seats before you compare: a low headline fare can end up higher once a hold bag is added.</li>
+<li><b>Check nearby airports too.</b> Liverpool and Leeds Bradford may also have summer routes, and moving airport can be worth it for some dates.</li>
+</ul>
+<p>Our <a href="/guides/ibiza-on-a-budget.html">Ibiza on a budget guide</a> has more ways to keep the whole trip down, not just the flight.</p>
+
+<h2>Booking flights for a group</h2>
+<p>Group trips are where most booking mistakes happen. A few habits make it easier:</p>
+<ol>
+<li><b>Agree dates and a budget first</b>, then let one person search and share the options.</li>
+<li><b>Book together, or at least on the same day.</b> Fares can rise as seats sell, so the last person to book may pay more.</li>
+<li><b>Names must match passports exactly.</b> Changing a name later can cost a fee.</li>
+<li><b>Share hold bags sensibly.</b> One hold bag between two or three people is often cheaper than everyone paying for their own, as long as you stay within the weight limit.</li>
+<li><b>Check passports now.</b> For Spain, a UK passport must have been issued less than 10 years before the day you arrive and be valid for at least three months after the day you plan to leave. Check the latest GOV.UK travel advice for Spain before you fly.</li>
+</ol>
+
+<h2>Getting to Manchester Airport</h2>
+<p>Manchester Airport has its own railway station and a Metrolink tram stop, both linked to the terminals, so many groups can get there without a car. If you fly early in the morning, check that the first train or tram runs early enough, or book an airport hotel or parking the night before. Check which terminal your flight leaves from on your booking: it depends on the airline.</p>
+
+<h2>Packing for an Ibiza trip from Manchester</h2>
+<ul>
+<li>Check your airline's cabin bag size before you pack: rules differ and gate fees add up.</li>
+<li>Put SPF 50, sunglasses and a change of clothes in your hand luggage, in case a hold bag arrives late.</li>
+<li>Bring an EU plug adaptor and a power bank.</li>
+<li>Take your free UK GHIC card and travel insurance.</li>
+<li>Check your phone plan for roaming charges in Spain. If they are high, a travel eSIM with a data bundle is simple to set up before you leave. <a href="{ESIM}" target="_blank" rel="noopener sponsored">See Spain eSIMs on Airalo</a>.</li>
+</ul>
+
+<h2>When you land in Ibiza</h2>
+<p>Ibiza Airport is in the south of the island, close to Playa d'en Bossa and a short drive from Ibiza Town. San Antonio and Sant Rafel are further, so plan the ride before you fly. You can take the bus, queue for a taxi or pre-book a transfer with a fixed price; our <a href="/guides/ibiza-airport-to-hotel.html">Ibiza airport to hotel guide</a> compares all three. For a group landing late on a summer weekend, a pre-booked transfer is usually the least stressful option.</p>
+{cta(WPICK, "Pre-book an Ibiza airport pickup with Welcome Pickups", "line")}
+{cta(TAXI, "Compare airport transfers on Kiwitaxi", "line")}
+<p>Not sure where to stay yet? Our <a href="/guides/where-to-stay-in-ibiza.html">where to stay in Ibiza guide</a> compares the four main party areas.</p>
+
+<h2>If your flight is delayed or cancelled</h2>
+<p>If your flight arrives more than three hours late or is cancelled, you may be owed compensation under UK and EU rules. You can claim from the airline directly for free, or use a claims company that only charges if you are paid.</p>
+{cta(DELAY, "Check your flight with AirHelp", "line")}
+
+<h2>Plan the whole trip</h2>
+<p>Pick Manchester as your airport on our homepage planner, set your dates and number of travellers, and it builds the flight and hotel searches for you.</p>
+<p><a href="/?from=MAN#flights">Plan flights and hotels from Manchester for your dates →</a></p>
+'''
+pages.append(("flights-to-ibiza-from-manchester", "Flights to Ibiza from Manchester: flight time, direct routes and tips",
+  "Flights to Ibiza from Manchester explained: how long the flight takes, when direct flights run, how to search for cheaper fares, group booking tips and what to book before you land.",
+  "Flights to Ibiza from Manchester: a guide for UK groups",
+  "How long the flight is, when direct routes run, how to search for fares and what to sort before you land.",
+  "img/es_vedra_1.jpg", body,
+  [("How long are flights to Ibiza from Manchester?", "A direct flight takes around two and a half to three hours. Ibiza is one hour ahead of the UK, so add an hour when you work out your local arrival time."),
+   ("Are there direct flights to Ibiza from Manchester?", "Yes, in the summer season several airlines fly direct from Manchester to Ibiza. In winter direct flights are rare, so you may need to change in Spain. Search your dates to see which airlines fly direct."),
+   ("How can I find cheap flights to Ibiza from Manchester?", "Be flexible by a day or two, look at late May, June or September, compare the price with bags included and book big weekends early. Fares change all the time, so compare before you book."),
+   ("When is the best time to fly to Ibiza from Manchester for the parties?", "The club season runs roughly from late April to mid October. June and September have the parties with fewer crowds than July and August, while opening and closing weekends are the busiest."),
+   ("What should I book before landing in Ibiza?", "Your hotel, club tickets for the big nights and a way from the airport to your hotel. A pre-booked transfer has a fixed price and is the easiest option for a group arriving late.")],
+  "2026-11-17", "2026-11-17"))
+
 for slug, title, desc, h1, lede, img, body, *rest in pages:
     faqs = rest[0] if rest else None
     updated = rest[1] if len(rest) > 1 else "2026-11-02"
@@ -324,7 +399,7 @@ for slug, title, desc, h1, lede, img, body, *rest in pages:
 cards = "".join(f'<a class="card" href="/guides/{s}.html"><img src="/{img}" alt="" loading="lazy"><div><h2>{h1}</h2><p>{lede}</p></div></a>'
                 for s, t, d, h1, lede, img, *_ in sorted(pages, key=lambda p: p[9] if len(p) > 9 else "2026-11-02", reverse=True))
 idx = page("index", "Ibiza guides for UK party travellers · Ibiza Party Flights",
-           "Practical Ibiza guides for UK party trips: Ibiza clubs, where to stay, airport transfers, budget tips, first-timer advice, opening and closing parties and boat parties.",
+           "Practical Ibiza guides for UK party trips: flights from Manchester, Ibiza clubs, where to stay, airport transfers, budget tips, first-timer advice, opening and closing parties and boat parties.",
            "Ibiza guides", "Straight answers for planning a party trip to Ibiza from the UK.", None,
            f'</article><div class="cards">{cards}</div><article>')
 open(f"{OUT}/index.html", "w", encoding="utf-8").write(idx)

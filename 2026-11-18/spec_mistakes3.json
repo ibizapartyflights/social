@@ -1,0 +1,10 @@
+{"name":"reel_mistakes3","chip":"IBIZA SPAIN · PART 3/3",
+"hook_big":[["THE LAST 5","lime"],["MISTAKES","lime"],["BRITS MAKE","ink"]],
+"hook_mid":[["ON THEIR FIRST","ink"],["IBIZA HOLIDAY","ink"]],
+"tips":[["NO GHIC, NO TRAVEL INSURANCE","The UK GHIC is free on the official NHS site, get insurance too"],
+["BOOKING THE HOTEL WITHOUT A MAP","Check how far it is from where you'll actually go"],
+["IGNORING THE BEACH FLAGS","Red flag means no swimming, check before you dive in"],
+["NOT CHECKING YOUR CARD FEES","Ask your bank about fees abroad before you fly"],
+["NEVER LEAVING THE STRIP","Dalt Vila, the calas and the north are worth a day"]],
+"end_big":"SAVE ALL 3 PARTS","end_mid":"parts 1 and 2 are on our profile","end_chip":"IBIZA 2027 · SORTED",
+"seg":[["bg:night",0,2.3,false],["bg:royal",0,1.8,false],["bg:navy",0,1.8,false],["bg:lime",0,1.8,false],["bg:deep",0,1.8,false],["bg:night",0,1.8,false],["bg:royal",0,2.4,false]]}

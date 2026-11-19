@@ -47,18 +47,18 @@ h1{{font:800 96px/1.04 Poppins;text-transform:uppercase;margin-top:26px;letter-s
 #map{{position:absolute;left:-20px;top:850px;width:1100px}}
 svg{{display:block;width:100%;height:auto;overflow:visible}}
 .seagrid line{{stroke:#38E1FF;stroke-opacity:.08;stroke-width:.8}}.rings circle{{fill:none;stroke:#38E1FF;stroke-opacity:.14;stroke-dasharray:2 7}}
-.shadow{{fill:#000;opacity:.4}}.coast{{fill:none;stroke:#38E1FF;stroke-width:1.8}}.contours use{{fill:none;stroke:#C8FF2E;stroke-width:.9}}
-.islets ellipse{{fill:#3150FF;fill-opacity:.5;stroke:#38E1FF;stroke-width:1}}
-#mk rect{{fill:#C8FF2E;stroke:#04072E;stroke-width:2}}#mk circle{{fill:none;stroke:#C8FF2E;stroke-width:2}}
+.shadow{{fill:#000;opacity:.4}}.coast{{fill:none;stroke:#FFFFFF;stroke-width:2.2}}.contours use{{fill:none;stroke:#0A1A8F;stroke-width:1.1}}
+.islets ellipse{{fill:#C8FF2E;fill-opacity:.8;stroke:#fff;stroke-width:1}}
+#mk rect{{fill:#04072E;stroke:#fff;stroke-width:2.5}}#mk circle{{fill:none;stroke:#04072E;stroke-width:2.5}}
 #mk text{{font:700 17px 'DejaVu Sans Mono',monospace;fill:#fff;paint-order:stroke;stroke:#04072E;stroke-width:5px;stroke-linejoin:round}}
-#cross line{{stroke:#C8FF2E;stroke-opacity:.5;stroke-width:1;stroke-dasharray:3 5}}
+#cross line{{stroke:#FFFFFF;stroke-opacity:.5;stroke-width:1;stroke-dasharray:3 5}}
 #ro{{position:absolute;left:64px;top:1790px;font:700 30px 'DejaVu Sans Mono',monospace;color:#C8FF2E}}
 </style></head><body>
 <div id="top"><div class="prog" id="prog"><i></i><i></i><i></i><i></i><i></i></div><span class="num" id="num">1/4</span><h1 id="t"></h1><div class="sub" id="s"></div></div>
 <div id="map"><svg viewBox="0 0 {MW} {MH}"><defs><path id="isl" d="{ISLAND}"/><clipPath id="ic"><use href="#isl"/></clipPath>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3150FF" stop-opacity=".6"/><stop offset=".55" stop-color="#0A1A8F" stop-opacity=".8"/><stop offset="1" stop-color="#7B3CFF" stop-opacity=".55"/></linearGradient>
-<pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#38E1FF" fill-opacity=".35"/></pattern>
-<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C8FF2E" stop-opacity="0"/><stop offset="1" stop-color="#C8FF2E" stop-opacity=".4"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C8FF2E" stop-opacity=".95"/><stop offset=".6" stop-color="#9BF06A" stop-opacity=".95"/><stop offset="1" stop-color="#38E1FF" stop-opacity=".95"/></linearGradient>
+<pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#0A1A8F" fill-opacity=".35"/></pattern>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".55"/></linearGradient>
 <filter id="gl" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <g class="seagrid">{grid}</g><g class="rings">{rings}</g>
 <use href="#isl" class="shadow" transform="translate(0,10)"/><use href="#isl" fill="url(#g)"/>

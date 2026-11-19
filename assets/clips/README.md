@@ -13,3 +13,5 @@ NOTA 16/11/2026: el vídeo 'mistakes 1/3' reutiliza fragmentos del 14/11 (cyan 2
 NOTA 17/11/2026: sin clips nuevos; los 3 vídeos de hoy son 100 % gráficos propios (tips_video.py admite segmentos "bg:navy|royal|night|lime|deep" = olas de marca en movimiento).
 
 NOTA 18/11/2026: sigue sin haber clips nuevos; los 3 vídeos de hoy son 100 % gráficos propios.
+
+NOTA 19/11/2026: sigue sin haber clips nuevos (ni en el repo ni por email); los 3 vídeos de hoy son 100 % gráficos propios.

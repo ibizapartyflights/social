@@ -1,0 +1,10 @@
+{"name":"reel_boat101","chip":"IBIZA BOAT PARTY · 101",
+"hook_big":[["IBIZA BOAT","lime"],["PARTY 101","lime"]],
+"hook_mid":[["WHERE THE BOATS","ink"],["ACTUALLY GO","ink"]],
+"tips":[["SANT ANTONI BAY","Lots of party and sunset boats leave from here"],
+["WEST COAST CALAS","Day boats stop in turquoise coves for a swim"],
+["ES VEDRÀ FROM THE WATER","The famous rock, best seen from a boat"],
+["IBIZA TOWN HARBOUR","Boat trips and the Formentera ferries leave the port"],
+["FORMENTERA DAY","Usually around 30 min by fast ferry from Ibiza Town"]],
+"end_big":"WHICH BOAT ARE YOU?","end_mid":"Sunset, party or Formentera? Comment below","end_chip":"IBIZA 2027 · SORTED",
+"seg":[["stage_lasers_2026-11-20.mp4",1.3,2.4,false],["bg:lime",0,1.8,false],["bg:night",0,1.8,false],["bg:royal",0,1.8,false],["bg:deep",0,1.8,false],["bg:navy",0,1.8,false],["bg:night",0,2.4,false]]}

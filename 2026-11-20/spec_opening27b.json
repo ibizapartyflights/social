@@ -1,0 +1,10 @@
+{"name":"reel_opening27b","chip":"IBIZA OPENING 2027 · PART 2/3",
+"hook_big":[["IBIZA OPENING","lime"],["DATES 2027","lime"],["STILL NOT OUT?","ink"]],
+"hook_mid":[["SORT THESE 5","ink"],["WHILE YOU WAIT","ink"]],
+"tips":[["BOOK THE TIME OFF EARLY","Ask work now: summer weeks go fast in the office too"],
+["START A HOLIDAY POT","A little each month adds up by summer"],
+["PICK YOUR UK AIRPORT","London, Manchester, Birmingham… compare a few"],
+["OPENING, PEAK OR CLOSING?","Openings usually late April–May, closings Sept–Oct"],
+["NAME ONE PLANNER","One books, everyone pays them back on time"]],
+"end_big":"FOLLOW FOR PART 3","end_mid":"we'll post the 2027 dates once they're official","end_chip":"IBIZA 2027 · SORTED",
+"seg":[["bg:night",0,2.3,false],["bg:royal",0,1.8,false],["bg:lime",0,1.8,false],["bg:deep",0,1.8,false],["bg:navy",0,1.8,false],["bg:night",0,1.8,false],["bg:royal",0,2.4,false]]}

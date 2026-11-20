@@ -15,3 +15,5 @@ NOTA 17/11/2026: sin clips nuevos; los 3 vídeos de hoy son 100 % gráficos prop
 NOTA 18/11/2026: sigue sin haber clips nuevos; los 3 vídeos de hoy son 100 % gráficos propios.
 
 NOTA 19/11/2026: sigue sin haber clips nuevos (ni en el repo ni por email); los 3 vídeos de hoy son 100 % gráficos propios.
+
+NOTA 20/11/2026: sigue sin haber clips nuevos (ni en el repo ni por email); los 3 vídeos de hoy son 100 % gráficos propios.

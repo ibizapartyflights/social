@@ -1,0 +1,10 @@
+{"name":"reel_clubs1","chip":"IBIZA CLUBS · PART 1/3",
+"hook_big":[["IBIZA CLUBS","lime"],["FIRST TIME?","lime"]],
+"hook_mid":[["5 THINGS BRITS","ink"],["GET WRONG","ink"]],
+"tips":[["TURNING UP AT 11PM","Big club nights usually get going after 1am"],
+["PICKING THE CLUB, NOT THE NIGHT","Every night has its own line-up, check who's on"],
+["BUYING TICKETS AT THE DOOR","Popular nights can sell out, book ahead when you can"],
+["WEARING BRAND-NEW SHOES","Hours on your feet: comfy trainers win"],
+["NO PLAN FOR THE RIDE HOME","Pre-book it before the night starts and get home safe"]],
+"end_big":"FOLLOW FOR PART 2","end_mid":"Ibiza clubs explained for first-timers","end_chip":"IBIZA CLUBS · 1/3",
+"seg":[["bg:night",0,2.3,false],["bg:royal",0,1.8,false],["bg:lime",0,1.8,false],["bg:deep",0,1.8,false],["bg:navy",0,1.8,false],["bg:night",0,1.8,false],["bg:royal",0,2.4,false]]}

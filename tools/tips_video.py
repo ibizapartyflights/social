@@ -105,7 +105,7 @@ def bg_png(v):
 args = ['ffmpeg', '-v', 'error', '-y']
 for src, ss, du, _ in SEG:
     if src.startswith('bg:'): args += ['-loop', '1', '-framerate', '30', '-t', str(du), '-i', bg_png(src[3:])]
-    else: args += ['-ss', str(ss), '-t', str(du), '-i', CL + src]
+    else: args += ['-ss', str(ss), '-t', str(du), '-i', src if src.startswith('/') else CL + src]
 for k in range(len(SEG)): args += ['-loop', '1', '-t', str(SEG[k][2]), '-i', os.path.join(D, f'o{k}.png')]
 n = len(SEG); fc = []
 for k, (src, ss, du, punch) in enumerate(SEG):

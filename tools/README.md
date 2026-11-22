@@ -26,6 +26,7 @@ Cada tarea diaria debe:
 - Recordatorio de 15 min de interacción: comentar en cuentas de Ibiza/clubs/DJs y responder comentarios con vídeo.
 - Cada lunes: leer seguidores de TikTok e Instagram en Metricool (brand 7576044, TKEV07/IGEV01) y decirle a Rubén el avance hacia 1.000 y qué vídeo funcionó mejor esa semana para repetirlo.
 
+- TEMAS (22/11/2026): antes de elegir tema, busca en TODO tools/published.md (grep por palabras clave), no solo en los últimos días. Ya hechos y NO repetir: myths vs reality (3 partes), clubs explained / clubs first-timers, clubs FAQ, mistakes, don't book, opening 2027, this or that, mapas.
 - FONDOS (Rubén, 22/11/2026): el mapa y las olas ya cansan. Usa tools/kinetic_bg.py (estilos "type" y "sun", mismos colores de marca) y tips_video.py acepta rutas absolutas a esos fondos en "seg". Varía los fondos y no vuelvas al mapa salvo que Rubén lo pida.
 
 ## Identidad de marca (aprobada por Rubén el 23/10/2026)

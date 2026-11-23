@@ -24,3 +24,5 @@ NOTA 21/11/2026: sigue sin haber clips nuevos (ni en el repo ni por email); los 
 NOTA 22/11/2026: Rubén subió (1) gameplay propio de un videojuego en una discoteca (912x640, 28 s; dice que lo grabó él) — usado entero en reel_midnight; NO poner logo ni nombre del juego en pantalla ni en hashtags; (2) grabación de pantalla de la web en su móvil (16 s) — usada 0–9 s a 2x; abajo sale un reproductor "Samuel.ve": recortar siempre.
 
 NOTA 22/11/2026 (tarea diaria): sin clips nuevos en el repo ni por email; los 3 vídeos diarios de hoy son 100 % gráficos propios.
+
+NOTA 23/11/2026 (tarea diaria): sin clips nuevos en el repo ni por email; los 3 vídeos de hoy son 100 % gráficos propios (kinetic_bg con palabras distintas: EAT LOCAL, HOLA, GREEN FLAG).

@@ -12,6 +12,25 @@ WPICK="https://tpx.gr/WPxEBccV"  # Welcome Pickups, Ibiza airport transfer
 TIQ="https://tiqets.tpx.gr/heYwlurD"  # Tiqets, Ibiza attractions and boat trips
 def bk(area): return "https://www.booking.com/searchresults.html?ss="+quote(area)
 CSS=open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"guide.css")).read()
+# "Keep reading" at the end of each guide: the next guides a reader of this one usually needs.
+GUIDE_NAMES={"first-time-in-ibiza":"First time in Ibiza","where-to-stay-in-ibiza":"Where to stay in Ibiza","ibiza-clubs":"Ibiza clubs",
+ "ibiza-airport-to-hotel":"Ibiza airport to hotel","ibiza-on-a-budget":"Ibiza on a budget","ibiza-opening-and-closing-parties":"Opening and closing parties",
+ "ibiza-boat-day":"Ibiza boat party","flights-to-ibiza-from-london":"Flights from London","flights-to-ibiza-from-manchester":"Flights from Manchester"}
+NEXT={"first-time-in-ibiza":["where-to-stay-in-ibiza","ibiza-clubs","ibiza-airport-to-hotel"],
+ "where-to-stay-in-ibiza":["ibiza-clubs","ibiza-airport-to-hotel","ibiza-on-a-budget"],
+ "ibiza-clubs":["ibiza-opening-and-closing-parties","where-to-stay-in-ibiza","ibiza-boat-day"],
+ "ibiza-airport-to-hotel":["where-to-stay-in-ibiza","first-time-in-ibiza","ibiza-on-a-budget"],
+ "ibiza-on-a-budget":["where-to-stay-in-ibiza","flights-to-ibiza-from-london","ibiza-airport-to-hotel"],
+ "ibiza-opening-and-closing-parties":["ibiza-clubs","where-to-stay-in-ibiza","first-time-in-ibiza"],
+ "ibiza-boat-day":["ibiza-clubs","ibiza-on-a-budget","where-to-stay-in-ibiza"],
+ "flights-to-ibiza-from-london":["ibiza-airport-to-hotel","where-to-stay-in-ibiza","first-time-in-ibiza"],
+ "flights-to-ibiza-from-manchester":["ibiza-airport-to-hotel","where-to-stay-in-ibiza","first-time-in-ibiza"]}
+def keep_reading(slug):
+    nx=[n for n in NEXT.get(slug,[]) if os.path.exists(os.path.join(OUT,n+".html")) or n in GUIDE_NAMES][:3]
+    if not nx: return ""
+    return ('<aside class="next-guides"><h2>Keep reading</h2><div class="nlist">'
+            +"".join(f'<a href="/guides/{n}.html"><span>Next guide</span><b>{GUIDE_NAMES[n]}</b><i>→</i></a>' for n in nx)+'</div></aside>')
+
 def page(slug,title,desc,h1,lede,img,body,faqs=None,updated="2026-11-02",published="2026-11-02"):
     url=f"https://ibizapartyflights.co.uk/guides/{slug}.html" if slug!="index" else "https://ibizapartyflights.co.uk/guides/"
     graph=[{"@type":"Article","headline":h1,"description":desc,"image":f"https://ibizapartyflights.co.uk/{img}","datePublished":published,"dateModified":updated,"inLanguage":"en-GB",
@@ -76,6 +95,7 @@ try {{ if (localStorage.getItem("ipf_consent") === "yes") window.ipfLoadPartner(
 {body}
 {faqhtml}
 </article>
+{keep_reading(slug)}
 <aside class="more"><h2>Plan the trip</h2><div class="ctas">
 <a class="btn primary" href="/#flights">Flights and hotels for your dates</a>
 <a class="btn line" href="/guides/">All Ibiza guides</a></div></aside>

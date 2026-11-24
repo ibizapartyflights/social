@@ -389,6 +389,87 @@ pages.append(("flights-to-ibiza-from-manchester", "Flights to Ibiza from Manches
    ("What should I book before landing in Ibiza?", "Your hotel, club tickets for the big nights and a way from the airport to your hotel. A pre-booked transfer has a fixed price and is the easiest option for a group arriving late.")],
   "2026-11-17", "2026-11-17"))
 
+# 9. Flights from London (published 2026-11-24, keyword "flights to ibiza from london")
+LONFLY = tp("https://www.aviasales.com/?origin=LON&destination=IBZ", 4114, 100)
+body = f'''
+<p>Flights to Ibiza from London are the most common way UK groups start a party trip: the capital has several airports, the flight is short and in summer there are direct routes from more than one of them. This guide compares the London airports, explains how long the flight takes and when direct flights run, and gives practical tips for booking as a group.</p>
+
+<h2>Which London airport for flights to Ibiza?</h2>
+<p>"London" covers several airports, and which ones have direct routes to Ibiza (IBZ) changes from season to season. When you search with London as the origin, the results include all of them, so you can compare times and fares in one go. Here is what each airport is like to get to:</p>
+<ul>
+<li><b>Gatwick (LGW)</b> is south of London, with two terminals, North and South. The Gatwick Express runs from London Victoria, and Thameslink and Southern trains also stop at the airport station.</li>
+<li><b>Stansted (STN)</b> is north-east of London, in Essex, with one terminal. The Stansted Express runs from London Liverpool Street.</li>
+<li><b>Luton (LTN)</b> is north of London. Take a train to Luton Airport Parkway, then the short DART shuttle to the terminal.</li>
+<li><b>Heathrow (LHR)</b> is west of London and linked by the Elizabeth line, the Piccadilly line and the Heathrow Express from Paddington. Check which terminal your flight uses.</li>
+<li><b>London City (LCY)</b> is in east London, on the DLR. It is small and quick to get through, but has fewer routes to the Balearics.</li>
+</ul>
+<p>The best airport for your group is usually the one that is easiest for most of you to reach at the time of the flight. A cheaper fare from the far side of London can cost more once you add an early taxi or a night in an airport hotel.</p>
+{cta(LONFLY, "Search flights from London to Ibiza")}
+
+<h2>Direct flights to Ibiza from London</h2>
+<p>Ibiza is a seasonal island and most UK routes follow the club season. Several airlines fly direct from London to Ibiza in summer, roughly from spring to October, with the most choice in June, July and August. In winter direct flights are rare or stop, and you may need to change in Spain, for example in Barcelona, Madrid or Palma.</p>
+<p>Airlines and schedules change every year, so we do not list them here: search your own dates and the results show which airlines fly direct, from which London airport and on which days.</p>
+
+<h2>How long is the flight from London to Ibiza?</h2>
+<p>A direct flight from London to Ibiza takes around two and a half hours, give or take a little depending on the airport, the aircraft and the wind. Ibiza is one hour ahead of the UK all year, so a flight that leaves Gatwick at 9am lands at around 12.30pm local time. If you change planes, the trip can take most of the day, so compare the total journey time as well as the fare.</p>
+
+<h2>Cheap flights to Ibiza from London: how to search smarter</h2>
+<p>Nobody can promise a price, and fares move all the time. What you can control is how you search:</p>
+<ul>
+<li><b>Compare all London airports at once.</b> Search with London as the origin rather than one airport.</li>
+<li><b>Be flexible by a day or two.</b> Mid-week flights are often lower than Friday and Saturday in peak summer.</li>
+<li><b>Look at late May, June and September.</b> The clubs are open and the sea is warm, usually with lower fares than the school holidays.</li>
+<li><b>Book opening and closing weekends early.</b> They fill fast; our <a href="/guides/ibiza-opening-and-closing-parties.html">opening and closing parties guide</a> explains when dates are announced.</li>
+<li><b>Compare the full price.</b> Add hold bags and seats before you compare, as extras can change which flight is lower.</li>
+</ul>
+<p>For more ways to keep the whole trip down, see our <a href="/guides/ibiza-on-a-budget.html">Ibiza on a budget guide</a>.</p>
+
+<h2>Booking London to Ibiza flights for a group</h2>
+<ol>
+<li><b>Agree dates, airport and budget first</b>, then let one person search and share the options.</li>
+<li><b>Book on the same day.</b> Fares can rise as seats sell, so the last person to book may pay more.</li>
+<li><b>Names must match passports exactly.</b> Changing a name later can cost a fee.</li>
+<li><b>Share hold bags sensibly.</b> One hold bag between two or three people can work out cheaper, as long as you stay within the weight limit.</li>
+<li><b>Check passports now.</b> For Spain, a UK passport must have been issued less than 10 years before the day you arrive and be valid for at least three months after the day you plan to leave. Check the latest GOV.UK travel advice for Spain before you fly.</li>
+</ol>
+
+<h2>Early flights from London: getting to the airport</h2>
+<p>Many summer flights to Ibiza leave early in the morning. Before you book a dawn departure, check that the first train from your part of London reaches the airport in time, and allow for security queues on summer weekends. If it does not work, an airport hotel the night before or a pre-booked taxi is often less stressful than a long night with no sleep before a week of parties.</p>
+
+<h2>What to pack in your hand luggage</h2>
+<ul>
+<li>Check your airline's cabin bag size before you pack: rules differ and gate fees add up.</li>
+<li>Keep SPF 50, sunglasses and a change of clothes in your hand luggage in case a hold bag is late.</li>
+<li>Bring an EU plug adaptor, a power bank, your free UK GHIC card and travel insurance details.</li>
+<li>Check your phone plan for roaming charges in Spain. If they are high, a travel eSIM is easy to set up before you leave. <a href="{ESIM}" target="_blank" rel="noopener sponsored">See Spain eSIMs on Airalo</a>.</li>
+</ul>
+
+<h2>When you land in Ibiza</h2>
+<p>Ibiza Airport is in the south of the island, close to Playa d'en Bossa and a short drive from Ibiza Town; San Antonio is further. You can take the bus, queue for a taxi or pre-book a transfer with a fixed price, and our <a href="/guides/ibiza-airport-to-hotel.html">Ibiza airport to hotel guide</a> compares all three. For a group landing on a busy summer weekend, a pre-booked transfer saves the taxi queue.</p>
+{cta(WPICK, "Pre-book an Ibiza airport pickup with Welcome Pickups", "line")}
+{cta(TAXI, "Compare airport transfers on Kiwitaxi", "line")}
+<p>Still choosing a base? Our <a href="/guides/where-to-stay-in-ibiza.html">where to stay in Ibiza guide</a> compares the main party areas, and <a href="/guides/ibiza-clubs.html">our Ibiza clubs guide</a> shows where the big clubs are.</p>
+
+<h2>If your flight is delayed or cancelled</h2>
+<p>If your flight arrives more than three hours late or is cancelled, you may be owed compensation under UK and EU rules. You can claim from the airline directly for free, or use a claims company that only charges if you are paid.</p>
+{cta(DELAY, "Check your flight with AirHelp", "line")}
+
+<h2>Plan the whole trip</h2>
+<p>Pick London on our homepage planner, set your dates and number of travellers, and it builds the flight and hotel searches for you.</p>
+<p><a href="/?from=LON#flights">Plan flights and hotels from London for your dates →</a></p>
+'''
+pages.append(("flights-to-ibiza-from-london", "Flights to Ibiza from London: Gatwick, Stansted, Luton and Heathrow",
+  "Flights to Ibiza from London explained: which London airport to fly from, how long the flight takes, when direct flights run, how to search for cheaper fares and group booking tips.",
+  "Flights to Ibiza from London: a guide for UK groups",
+  "Which London airport to use, how long the flight is, when direct routes run and what to sort before you land.",
+  "img/islas_mar.jpg", body,
+  [("How long is the flight from London to Ibiza?", "A direct flight takes around two and a half hours. Ibiza is one hour ahead of the UK, so add an hour when you work out your local arrival time."),
+   ("Which London airports have flights to Ibiza?", "Direct routes change each season and can include Gatwick, Stansted, Luton and Heathrow. Search with London as the origin to compare every London airport for your dates."),
+   ("Are there direct flights to Ibiza from London all year?", "No. Most direct flights run in the summer season, roughly spring to October. In winter you may need to change planes in Spain."),
+   ("How can I find cheap flights to Ibiza from London?", "Compare all London airports at once, be flexible by a day or two, look at late May, June or September and compare prices with bags included. Fares change all the time, so check before you book."),
+   ("How do I get to Gatwick or Stansted for an early flight?", "The Gatwick Express runs from London Victoria and the Stansted Express from Liverpool Street. For a very early flight, check the first train for your date or stay at an airport hotel the night before.")],
+  "2026-11-24", "2026-11-24"))
+
 for slug, title, desc, h1, lede, img, body, *rest in pages:
     faqs = rest[0] if rest else None
     updated = rest[1] if len(rest) > 1 else "2026-11-02"
@@ -399,7 +480,7 @@ for slug, title, desc, h1, lede, img, body, *rest in pages:
 cards = "".join(f'<a class="card" href="/guides/{s}.html"><img src="/{img}" alt="" loading="lazy"><div><h2>{h1}</h2><p>{lede}</p></div></a>'
                 for s, t, d, h1, lede, img, *_ in sorted(pages, key=lambda p: p[9] if len(p) > 9 else "2026-11-02", reverse=True))
 idx = page("index", "Ibiza guides for UK party travellers · Ibiza Party Flights",
-           "Practical Ibiza guides for UK party trips: flights from Manchester, Ibiza clubs, where to stay, airport transfers, budget tips, first-timer advice, opening and closing parties and boat parties.",
+           "Practical Ibiza guides for UK party trips: flights from London and Manchester, Ibiza clubs, where to stay, airport transfers, budget tips, first-timer advice, opening and closing parties and boat parties.",
            "Ibiza guides", "Straight answers for planning a party trip to Ibiza from the UK.", None,
            f'</article><div class="cards">{cards}</div><article>')
 open(f"{OUT}/index.html", "w", encoding="utf-8").write(idx)

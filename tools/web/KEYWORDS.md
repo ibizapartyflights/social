@@ -9,7 +9,7 @@ Usa la palabra clave exacta en el <title>, el H1, la URL y la primera frase; var
 |---|---|---|---|---|---|---|
 | 1 | ✅ ibiza-clubs.html (publicada 10/11/2026) | ibiza clubs | 9.900 | 25 | best ibiza clubs (2.400, SD16), ibiza clubs san antonio (1.000), map of ibiza clubs (480), ibiza clubs calendar (390), famous ibiza clubs, when do ibiza clubs open/close, dress code for ibiza clubs, are ibiza clubs open in november | Vuelos + traslados + hoteles por zona |
 | 2 | ✅ flights-to-ibiza-from-manchester.html (publicada 17/11/2026) | flights to ibiza from manchester | 2.400 | 20 | cheap flights to ibiza from manchester, how long are flights to ibiza | Aviasales con origen MAN |
-| 3 | flights-to-ibiza-from-london.html | flights to ibiza from london | 5.400 | 33 | gatwick, stansted, luton, heathrow, london city | Aviasales con origen LON |
+| 3 | ✅ flights-to-ibiza-from-london.html (publicada 24/11/2026) | flights to ibiza from london | 5.400 | 33 | gatwick, stansted, luton, heathrow, london city | Aviasales con origen LON |
 | 4 | ibiza-in-september.html | ibiza in september | 480 | 19 | weather in ibiza in september (3.600–4.400, SD20), things to do in ibiza in september, flights to ibiza in september, closing parties | Vuelos + barcos (Tiqets) |
 | 5 | flights-to-ibiza-from-birmingham.html | flights to ibiza from birmingham | 1.300 | 21 | | Aviasales BHX |
 | 6 | flights-to-ibiza-from-glasgow.html | flights to ibiza glasgow | 1.300 | 20 | flights to ibiza from scotland | Aviasales GLA |

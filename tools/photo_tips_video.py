@@ -18,6 +18,7 @@ PM = '/usr/share/fonts/truetype/google-fonts/Poppins-Medium.ttf'
 MONO = '/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf'
 F = ImageFont.truetype
 N = len(spec['tips'])
+DY = -640 if spec.get('layout') == 'top' else 0  # 'top': text over the sky, for scene videos from beach_scene_bg.py
 DUR = [2.3] + [1.9] * N + [2.6]
 
 def wrap(d, text, font, maxw):
@@ -64,7 +65,7 @@ def chip(d, x, y, s, font, bg, fg=BLK, pad=(18, 10)):
 # layers: static = drawn from frame 0; slide = slides up 60 px over 8 frames (integer px)
 def hook():
     a = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(a)
-    y = 1010; y = chip(d, 70, y, spec['chip'], F(MONO, 38), LIME) + 26
+    y = 1010 + DY; y = chip(d, 70, y, spec['chip'], F(MONO, 38), LIME) + 26
     ls, sz = spec['hook_big'], 150
     while sz > 60 and any(d.textlength(s, font=F(PB, sz)) > W - 140 for s in ls): sz -= 4
     big = F(PB, sz)
@@ -76,10 +77,10 @@ def hook():
 def tip(i, title, sub, tag):
     a = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(a); progress(d, i)
     nf = F(PB, 300); s = f'{i:02d}'
-    d.text((52, 820), s, font=nf, fill=(0, 0, 0, 0), stroke_width=4, stroke_fill=LIME)
+    d.text((52, 820 + DY + (80 if DY else 0)), s, font=nf, fill=(0, 0, 0, 0), stroke_width=4, stroke_fill=LIME)
     a.save(os.path.join(D, f'a{i}.png'))
     b = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(b)
-    y = chip(d, 70, 1180, tag, F(MONO, 36), CYAN) + 24
+    y = chip(d, 70, 1180 + DY + (60 if DY else 0), tag, F(MONO, 36), CYAN) + 24
     tf, ls = fit_lines(d, title, PB, 118, W - 140, 2)
     for s2 in ls: st(d, (64, y), s2, tf, INK, 6); y += int(tf.size * 1.06)
     y += 12; sf = F(PM, 50)
@@ -89,8 +90,8 @@ def tip(i, title, sub, tag):
 
 def end():
     k = N + 1; a = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(a)
-    sl = seal(210); a.paste(sl, (70, 880), sl)
-    bf, ls = fit_lines(d, spec['end_big'], PB, 140, W - 140, 2); y = 1120
+    sl = seal(210); a.paste(sl, (70, 880 + DY), sl)
+    bf, ls = fit_lines(d, spec['end_big'], PB, 140, W - 140, 2); y = 1120 + DY
     for s in ls: st(d, (64, y), s, bf, LIME, 7); y += int(bf.size * 1.04)
     mf = F(PB, 62)
     for s in wrap(d, spec['end_mid'], mf, W - 150): st(d, (68, y), s, mf, INK, 5); y += 76
@@ -102,16 +103,27 @@ def end():
 hook()
 for i, (t, s, tag, _) in enumerate(spec['tips'], 1): tip(i, t, s, tag)
 end()
+def video_bg(path, k):
+    # top shade (night blue) behind the text block for scene videos
+    g = Image.new('L', (1, H))
+    for y in range(H): g.putpixel((0, y), int(165 * max(0.0, min(1.0, (1000 - y) / 650)) ** 0.9))
+    m = Image.new('RGBA', (W, H), NIGHT + (0,)); m.putalpha(g.resize((W, H)))
+    p = os.path.join(D, f'shade{k}.png'); m.save(p); return path, p
 photos = [spec['hook_photo']] + [t[3] for t in spec['tips']] + [spec['end_photo']]
-bgs = [photo_bg(p if p.startswith('/') else os.path.join(ROOT, p), k) for k, p in enumerate(photos)]
+photos = [p if p.startswith('/') else os.path.join(ROOT, p) for p in photos]
+bgs = [video_bg(p, k) if p.endswith('.mp4') else (photo_bg(p, k), None) for k, p in enumerate(photos)]
 n = len(bgs); args = ['ffmpeg', '-v', 'error', '-y']
 for k in range(n):
-    for src in (bgs[k], os.path.join(D, f'a{k}.png'), os.path.join(D, f'b{k}.png')):
-        args += ['-loop', '1', '-framerate', '30', '-t', str(DUR[k]), '-i', src]
+    src, sh = bgs[k]
+    if sh: args += ['-t', str(DUR[k]), '-i', src]
+    else: args += ['-loop', '1', '-framerate', '30', '-t', str(DUR[k]), '-i', src]
+    for o in (sh or os.path.join(D, 'none.png'), os.path.join(D, f'a{k}.png'), os.path.join(D, f'b{k}.png')):
+        args += ['-loop', '1', '-framerate', '30', '-t', str(DUR[k]), '-i', o]
+Image.new('RGBA', (W, H), (0, 0, 0, 0)).save(os.path.join(D, 'none.png'))
 fc = []
 for k in range(n):
-    b, a, s = 3 * k, 3 * k + 1, 3 * k + 2
-    fc.append(f"[{b}:v]format=yuv420p,setsar=1[p{k}];[p{k}][{a}:v]overlay=0:0[q{k}];"
+    b, h, a, s = 4 * k, 4 * k + 1, 4 * k + 2, 4 * k + 3
+    fc.append(f"[{b}:v]fps=30,setpts=PTS-STARTPTS,format=yuv420p,setsar=1[r{k}];[r{k}][{h}:v]overlay=0:0[p{k}];[p{k}][{a}:v]overlay=0:0[q{k}];"
               f"[q{k}][{s}:v]overlay=x=0:y='max(0\\,60-trunc(n*60/8))',format=yuv420p[s{k}]")
 fc.append(''.join(f'[s{k}]' for k in range(n)) + f'concat=n={n}:v=1:a=0[out]')
 args += ['-filter_complex', ';'.join(fc), '-map', '[out]', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18',

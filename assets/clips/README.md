@@ -30,3 +30,5 @@ NOTA 23/11/2026 (tarea diaria): sin clips nuevos en el repo ni por email; los 3 
 NOTA 24/11/2026 (tarea diaria): sin clips nuevos en el repo ni por email; los 3 vídeos de hoy son 100 % gráficos propios (kinetic_bg: WALK IT, VALE, RED FLAG).
 
 NOTA 25/11/2026 (tarea diaria): sin clips nuevos en el repo ni por email; los 3 vídeos de hoy son 100 % gráficos propios (kinetic_bg: FORMENTERA, GRACIAS, HOT TAKE).
+
+NOTA 26/11/2026 (tarea diaria): sin clips nuevos ni imágenes de Leonardo en el repo ni por email; los 3 vídeos de hoy son 100 % gráficos propios (beach_scene_bg + kinetic_bg: TAKE HOME, HOT TAKE; chat POV).

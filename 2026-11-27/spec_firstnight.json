@@ -1,4 +1,4 @@
-{"name": "reel_firstnight", "chip": "IBIZA SPAIN · POV", "hook_big": ["POV: YOUR FIRST", "NIGHT IN IBIZA"], "hook_mid": "Ibiza Spain, hour by hour", "hook_photo": "assets/leonardo/2026-11-27/f0_hook.jpg",
+{"name": "reel_firstnight", "layout": "safe", "chip": "IBIZA SPAIN · POV", "hook_big": ["POV: YOUR FIRST", "NIGHT IN IBIZA"], "hook_mid": "Ibiza Spain, hour by hour", "hook_photo": "assets/leonardo/2026-11-27/f0_hook.jpg",
  "tips": [["9PM · OLD TOWN", "Wander Dalt Vila's cobbled lanes as the lights come on", "IBIZA TOWN", "assets/leonardo/2026-11-27/f1.jpg"],
           ["10PM · DINNER", "Dinner at 10 is normal here. Grab a harbour table", "EAT LATE", "assets/leonardo/2026-11-27/f2.jpg"],
           ["MIDNIGHT · THE MARINA", "Everyone's out. The night's only just starting", "WARM UP", "assets/leonardo/2026-11-27/f3.jpg"],

@@ -18,7 +18,9 @@ PM = '/usr/share/fonts/truetype/google-fonts/Poppins-Medium.ttf'
 MONO = '/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf'
 F = ImageFont.truetype
 N = len(spec['tips'])
-DY = -640 if spec.get('layout') == 'top' else 0  # 'top': text over the sky, for scene videos from beach_scene_bg.py
+SAFE = spec.get('layout') == 'safe'  # 'safe': text block raised and narrowed to clear TikTok's caption + right-hand buttons
+DY = -640 if spec.get('layout') == 'top' else (-430 if SAFE else 0)  # 'top': text over the sky, for scene videos from beach_scene_bg.py
+MW = W - 250 if SAFE else W - 140  # max text width
 DUR = [2.3] + [1.9] * N + [2.6]
 
 def wrap(d, text, font, maxw):
@@ -43,7 +45,7 @@ def photo_bg(path, k):
     # brand grade: slight contrast + night-blue gradient bottom 60 %, light top shade for the progress bar
     g = Image.new('L', (1, H))
     for y in range(H):
-        t = max(0.0, (y - H * 0.38) / (H * 0.62)); top = max(0.0, (260 - y) / 260)
+        t = max(0.0, (y - H * (0.18 if SAFE else 0.38)) / (H * (0.82 if SAFE else 0.62))); top = max(0.0, (260 - y) / 260)
         g.putpixel((0, y), int(255 * min(1, 0.92 * t ** 1.15 + 0.45 * top)))
     im = Image.composite(Image.new('RGB', (W, H), NIGHT), im, g.resize((W, H)))
     p = os.path.join(D, f'bg{k}.png'); im.save(p); return p
@@ -67,11 +69,11 @@ def hook():
     a = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(a)
     y = 1010 + DY; y = chip(d, 70, y, spec['chip'], F(MONO, 38), LIME) + 26
     ls, sz = spec['hook_big'], 150
-    while sz > 60 and any(d.textlength(s, font=F(PB, sz)) > W - 140 for s in ls): sz -= 4
+    while sz > 60 and any(d.textlength(s, font=F(PB, sz)) > MW for s in ls): sz -= 4
     big = F(PB, sz)
     for s in ls: st(d, (64, y), s, big, INK, 7); y += int(big.size * 1.02)
     y += 14; mf = F(PB, 62)
-    for s in wrap(d, spec['hook_mid'], mf, W - 140): st(d, (68, y), s, mf, LIME, 5); y += 74
+    for s in wrap(d, spec['hook_mid'], mf, MW): st(d, (68, y), s, mf, LIME, 5); y += 74
     a.save(os.path.join(D, 'a0.png')); Image.new('RGBA', (W, H), (0, 0, 0, 0)).save(os.path.join(D, 'b0.png'))
 
 def tip(i, title, sub, tag):
@@ -81,23 +83,23 @@ def tip(i, title, sub, tag):
     a.save(os.path.join(D, f'a{i}.png'))
     b = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(b)
     y = chip(d, 70, 1180 + DY + (60 if DY else 0), tag, F(MONO, 36), CYAN) + 24
-    tf, ls = fit_lines(d, title, PB, 118, W - 140, 2)
+    tf, ls = fit_lines(d, title, PB, 118, MW, 2)
     for s2 in ls: st(d, (64, y), s2, tf, INK, 6); y += int(tf.size * 1.06)
     y += 12; sf = F(PM, 50)
-    for s2 in wrap(d, sub, sf, W - 150): st(d, (68, y), s2, sf, INK, 4); y += 64
+    for s2 in wrap(d, sub, sf, MW - 10): st(d, (68, y), s2, sf, INK, 4); y += 64
     d.rectangle((70, y + 20, 190, y + 30), fill=LIME)
     b.save(os.path.join(D, f'b{i}.png'))
 
 def end():
     k = N + 1; a = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(a)
     sl = seal(210); a.paste(sl, (70, 880 + DY), sl)
-    bf, ls = fit_lines(d, spec['end_big'], PB, 140, W - 140, 2); y = 1120 + DY
+    bf, ls = fit_lines(d, spec['end_big'], PB, 140, MW, 2); y = 1120 + DY
     for s in ls: st(d, (64, y), s, bf, LIME, 7); y += int(bf.size * 1.04)
     mf = F(PB, 62)
-    for s in wrap(d, spec['end_mid'], mf, W - 150): st(d, (68, y), s, mf, INK, 5); y += 76
+    for s in wrap(d, spec['end_mid'], mf, MW - 10): st(d, (68, y), s, mf, INK, 5); y += 76
     y = chip(d, 70, y + 24, spec['end_chip'], F(MONO, 42), INK) + 24
     st(d, (70, y), '@ibizapartyflights', F(PM, 46), CYAN, 4)
-    if spec.get('credit'): d.text((70, H - 120), spec['credit'], font=F(PM, 26), fill=(255, 255, 255, 170))
+    if spec.get('credit'): d.text((70, y + 80 if SAFE else H - 120), spec['credit'], font=F(PM, 26), fill=(255, 255, 255, 170))
     a.save(os.path.join(D, f'a{k}.png')); Image.new('RGBA', (W, H), (0, 0, 0, 0)).save(os.path.join(D, f'b{k}.png'))
 
 hook()

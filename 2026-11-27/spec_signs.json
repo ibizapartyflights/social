@@ -1,0 +1,7 @@
+{"name": "reel_signs", "layout": "top", "chip": "IBIZA SPAIN · READ THE MAP", "hook_big": ["5 IBIZA WORDS", "BRITS CAN'T READ"], "hook_mid": "They're on every sign and map on the island", "hook_photo": "SCRATCH/sg/s0.mp4",
+ "tips": [["CALA", "A small cove. Cala Comte, Cala Bassa, Cala Salada", "COVE", "SCRATCH/sg/s1.mp4"],
+          ["PLATJA", "Beach. Platja d'en Bossa is just 'Bossa beach'", "BEACH", "SCRATCH/sg/s2.mp4"],
+          ["ES / SA", "The island's word for 'the'. Es Vedrà, Sa Talaia", "THE", "SCRATCH/sg/s3.mp4"],
+          ["SANT / SANTA", "Saint. Half the villages start with it", "SAINT", "SCRATCH/sg/s4.mp4"],
+          ["FAR", "Lighthouse. Not 'far'. Great sunset spots", "LIGHTHOUSE", "SCRATCH/sg/s5.mp4"]],
+ "end_big": "HOW MANY DID YOU KNOW?", "end_mid": "Comment your score out of 5. Follow for more Ibiza Spain", "end_chip": "IBIZA SPAIN · SAVE IT", "end_photo": "SCRATCH/sg/s6.mp4"}

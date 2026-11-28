@@ -128,4 +128,14 @@
 - 2026-11-26 · 5 MORE unpopular Ibiza opinions, part 2 (formato comments_video.py; amanecer > atardecer, Ibiza Town > Sant Antoni, piscina > barco, reservar en noviembre, la despedida en el aeropuerto; "Follow for part 3"; "Comments dramatised for fun") — SIN clips: kinetic_bg "HOT TAKE" — reel_hottakes3.mp4 / _tiktok (spec_hottakes3.json)
 - 2026-11-26 · POV: Black Friday hits the Ibiza group chat (chat 100 % gráfico propio, nombres inventados; sin ofertas ni urgencia: alerta de vuelos, acordar fechas + presupuesto, cancelación gratis, hucha; "NO RUSH"; "Tag your Dan") — sin clips — reel_bfchat.mp4 / _tiktok (spec_bfchat.json)
 
+- 2026-11-27 · 5 Ibiza fiestas Brits never see, Ibiza Spain (Nit de Sant Joan 23 jun, Ibiza Medieval "usually May", Festes de la Terra principios de agosto, Sant Bartomeu "usually 24 Aug", ball pagès) — SIN clips: beach_scene_bg + kinetic_bg "FIESTA" — reel_fiestas.mp4 / _tiktok (spec_fiestas.json). Instagram por Metricool 18:30.
+- 2026-11-27 · 5 Ibiza words Brits can't read (cala, platja, es/sa, sant/santa, far) — SIN clips: escenas propias — reel_signs.mp4 / _tiktok (spec_signs.json)
+- 2026-11-27 · The LAST 5 unpopular Ibiza opinions, part 3/3 (comments_video.py; cierra serie hot takes) — reel_hottakes4.mp4 / _tiktok (spec_hottakes4.json)
+- 2026-11-27 · POV: your first night in Ibiza (imágenes de Leonardo de Rubén, layout "safe", sin crédito IA en pantalla) — reel_firstnight.mp4 / _tiktok (spec_firstnight.json)
+- 2026-11-28 · 5 Ibiza islands Brits never notice, Ibiza Spain (repite formato "5 X Brits never…" = TikTok más visto de la semana, souvenirs 693 vis.; Es Vedrà, Tagomago, Sa Conillera "legend links it to Hannibal", Espalmador, S'Espartar reserva natural) — SIN clips: beach_scene_bg (island, sunset, longbeach, spit) + kinetic_bg "ISLANDS" — reel_islets.mp4 / _tiktok (spec_islets.json). Instagram por Metricool 18:30.
+- 2026-11-28 · Ibiza clubs: 5 MORE things Brits get wrong, part 2/3 (continúa la parte 1 subida a TikTok el 24/11 con "Follow for part 2"; sin ID 18+, sin punto de encuentro, móvil al 5 %, solo la sala principal, sin pausas/agua; sin alcohol) — SIN clips: kinetic_bg type/sun "CLUB NIGHT" — reel_clubs2.mp4 / _tiktok (spec_clubs2.json). Parte 3 pendiente.
+- 2026-11-28 · POV: someone says "villa" in the Ibiza group chat (chat 100 % gráfico propio, nombres inventados; villa a 40 min → pre-reservar vueltas, plan 3 noches ciudad + 4 villa; "Tag your Priya") — sin clips — reel_villachat.mp4 / _tiktok (spec_villachat.json)
+
+NOTA 28/11/2026 (tarea diaria): sin clips nuevos ni imágenes de Leonardo para hoy en el repo ni por email; los 3 vídeos de hoy son 100 % gráficos propios.
+
 NOTA 27/11/2026 (tarea diaria): sin clips nuevos ni imágenes de Leonardo en el repo ni por email; los 3 vídeos de hoy son 100 % gráficos propios (beach_scene_bg + kinetic_bg: FIESTA, palabras del mapa, HOT TAKE).
